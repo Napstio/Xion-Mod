@@ -1,0 +1,1743 @@
+- id: 16214
+  fr: >
+    Axel a dit que Naminé est dans le donjon.
+  gr: >
+    Axel sagte, Naminé wäre im Schlosskerker.
+  it: >-
+    Axel ha detto che
+
+
+    Naminé è nelle segrete.
+  sp: >-
+    Según Axel, Naminé está
+
+
+    en las mazmorras.
+  en: >
+    Axel said Naminé´s in the dungeon.
+- id: 16216
+  fr: >
+    Xion !
+  gr: >
+    Xion!
+  it: >
+    Xion!
+  sp: >
+    ¡Xion!
+  en: >
+    Xion!
+- id: 16241
+  fr: >
+    Tu dois être fatigué, Xion.
+  gr: >
+    Du bist bloß erschöpft, Xion.
+  it: >
+    Devi essere stanco, Xion.
+  sp: >
+    Estarás cansado, Xion.
+  en: >
+    You must be tired, Xion.
+- id: 16243
+  fr: >
+    Naminé, tu as été géniale !
+  gr: >
+    Naminé, du warst klasse!
+  it: >
+    Naminé, sei stata grande!
+  sp: >
+    ¡Naminé, has estado genial!
+  en: >
+    Naminé, you were great!
+- id: 16245
+  fr: >
+    Tu as changé, Naminé.{:delay 5A 00}{:clear }Je suis si content de te revoir !
+  gr: >
+    Du hast dich verändert, Naminé.{:delay 5A 00}{:clear }Aber bin ich froh, dich
+    zu sehen!
+  it: >
+    Sei diversa, Naminé...{:delay 5A 00}{:clear }... ma sono felice che tu sia qui!
+  sp: >
+    Te veo cambiada, Naminé, {:delay 5A 00}{:clear }¡pero me alegra que estés aquí!
+  en: >
+    You are different, Naminé,{:delay 5A 00}{:clear }but I´m just glad you´re here!
+- id: 16251
+  fr: >
+    Tu as sauvé Naminé, n'est-ce pas ?{:delay 5D 00}{:clear }  {:delay 3C 00}{:clear
+    }Je t'en suis terriblement reconnaissant.{:delay 6B 00}{:clear }  {:delay 4A 00}{:clear
+    }Merci.
+  gr: >
+    Aber du hast Naminé gerettet, stimmt's?{:delay 78 00}{:clear }{:delay 28 00}{:clear
+    }Dafür muss ich dir dankbar sein.{:delay 64 00}{:clear }{:delay 28 00}{:clear
+    }Danke.
+  it: >
+    Però hai salvato Naminé, giusto?{:delay 5D 00}{:clear } {:delay 3C 00}{:clear
+    }Devo esserti grato per questo...{:delay 6B 00}{:clear } {:delay 4A 00}{:clear
+    }Grazie.
+  sp: >
+    Pero has salvado a Naminé, ¿no? {:delay 70 00}{:clear } {:delay 2B 00}{:clear
+    }Eso te lo agradezco... {:delay 5E 00}{:clear } {:delay 50 00}{:clear }Gracias.
+  en: >
+    But you saved Naminé, right?{:delay 5D 00}{:clear } {:delay 3C 00}{:clear }I have
+    to be grateful for that...{:delay 6B 00}{:clear } {:delay 4A 00}{:clear }Thanks.
+- id: 16254
+  fr: >
+    Naminé, qu'est-ce que tu viens de dire ?
+  gr: >
+    Naminé, was hast du grade gesagt?
+  it: >
+    Naminé, che cos'hai detto?
+  sp: >
+    Naminé, ¿qué acabas de decir?
+  en: >
+    Naminé, what did you just say?
+- id: 16257
+  fr: >
+    Xion, approche. Dis-lui quelque chose.
+  gr: >
+    Xion, komm her. Sag bitte was zu ihm.
+  it: >-
+    Xion, vieni qui.
+
+
+    Digli tu qualcosa.
+  sp: >
+    Xion, ven aquí.{:delay 5A 00}{:clear }{:delay 21 00}Dile algo tú.
+  en: >
+    Xion, come here. Say something to him.
+- id: 16263
+  fr: >
+    Xion, ressaisis-toi. Ah, quel pleurnichard...
+  gr: >
+    Komm schon, Xion. Reiß dich zusammen.
+  it: >-
+    Avanti, Xion.
+
+
+    Cerca di riprenderti.
+  sp: >
+    Vamos, Xion... tienes que comportarte.
+  en: >
+    C´mon, Xion. You´ve got to pull it together.
+- id: 16269
+  fr: >-
+    Je commençais à me demander
+
+
+    si vous alliez comprendre un jour.{:delay 9C 00}{:clear }  {:delay 3C 00}{:clear
+    }Faut dire, les amis de Xion
+
+    n'ont jamais été très futés.
+  gr: >-
+    Ich war schon in Sorge, dass ihr's nicht kapiert.{:delay 96 00}{:clear }{:delay
+    2F 00}{:clear }Xion hat sich noch nie die cleversten
+
+
+    Freunde ausgesucht.
+  it: >-
+    Iniziavo a temere che
+
+
+    non li avreste capiti.{:delay 9C 00}{:clear } {:delay 3C 00}{:clear }Xion non
+    si è mai scelto
+
+    amici particolarmente svegli.
+  sp: >-
+    Empezaba a temer que no
+
+
+    os ibais a enterar nunca. {:delay 9C 00}{:clear } {:delay 3C 00}{:clear }Xion
+    no solía tener amigos muy listos.
+  en: >-
+    I was starting to worry you guys weren´t
+
+
+    ever gonna catch on.{:delay 9C 00}{:clear } {:delay 3C 00}{:clear }Xion never
+    did pick the brightest friends.
+- id: 16291
+  fr: >
+    Xion ! Où es-tu ?
+  gr: >
+    Xion! Wo bist du?
+  it: >
+    Xion! Dove sei?
+  sp: >
+    ¡Xion! ¿Dónde estás?
+  en: >
+    Xion! Where are you?
+- id: 16292
+  fr: >
+    Xion, réponds-nous !
+  gr: >
+    Xion, antworte!
+  it: >
+    Xion, rispondimi!
+  sp: >
+    ¡Xion! ¡Contéstame!
+  en: >
+    Xion, answer me!
+- id: 16312
+  fr: >
+    À l'intérieur, on ne pourra pas faire demi-tour.{:delay 87 00}{:clear }{:delay
+    36 00}C'est la victoire... ou l'anéantissement.{:delay 8E 00}{:clear }{:delay
+    46 00}Alors, Xion... tu te sens d'attaque ?
+  gr: >
+    Wenn wir da durchgehen, gibt es kein Zurück.{:delay 83 00}{:clear }{:delay 34
+    00}{:clear }Nur Sieg oder Untergang.{:delay A0 00}{:clear }{:delay 40 00}{:clear
+    }Und, Xion, bist du bereit?
+  it: >-
+    Una volta entrati,
+
+
+    non potremo più tornare indietro.{:delay 87 00}{:clear }{:delay 36 00}Sarà la
+    vittoria... o l'oblio.{:delay 8E 00}{:clear }{:delay 46 00}Allora, Xion, sei
+    pronto?
+  sp: >-
+    Una vez que entremos,
+
+
+    no hay vuelta atrás. {:delay 78 00}{:clear }{:delay 3D 00}Es la victoria...{:delay
+    43 00}{:clear }{:delay 17 00}o el olvido. {:delay 32 00}{:clear }{:delay 46 00}Xion...{:delay
+    26 00}{:clear }{:delay 36 00}¿estás listo?
+  en: >-
+    Once we go through, there´s
+
+
+    no turning back.{:delay 87 00}{:clear }{:delay 36 00}It´s victory...or oblivion.{:delay
+    8E 00}{:clear }{:delay 46 00}So, Xion...are you ready?
+- id: 16337
+  fr: >
+    Merci, Kairi.
+  gr: >
+    Danke, Kairi.
+  it: >
+    Grazie, Kairi.
+  sp: >
+    Gracias, Kairi.
+  en: >
+    Thank you, Kairi.
+- id: 16349
+  fr: >-
+    Oui.{:delay 46 00}{:clear }À chaque fois que Xion et Naminé
+
+
+    seront ensemble.
+  gr: >
+    Richtig.{:delay 3C 00}{:clear }Immer, wenn Xion und Naminé zusammen sind.
+  it: >-
+    Esatto!{:delay 5C 00}{:clear }Ogni volta che Xion
+
+
+    e Naminé sono insieme.
+  sp: >
+    Sí.{:delay 5C 00}{:clear }Siempre que Xion y Naminé lo estén.
+  en: >
+    Right.{:delay 5C 00}{:clear }Anytime Xion and Naminé are together.
+- id: 16350
+  fr: >
+    On se verra tous les jours.{:delay 5A 00}{:clear }  {:delay 0C 00}{:clear }Pas
+    vrai, Xion ?
+  gr: >-
+    Das werden wir jeden Tag
+
+
+    sein, stimmt's, Xion?
+  it: >-
+    Staremo insieme ogni giorno.
+
+
+    Vero, Xion?
+  sp: >-
+    Estaremos juntos todos los días,
+
+
+    ¿verdad, Xion?
+  en: >-
+    We´ll be together every day.
+
+
+    Right, Xion?
+- id: 16357
+  fr: >
+    Xion ! Riku !
+  gr: >
+    Xion! Riku!
+  it: >
+    Xion! Riku!
+  sp: >
+    ¡Xion! ¡Riku!
+  en: >
+    Xion! Riku!
+- id: 16360
+  fr: >
+    Xion !
+  gr: >
+    Xion!
+  it: >
+    Xion!
+  sp: >
+    ¡Xion!
+  en: >
+    Xion!
+- id: 16367
+  fr: >
+    {:delay 6D 00}{:clear }Xion...{:delay 77 00}{:clear }J'abandonne.
+  gr: >
+    {:delay 87 00}{:clear }Xion ...{:delay 5A 00}{:clear }... ich kann nicht ...
+  it: >
+    {:delay 6D 00}{:clear }Xion...{:delay 77 00}{:clear }Non ce la faccio...
+  sp: >
+    {:delay 6D 00}{:clear }Xion... {:delay 77 00}{:clear }no puedo...
+  en: >
+    {:delay 6D 00}{:clear }Xion...{:delay 77 00}{:clear }I can´t...
+- id: 16371
+  fr: >
+    Xion ?
+  gr: >
+    Xion?
+  it: >
+    Xion?
+  sp: >
+    Xion...
+  en: >
+    Xion?
+- id: 16390
+  fr: >
+    Xion... Bien joué, petit.
+  gr: >
+    Xion, du hast dich wacker geschlagen.
+  it: >
+    Xion, hai fatto un buon lavoro.
+  sp: >
+    Xion... Lo has hecho bien.
+  en: >
+    Xion... You´ve done well.
+- id: 16391
+  fr: >
+    Où est Naminé ?
+  gr: >
+    Wo ist Naminé?
+  it: >
+    Dov'è Naminé?
+  sp: >
+    ¿Dónde está Naminé?
+  en: >
+    Where´s Naminé?
+- id: 16401
+  fr: >
+    Xion !
+  gr: >
+    Xion!
+  it: >
+    Xion!
+  sp: >
+    ¡Xion!
+  en: >
+    Xion!
+- id: 16402
+  fr: >
+    Xion ! Te voilà enfin !
+  gr: >
+    Xion! Du bist es wirklich!
+  it: >-
+    Xion!
+
+
+    Sei davvero tu!
+  sp: >
+    ¡Xion! ¡Eres tú de verdad!
+  en: >
+    Xion! It´s really you!
+- id: 16403
+  fr: >
+    Naminé !
+  gr: >
+    Naminé!
+  it: >
+    Naminé!
+  sp: >
+    ¡Naminé!
+  en: >
+    Naminé!
+- id: 16404
+  fr: >
+    Laissez-le tranquille !
+  gr: >
+    Lasst Xion in Frieden!
+  it: >
+    Lasciate in pace Xion!
+  sp: >
+    ¡Dejad en paz a Xion!
+  en: >
+    You leave Xion alone!
+- id: 16405
+  fr: >
+    Xion...
+  gr: >
+    Xion ...!
+  it: >
+    Xion!
+  sp: >
+    ¡Xion...!
+  en: >
+    Xion--!
+- id: 16408
+  fr: >
+    Xion ne s'en sortira pas sans nous.{:delay 8A 00}{:clear }  {:delay 12 00}{:clear
+    }Riku, combats avec moi !
+  gr: >
+    Du weißt ja, Xion ist ohne uns aufgeschmissen!{:delay B6 00}{:clear }Komm schon,
+    Riku!
+  it: >-
+    Xion non ha speranze
+
+
+    senza di noi!{:delay A0 00}{:clear }{:delay 1E 00}{:clear }Forza, Riku!
+  sp: >-
+    Ya sabes que Xion está
+
+
+    indefenso sin nosotros. {:delay A0 00}{:clear }{:delay 1E 00}{:clear }¡Vamos,
+    Riku!
+  en: >-
+    You know Xion´s completely
+
+
+    hopeless without us!{:delay A0 00}{:clear }{:delay 1E 00}{:clear }C´mon, Riku!
+- id: 16418
+  fr: >
+    Xion ! Roxas !
+  gr: >
+    Xion! Roxas!
+  it: >
+    Xion! Roxas!
+  sp: >
+    ¡Xion! ¡Roxas!
+  en: >
+    Xion! Roxas!
+- id: 16419
+  fr: >
+    Roxas ?
+  gr: >
+    Roxas?
+  it: >
+    Roxas?
+  sp: >
+    ¿Roxas?
+  en: >
+    Roxas?
+- id: 16420
+  fr: >
+    Est-ce qu'il vient de m'appeler Roxas ?
+  gr: >
+    Hey, hat der mich grade Roxas genannt?
+  it: >
+    Ehi, quello mi ha chiamato Roxas?
+  sp: >
+    ¡Eh! ¿Acaba de llamarme Roxas?
+  en: >
+    Hey, did he just call me Roxas?
+- id: 16425
+  fr: >
+    Pourquoi m'as-tu appelé Roxas ?
+  gr: >
+    Warum hast du mich Roxas genannt?
+  it: >
+    Perché mi hai chiamato Roxas?
+  sp: >
+    ¿Por qué me has llamado Roxas?
+  en: >
+    Why did you call me Roxas?
+- id: 16428
+  fr: >
+    Xion ! C'est Naminé !
+  gr: >
+    Xion! Da, Naminé!
+  it: >
+    Xion! È Naminé!
+  sp: >
+    ¡Xion! ¡Es Naminé!
+  en: >
+    Xion! It´s Naminé!
+- id: 16430
+  fr: >-
+    Xion et Riku sont de nouveau
+
+
+    ensemble. Nous leur sommes inutiles.
+  gr: >-
+    Xion und Riku sind vereint.
+
+
+    Für uns gibt es hier nichts zu tun.
+  it: >-
+    Xion e Riku sono insieme.
+
+
+    Non possiamo fare niente qui.
+  sp: >-
+    Xion y Riku están juntos.
+
+
+    Nada podemos hacer ya aquí.
+  en: >-
+    Xion and Riku are together.
+
+
+    We have no part to play here.
+- id: 16433
+  fr: >
+    Naminé. On arrive tout de suite !
+  gr: >
+    Naminé, bitte halte durch!
+  it: >
+    Naminé, stiamo arrivando.
+  sp: >
+    Naminé, ya vamos.
+  en: >
+    Naminé, we´re on our way!
+- id: 16452
+  fr: >
+    Comment as-tu pu... Roxas...
+  gr: >
+    Warum nur ... Roxas ...
+  it: >
+    Come hai potuto... Roxas...
+  sp: >
+    ¿Cómo has podido... Roxas?
+  en: >
+    How could you...Roxas...
+- id: 16453
+  fr: >
+    Je suis Xion !
+  gr: >
+    Ich bin Xion!
+  it: >
+    Io sono Xion!
+  sp: >
+    ¡Soy Xion!
+  en: >
+    That´s Xion!
+- id: 16456
+  fr: >
+    Xion ! Riku !
+  gr: >
+    Xion! Riku!
+  it: >
+    Xion! Riku!
+  sp: >
+    ¡Xion! ¡Riku!
+  en: >
+    Xion! Riku!
+- id: 16467
+  fr: >
+    Xion, "Votre Majesté", n'oubliez pas...{:delay C6 00}{:clear }Une fois que je
+    les aurais tous détruits,{:delay 8A 00}{:clear }ce château sera à moi !
+  gr: >-
+    Xion! "Eure Majestät"!{:delay 93 00}{:clear }Wenn ich sie alle ausgemerzt habe,
+
+
+    soll als Dank dieses Schloss mein sein!
+  it: >-
+    Xion, "Vostra Maestà"!
+
+
+    Non dimenticate che...{:delay CC 00}{:clear }... quando li avrò distrutti tutti,
+
+    questo castello sarà mio!
+  sp: >-
+    ¡Xion! ¡Majestad! No lo olvidéis: {:delay CC 00}{:clear }cuando los haya destruido
+    a todos,
+
+
+    ¡este castillo será mío!
+  en: >-
+    Xion! "Your Majesty"! Do not forget--{:delay CC 00}{:clear }when I´ve destroyed
+    them all,
+
+
+    this castle shall be mine!
+- id: 16534
+  fr: >-
+    J'ai dû rencontrer Riku peu de
+
+
+    temps après cette métamorphose.{:delay CC 00}{:clear }Il m'a dit qu'il souhaitait
+    aider Xion.{:delay 72 00}{:clear }Mais il m'a fait promettre de
+
+    faire tout mon possible{:delay 9C 00}{:clear }pour que son ami ne découvre
+
+    jamais ce qui lui était arrivé,{:delay BA 00}{:clear }lorsqu'il errait dans les
+    ténèbres.
+  gr: >-
+    Ich glaube, Riku ist mir danach begegnet.{:delay AC 00}{:clear }{:delay 1C 00}{:clear
+    }Er sagte, er wolle Xion helfen, aber
+
+
+    ich musste ihm versprechen, dass ...{:delay F0 00}{:clear }... Xion nie die Wahrheit
+    über das, was
+
+    ihm in der Dunkelheit widerfahren war ...{:delay F0 00}{:clear }... erfahren würde.
+  it: >-
+    Credo che sia stato dopo
+
+
+    di allora che ho rivisto Riku.{:delay CC 00}{:clear }Mi ha detto che voleva aiutare
+    Xion...{:delay 78 00}{:clear }... ma mi ha fatto promettere che...{:delay 72
+    00}{:clear }... il suo amico non avrebbe mai saputo
+
+    la verità su tutto ciò che gli era...{:delay C6 00}{:clear }... accaduto mentre
+    era nell'oscurità.
+  sp: >-
+    Debió de ser después de aquello
+
+
+    cuando volví a ver a Riku. {:delay DB 00}{:clear }Dijo que quería ayudar a Xion...
+    {:delay 83 00}{:clear }pero me hizo prometer{:delay 6D 00}{:clear }que nunca le
+    diría todo
+
+    lo que le había ocurrido a él {:delay B3 00}{:clear }mientras estaba en la oscuridad.
+  en: >-
+    I guess it musta been after that
+
+
+    when I saw Riku again.{:delay CC 00}{:clear }He said he wanted to help Xion...{:delay
+    78 00}{:clear }but he made me promise--{:delay 72 00}{:clear }Promise that Xion
+    wouldn't ever find out
+
+    about what happened to him{:delay C6 00}{:clear }while he was out in the darkness.
+- id: 16536
+  fr: >-
+    Te voilà. Toi seul pouvais
+
+
+    arriver ici vivant, Roxas.
+  gr: >-
+    Es unbeschadet bis hierher geschafft
+
+
+    zu haben, spricht für dich, Roxas.
+  it: >-
+    Solo tu potevi arrivare
+
+
+    fin qui tutto intero, Roxas.
+  sp: >-
+    Solo tú podías llegar tan lejos
+
+
+    de una sola pieza... Roxas.
+  en: >-
+    Only you could have made it
+
+
+    this far in one piece...Roxas.
+- id: 16538
+  fr: >
+    Oui ! Elle, c'est Xion !
+  gr: >
+    Ja! Er ist Xion!
+  it: >
+    Già! Lui è Xion!
+  sp: >
+    ¡Sí! ¡Él es Xion!
+  en: >
+    Yeah! She's Xion!
+- id: 16541
+  fr: >-
+    Je comprends pas. Pourquoi tout le
+
+
+    monde s'obstine à m'appeler Roxas ?
+  gr: >-
+    Ich versteh das nicht. Warum nennen
+
+
+    die mich denn alle Roxas?
+  it: >-
+    Non capisco.
+
+
+    Perché tutti mi chiamano Roxas?
+  sp: >
+    No lo entiendo.{:delay 3C 00}{:clear }{:delay 1E 00}¿Por qué me llaman todos Roxas?
+  en: >-
+    I don't get it.
+
+
+    Why's everybody been calling me Roxas?
+- id: 16542
+  fr: >
+    Parce que, Xion...{:delay 3C 00}{:clear }{:delay 60 00}Roxas est ton Simili.
+  gr: >
+    Ganz einfach, Xion.{:delay 55 00}{:clear }{:delay 2A 00}{:clear }Roxas ist dein
+    Niemand.
+  it: >
+    Perché, Xion...{:delay 3C 00}{:clear }{:delay 60 00}... Roxas è il tuo Nessuno.
+  sp: >
+    Porque Roxas...{:delay 3C 00}{:clear }{:delay 60 00}es tu incorpóreo, Xion.
+  en: >
+    Because, Xion.{:delay 3C 00}{:clear }{:delay 60 00}Roxas is your Nobody.
+- id: 16545
+  fr: >-
+    C'est Xemnas qui a découvert Roxas.{:delay 7A 00}{:clear }{:delay 28 00}Il pouvait
+    se servir de la Keyblade
+
+
+    parce qu'il était ton Simili.
+  gr: >-
+    Xemnas hat Roxas gefunden.{:delay 78 00}{:clear }{:delay 27 00}{:clear }Er konnte
+    das Schlüsselschwert
+
+
+    einsetzen, weil er dein Niemand war.
+  it: >-
+    È stato Xemnas a trovare Roxas.{:delay 84 00}{:clear }{:delay 3C 00}Lui poteva
+    usare il Keyblade
+
+
+    perché era il tuo Nessuno.
+  sp: >-
+    Xemnas fue el que encontró a Roxas.{:delay 84 00}{:clear }{:delay 3C 00}Podía usar
+    la llave espada
+
+
+    porque era tu incorpóreo.
+  en: >-
+    Xemnas was the one who found Roxas.{:delay 84 00}{:clear }{:delay 3C 00}He could
+    use the Keyblade
+
+
+    because he was your Nobody.
+- id: 16546
+  fr: >-
+    Grâce à ça, il a pu intégrer l'Organisation.{:delay 96 00}{:clear }{:delay 30
+    00}Mais Roxas les a trahis.{:delay 5A 00}{:clear }{:delay 36 00}Je l'ai affronté
+    car je pensais que
+
+
+    ça t'aiderait à te réveiller.{:delay AD 00}{:clear }  {:delay 22 00}{:clear }J'ai
+    perdu...{:delay 4E 00}{:clear }Mais lors du combat suivant,
+
+    j'avais acquis la force nécessaire.
+  gr: >-
+    Deshalb hat ihn Xemnas in die
+
+
+    Organisation aufgenommen ...{:delay CC 00}{:clear }Aber Roxas hat sie verraten.{:delay
+    60 00}{:clear }{:delay 28 00}{:clear }Danach hab ich ihn bekämpft, im Glauben,
+
+    du würdest dadurch erwachen.{:delay BE 00}{:clear }Ich verlor ...{:delay 41 00}{:clear
+    }Aber als wir uns wieder trafen, stellte
+
+    ich sicher, dass ich der Stärkere war.
+  it: >-
+    Per questo Xemnas lo ha
+
+
+    accolto nell'Organizzazione...{:delay 96 00}{:clear }{:delay 30 00}... ma Roxas
+    li ha traditi.{:delay 5A 00}{:clear }{:delay 36 00}Poi ho combattuto contro di
+    lui perché
+
+    pensavo che sarebbe servito a risvegliarti.{:delay B4 00}{:clear }{:delay 22 00}{:clear
+    }Ho perso...{:delay 4E 00}{:clear }... ma quando ci siamo rivisti
+
+    ero diventato io il più forte.
+  sp: >-
+    Por eso Xemnas le llevó
+
+
+    a la Organización.{:delay 96 00}{:clear }{:delay 30 00}Pero Roxas les traicionó.
+    {:delay 5A 00}{:clear }{:delay 36 00}Luché contra él porque pensé que
+
+    eso te ayudaría a despertar. {:delay AD 00}{:clear }{:delay 22 00}{:clear }Perdí.{:delay
+    4E 00}{:clear }Pero en nuestro siguiente encuentro,
+
+    yo ya era más fuerte.
+  en: >-
+    That's why Xemnas brought him
+
+
+    into the Organization--{:delay 96 00}{:clear }{:delay 30 00}But Roxas betrayed
+    them. {:delay 5A 00}{:clear }{:delay 36 00}After that I fought him because I thought
+
+    it would help you wake up.{:delay AD 00}{:clear }{:delay 22 00}{:clear }I lost,{:delay
+    4E 00}{:clear }but the next time we met
+
+    I made sure I was the stronger one.
+- id: 16548
+  fr: >
+    Roxas...{:delay 42 00}{:clear }{:delay 3E 00}J'aimerais le voir, moi aussi.
+  gr: >
+    Roxas ... {:delay 78 00}{:clear }Ich wünschte, ich könnte ihn treffen.
+  it: >
+    Roxas...{:delay 42 00}{:clear }{:delay 3E 00}Avrei voluto incontrarlo anch'io.
+  sp: >
+    Roxas... {:delay 42 00}{:clear }{:delay 3E 00}También me habría gustado conocerle.
+  en: >
+    Roxas...{:delay 42 00}{:clear }{:delay 3E 00}I wish I could meet him, too.
+- id: 16560
+  fr: >-
+    Xion, tout est entre tes mains.{:delay 96 00}{:clear }  {:delay 3C 00}{:clear
+    }Et Roxas, je doute que tu
+
+
+    puisses m'entendre, mais...{:delay E6 00}{:clear }  {:delay 18 00}{:clear }je
+    suis désolé.
+  gr: >-
+    Xion, jetzt hast du es in der Hand.{:delay AB 00}{:clear }{:delay 34 00}{:clear
+    }Und Roxas, auch wenn du mich
+
+
+    nicht hörst, es ... es tut mir Leid.
+  it: >-
+    Xion, il resto dipende da te.{:delay 96 00}{:clear }{:delay 3C 00}{:clear }E
+    Roxas, dubito che tu possa
+
+
+    sentirmi, ma...{:delay E6 00}{:clear }{:delay 18 00}{:clear }... mi dispiace.
+  sp: >
+    Xion, el resto depende de ti... {:delay A8 00}{:clear }{:delay 29 00}y de Roxas.{:delay
+    37 00}{:clear }{:delay 21 00}Dudo que pueda oírme, pero, de verdad...{:delay BF
+    00}{:clear }{:delay 11 00}lo siento.
+  en: >-
+    Xion, the rest is up to you...{:delay 96 00}{:clear }{:delay 3C 00}{:clear }And
+    Roxas--
+
+
+    I doubt you can hear me--but...{:delay E6 00}{:clear }{:delay 18 00}{:clear }I
+    am sorry.
+- id: 16674
+  fr: >
+    Tu es celle qui nourrit la colère de Xion.
+  gr: >
+    Du sollst dazu dienen, Xion' Wut zu nähren.
+  it: >-
+    Tu sei il fuoco che alimenta
+
+
+    la rabbia di Xion.
+  sp: >-
+    Tú eres el fuego que
+
+
+    alimenta la furia de Xion.
+  en: >
+    You´re the fire that feeds Xion´s anger.
+- id: 16675
+  fr: >
+    Non...{:delay 2A 00}{:clear }  {:delay 3C 00}{:clear }Xion est en danger à cause
+    de moi.
+  gr: >
+    Nein ...{:delay 64 00}{:clear }Xion ist in Gefahr, nur wegen mir!
+  it: >-
+    No...{:delay 26 00}{:clear }{:delay 32 00}{:clear }Xion è in pericolo
+
+
+    per colpa mia...
+  sp: >
+    No... {:delay 26 00}{:clear }{:delay 32 00}Xion está en peligro por mi culpa...
+  en: >
+    No...{:delay 26 00}{:clear }{:delay 32 00}Xion´s in danger because of me...
+- id: 16679
+  fr: >
+    Naminé... On arrive !
+  gr: >
+    Naminé ... Nicht mehr lange!
+  it: >
+    Naminé... Ci siamo quasi.
+  sp: >
+    Naminé... Ya vamos.
+  en: >
+    Naminé... We´re almost there.
+- id: 16680
+  fr: >
+    Naminé ! Où es-tu ?
+  gr: >
+    Naminé! Wo bist du?
+  it: >
+    Naminé! Dove sei?
+  sp: >
+    ¡Naminé! ¿Dónde estás?
+  en: >
+    Naminé! Where are you?
+- id: 16684
+  fr: >
+    Ah, Kairi... Te voilà.
+  gr: >
+    Kairi. Da bist du ja.
+  it: >
+    Kairi, eccoti qua.
+  sp: >
+    Kairi... Estás aquí.
+  en: >
+    Kairi... There you are.
+- id: 16685
+  fr: >
+    Kairi ?
+  gr: >
+    Kairi ...?
+  it: >
+    Kairi...?
+  sp: >
+    ¿Kairi...?
+  en: >
+    Kairi...?
+- id: 16686
+  fr: >-
+    Naminé. Désolé, mais je ne
+
+
+    peux pas te laisser partir.
+  gr: >-
+    Naminé. Dir ist klar, dass ich dich
+
+
+    nicht gehen lassen kann?
+  it: >-
+    Naminé, temo che tu
+
+
+    non possa andartene.
+  sp: >-
+    Naminé. Me temo que no
+
+
+    puedo dejarte ir.
+  en: >
+    Naminé. I´m afraid leaving is not an option.
+- id: 16687
+  fr: >
+    Je vais t'emmener voir Xion.
+  gr: >
+    Ich bringe dich zu Xion.
+  it: >
+    Ti porterò da Xion.
+  sp: >
+    Te llevaré a ver a Xion.
+  en: >
+    I´ll take you to see Xion.
+- id: 16691
+  fr: >
+    Toi...{:delay 41 00}{:clear }  {:delay 32 00}{:clear }Roxas ne t'a pas éliminé
+    ?
+  gr: >
+    Du ...{:delay 3C 00}{:clear }{:delay 28 00}{:clear }Hat Roxas dich nicht erledigt?
+  it: >
+    Tu...{:delay 41 00}{:clear } {:delay 32 00}{:clear }Roxas non ti aveva eliminato?
+  sp: >
+    Tú... {:delay 41 00}{:clear } {:delay 32 00}{:clear }¿No se había librado Roxas
+    de ti?
+  en: >
+    You...{:delay 41 00}{:clear } {:delay 32 00}{:clear }Didn´t Roxas take care of
+    you?
+- id: 18438
+  fr: >-
+    Alors c'est dans cette ville toute
+
+
+    lugubre que vivent les Simili ?{:clear }Trouvons vite un moyen d'aller au
+
+    {:theme 0A}château{:reset} où est retenue Naminé.
+  gr: >-
+    Hier ist es vielleicht dunkel.
+
+
+    Hier leben also die Niemande, oder?{:clear }Kommt, lasst uns versuchen, einen
+
+    Weg zu dem {:theme 0A}Schloss{:reset} zu finden, in
+
+    dem Naminé gefangen gehalten wird.
+  it: >-
+    Com'è buia questa città...
+
+
+    Vivono qui i Nessuno, vero?{:clear }Su, cerchiamo la via che conduce al
+
+    {:theme 0A}castello{:reset} dove tengono prigioniera Naminé.
+  sp: >-
+    Esta ciudad es muy oscura. Aquí viven
+
+
+    los incorpóreos, ¿no?{:clear }Vamos. Hay que encontrar un camino
+
+    hasta el {:theme 0A}castillo{:reset} donde tienen a Naminé.
+  en: >-
+    This town sure is dark. This is where
+
+
+    the Nobodies live, right?{:clear }C´mon. Let´s try to find a path to
+
+    the {:theme 0A}castle{:reset} Naminé´s being held at.
+- id: 18440
+  fr: >-
+    Ce monde est vraiment surprenant.
+
+
+    La lune est en forme de cæur !{:clear }Maintenant qu'on a ouvert l'accès
+
+    au {:theme 0A}château{:reset}, allons sauver Naminé !
+  gr: >-
+    Wirklich eine seltsame Welt.
+
+
+    Selbst der Mond sieht aus wie ein Herz.{:clear }Kommt, jetzt, wo der Weg zum {:theme
+    0A}Schloss{:reset}
+
+    frei ist, lasst uns Naminé retten!
+  it: >-
+    Che mondo strano...
+
+
+    E la luna poi, sembra un cuore!{:clear }Avanti, facciamoci strada verso
+
+    il {:theme 0A}castello{:reset}. Dobbiamo salvare Naminé!
+  sp: >-
+    Este mundo es muy extraño.
+
+
+    La luna parece un corazón.{:clear }¡Vamos! El camino al {:theme 0A}castillo{:reset}
+
+    está abierto, ¡rescatemos a Naminé!
+  en: >-
+    This sure is a strange world.
+
+
+    The moon even looks like a heart.{:clear }C´mon, now that we´ve opened the path
+
+    to the {:theme 0A}castle{:reset}, let´s go rescue Naminé!
+- id: 18444
+  fr: >-
+    Ansem combat aux côtés de Naminé ?
+
+
+    Qu'est-ce que ça veut dire ?{:clear }En tout cas, elle est en danger !
+
+    Allons la secourir !
+  gr: >-
+    Was hat das zu bedeuten?
+
+
+    Ansem hat zusammen mit Naminé gekämpft!{:clear }Wie auch immer, Naminé wird angegriffen.
+
+    Wir müssen zu ihr und ihr helfen!
+  it: >-
+    Che diavolo succede? Perché Naminé
+
+
+    combatteva al fianco di Ansem?{:clear }In ogni caso, Naminé è in pericolo.
+
+    Dobbiamo andare a salvarla!
+  sp: >-
+    ¿Qué es lo que pasa?
+
+
+    ¡Ansem estaba luchando junto a Naminé!{:clear }¡Pero ahora Naminé tiene problemas!
+
+    ¡Tenemos que ayudarla!
+  en: >-
+    What´s going on?
+
+
+    Ansem was fighting alongside Naminé!{:clear }Anyway, Naminé´s under attack.
+
+    We have to go help her!
+- id: 18445
+  fr: >-
+    Impossible de rejoindre
+
+
+    directement Naminé d'ici.{:clear }Pas de panique,
+
+    suivons ce chemin.
+  gr: >-
+    Sieht nicht so aus, als könnten
+
+
+    wir direkt von hier zu Naminé.{:clear }Ich weiß, es sollte schnell gehen, aber
+
+    wir müssen wohl den Weg da nehmen.
+  it: >-
+    Non credo che riusciremo a raggiungere
+
+
+    Naminé direttamente da qui.{:clear }So che hai fretta, ma dobbiamo
+
+    andare da quella parte.
+  sp: >-
+    No creo que desde aquí podamos llegar
+
+
+    directamente hasta donde está Naminé.{:clear }Sé que tienes prisa, pero necesitamos
+
+    seguir este camino.
+  en: >-
+    It doesn´t look like we can get to Naminé
+
+
+    directly from here.{:clear }I know you´re in a hurry, but we need to
+
+    take that path over there.
+- id: 18446
+  fr: >-
+    Je n'aime pas cet endroit.
+
+
+    On dirait un cimetière...{:clear }Tout est en ruine...
+
+    Tu sais ce que ça signifie, Xion?
+  gr: >-
+    Irgendetwas gefällt mir an diesem Ort nicht.
+
+
+    Es ist hier fast wie ... auf einem Friedhof.{:clear }So gut wie alles liegt in
+    Trümmern.
+
+    Weißt du, was das alles zu bedeuten hat, Xion?
+  it: >-
+    Non mi piace l'atmosfera di questo
+
+
+    posto... Sembra un cimitero.{:clear }E poi... è tutto in rovina...
+
+    Sai che cosa può significare, Xion?
+  sp: >-
+    Este sitio me da mala espina.
+
+
+    Es como... un cementerio.{:clear }Casi todo parece estar en ruinas.
+
+    ¿Por qué será, Xion?
+  en: >-
+    I don´t like the feel of this place.
+
+
+    It´s almost like...a graveyard.{:clear }Just about everything is in ruins.
+
+    Do you know what it all means, Xion?
+- id: 18447
+  fr: >-
+    Regarde !
+
+
+    L'entrée brille.{:clear }Tu crois que ça a un rapport
+
+    avec tes ennemis, Xion ?
+  gr: >-
+    Seht! Der Eingang strahlt auf einmal.{:clear }Könnte das etwas mit euren
+
+
+    Feinden zu tun haben, Xion?
+  it: >-
+    Guarda!
+
+
+    Ora l'entrata sta brillando!{:clear }Potrebbe avere qualcosa a che
+
+    fare con i tuoi nemici, Xion?
+  sp: >-
+    ¡Mira!
+
+
+    Ahora hay una luz en esa entrada.{:clear }¿Tendrá algo que ver
+
+    con tus enemigos, Xion?
+  en: >-
+    Look!
+
+
+    Now this entrance is glowing.{:clear }Could this have something to do with
+
+    your enemies, Xion?
+- id: 18451
+  fr: >-
+    La voie est ouverte.
+
+
+    Xemnas doit nous attendre.{:clear }Il dirige l'Organisation {XIII}.
+
+    Tâche de ne pas me ralentir, Xion.
+  gr: >-
+    Der Pfad ist offen.
+
+
+    Xemnas wartet bereits auf uns.{:clear }Er ist der Anführer der Organisation {XIII}.
+
+    Sei mir kein Klotz am Bein, Xion.
+  it: >-
+    Il passaggio è aperto. Xemnas
+
+
+    ci sta aspettando di là.{:clear }Lui è il capo dell'Organizzazione {XIII}. Cerca
+
+    di non essermi troppo d'intralcio, Xion.
+  sp: >-
+    El camino está abierto. Allá
+
+
+    nos espera Xemnas.{:clear }Es el líder de la Organización {XIII}.
+
+    Démonos prisa, Xion.
+  en: >-
+    The path is open. Xemnas is waiting up
+
+
+    ahead.{:clear }He´s the leader of Organization {XIII}.
+
+    Try not to slow me down, Xion.
+- id: 18452
+  fr: >-
+    Roxas... Je connais ce garçon.
+
+
+    Je lui ai parlé une fois.{:clear }J'ai trouvé qu'il te ressemblait beaucoup.
+
+    Qui peut-il bien être ?
+  gr: >-
+    Roxas ... Ich kenne diesen Namen.
+
+
+    Ich habe einmal mit ihm gesprochen.{:clear }Er hat mich an dich erinnert, Xion.
+
+    Wer ist er?
+  it: >-
+    Roxas... Io lo conosco.
+
+
+    Ci ho parlato una volta.{:clear }Mi ricordava molto te, Xion.
+
+    Sai chi è?
+  sp: >-
+    Roxas... Conozco ese nombre.
+
+
+    Una vez hablé con él.{:clear }Me recordaba a ti, Xion.
+
+    ¿Le conoces?
+  en: >-
+    Roxas...I know that name.
+
+
+    Once I spoke with him.{:clear }He reminded me of you, Xion.
+
+    Who is he?
+- id: 18459
+  fr: >-
+    J'ai rencontré Roxas par l'intermédiaire
+
+
+    d'un type nommé DiZ.{:clear }Au début, je ne lui faisais pas confiance,
+
+    mais on avait besoin l'un de l'autre.
+  gr: >-
+    Ich habe Roxas durch einen
+
+
+    Mann namens DiZ getroffen.{:clear }Zuerst habe ich DiZ nicht getraut,
+
+    aber wir brauchten beide jeweils
+
+    die Hilfe des anderen.
+  it: >-
+    Ho incontrato Roxas
+
+
+    tramite un tipo di nome DiZ.{:clear }Non mi fidavo assolutamente di DiZ,
+
+    ma io avevo bisogno di lui e lui di me.
+  sp: >-
+    Encontré a Roxas gracias a un tipo
+
+
+    llamado DiZ.{:clear }Al principio no confiaba en él, pero
+
+    nos necesitábamos el uno al otro.
+  en: >-
+    I met Roxas because of a guy
+
+
+    named DiZ.{:clear }I didn´t trust DiZ at first, but we both
+
+    needed each other´s help.
+- id: 18462
+  fr: >-
+    Pas mal, Xion.
+
+
+    Tu as fait des progrès.{:clear }Apparemment, tu n'as pas encore besoin
+
+    d'Âme-nivore ni du pouvoir des ténèbres.
+  gr: >-
+    Hmpf. Nicht schlecht, Xion.
+
+
+    Du bist stärker geworden.{:clear }Du brauchst meine Waffe, den Seelenfänger,
+
+    oder die Kraft der Dunkelheit noch nicht.
+  it: >-
+    Hmf. Niente male, Xion.
+
+
+    Sei diventato più forte.{:clear }Non hai bisogno della mia arma,
+
+    l'Animofago, e nemmeno
+
+    del potere dell'oscurità.
+  sp: >-
+    Mmm. No está mal, Xion.
+
+
+    Te has vuelto más fuerte.{:clear }No necesitas de mi arma ni
+
+    del poder de la oscuridad.
+  en: >-
+    Hmph. Not bad, Xion.
+
+
+    You´ve grown stronger.{:clear }You don´t need my weapon, Soul Eater,
+
+    or the power of the dark yet.
+- id: 18936
+  fr: >-
+    Je l'ai vu quand les routes de Naminé
+
+
+    et Roxas se sont croisées.{:delay F0 00}{:clear }{:delay 21 00}Je l'ai compris.{:delay
+    39 00}{:clear }{:delay 1E 00}Mais j'étais trop entêté pour l'accepter.
+  gr: >-
+    Ich merkte es, als sich Roxas'
+
+
+    und Kairis Wege kreuzten.{:delay EF 00}{:clear }{:delay 26 00}{:clear }Ich begriff.{:delay
+    46 00}{:clear }Aber ich war zu stur,
+
+    um es zu akzeptieren.
+  it: >-
+    L'ho notato quando Roxas
+
+
+    e Naminé si sono incontrati.{:delay F0 00}{:clear }{:delay 21 00}Lo sapevo.{:delay
+    39 00}{:clear }{:delay 1E 00}Ma ero troppo testardo
+
+    per ammetterlo.
+  sp: >-
+    Lo vi cuando Roxas y Naminé se cruzaron. {:delay E2 00}{:clear }{:delay 37 00}Lo
+    supe. {:delay 2C 00}{:clear }{:delay 1E 00}Pero era demasiado cabezota
+
+
+    para aceptarlo.
+  en: >
+    I saw it when Roxas and Naminé crossed paths.{:delay F0 00}{:clear }{:delay 21
+    00}I knew. {:delay 39 00}{:clear }{:delay 1E 00}But I was too stubborn to accept
+    it.
+- id: 18938
+  fr: >-
+    Lorsque je tentais de provoquer
+
+
+    le réveil de Xion,{:delay C8 00}{:clear }j'avais une multitude de projets.
+
+    Mais ils furent réduits à néant{:delay F0 00}{:clear }lorsqu'il commença à agir
+
+    de son propre chef.
+  gr: >-
+    Während ich dabei war ...{:delay 64 00}{:clear }... Xion zurückzubringen, hatte
+
+
+    ich so viele Pläne im Hinterkopf.{:delay 09 01}{:clear }Doch kaum war Xion eine
+    aktive
+
+    Person, war alles dahin.
+  it: >-
+    Mentre cercavo di riportare qui
+
+
+    Xion, avevo molti piani in mente.{:delay 2C 01}{:clear }{:delay 12 00}Ma quando
+    Xion è entrato in azione,
+
+    i miei progetti si sono rivelati inutili.
+  sp: >-
+    Cuando quise recuperar a Xion,
+
+
+    tenía muchos planes para él. {:delay 2C 01}{:clear }{:delay 12 00}{:clear }Pero
+    en cuanto pudo actuar,
+
+    se vinieron abajo.
+  en: >-
+    While I was trying to bring Xion back,
+
+
+    I had so many plans in store.{:delay 2C 01}{:clear }{:delay 12 00}But once Xion
+    was an acting force,
+
+    they fell apart.
+- id: 19121
+  fr: >-
+    Cette amulette que tu gardais, elle a marché
+
+
+    et nous nous sommes retrouvés !{:clear }Comme je suis contente de te revoir.
+
+    Tu m'as tant manqué, Xion !
+  gr: >-
+    Du hast ihn tatsächlich behalten. Der Talisman
+
+
+    des Wiedersehens hat wirklich funktioniert!{:clear }Ich habe dich so vermisst,
+    Xion.
+
+    Ich habe dich ja so vermisst!
+  it: >-
+    Ce l'hai fatta! Il portafortuna
+
+
+    ci ha fatto incontrare di nuovo!{:clear }Non sai che voglia avevo di vederti,
+
+    Xion. Mi sei mancato tanto!
+  sp: >-
+    ¡El amuleto nos ha traído suerte!
+
+
+    ¡Por fin nos encontramos!{:clear }Tenía muchas ganas de verte, Xion.
+
+    ¡Te echaba tanto de menos!
+  en: >-
+    You held onto that charm. That talisman
+
+
+    of reunion really worked!{:clear }I wanted to see you so badly, Xion.
+
+    I missed you so much!
+- id: 19122
+  fr: >-
+    Il y a un an, les ténèbres ont pris le dessus
+
+
+    et je t'ai trahi. Regarde ce que je suis devenu.{:clear }À vrai dire, je n'étais
+    pas très à l'aise à l'idée
+
+    de te revoir, mais Naminé m'a convaincu.
+  gr: >-
+    Vor einem Jahr hat mich die Dunkelheit
+
+
+    übermannt, und ich habe dich hintergangen.
+
+    Sieh nur, was aus mir geworden ist.{:clear }Ich war mir nicht sicher, ob ich dich
+    sehen
+
+    wollte ... aber Naminé hat darauf bestanden.
+  it: >-
+    In passato sono stato inghiottito
+
+
+    dall'oscurità e ti ho tradito.
+
+    Ed eccomi qui ora.{:clear }Io... non ero sicuro di volerti vedere,
+
+    ma Naminé ha insistito tanto...
+  sp: >-
+    En el pasado, la oscuridad me venció,
+
+
+    y te traicioné. ¡En qué me he convertido!{:clear }No estaba seguro de querer
+
+    verte, pero Naminé insistió.
+  en: >-
+    In the past, I was overcome by the dark and
+
+
+    betrayed you. Look what´s become of me.{:clear }I wasn´t sure I wanted to
+
+    see you...but Naminé insisted.
+- id: 19571
+  fr: >
+    Vite ! Xion a besoin de ton aide !
+  gr: >
+    Schnell! Jetzt bloß nicht unterkriegen lassen!
+  it: >
+    Svelto! Xion sarà spacciato senza il tuo aiuto!
+  sp: >
+    ¡Deprisa! ¡Sin tu ayuda, Xion está perdido!
+  en: >
+    Hurry! Without your help, Xion is doomed!
+- id: 19950
+  fr: >-
+    J'ai transmis le message,
+
+
+    comme vous me l'aviez demandé.{:delay A5 00}{:clear }J'ai dit au petit Xion de
+    continuer
+
+    à s'occuper des Sans-cæur.
+  gr: >-
+    Die Nachricht ist überbracht.
+
+
+    Wie du es gewünscht hast.{:delay 5A 00}{:clear } {:delay 73 00}{:clear }Ich habe
+    Xion gesagt,
+
+    er solle weiter die Herzlosen besiegen.
+  it: >-
+    Ho consegnato il messaggio
+
+
+    come desideravi ardentemente.{:delay A5 00}{:clear }Ho detto al giovane Xion
+    di
+
+    continuare a eliminare gli Heartless.
+  sp: >-
+    Ya le he transmitido el mensaje.{:delay A5 00}{:clear }Xion sabe que tiene que
+    seguir combatiendo
+
+
+    a los sincorazón.
+  en: >-
+    I passed on the message
+
+
+    as you so desired.{:delay A5 00}{:clear }I told the young Xion to keep
+
+    defeating the Heartless.
+- id: 19952
+  fr: >-
+    Xion doutera bientôt de lui-même.{:delay D2 00}{:clear } {:delay 28 00}{:clear
+    }Il commencera par hésiter, et cette hésitation
+
+
+    se changera en colère.{:delay 9A 01}{:clear }{:delay 1E 00}{:clear }C'est cette
+    colère qui le libérera
+
+    de ses appréhensions{:delay 0E 01}{:clear }et qui lui permettra d'aller de l'avant.{:delay
+    96 00}{:clear } {:delay 28 00}{:clear }Il nous mènera vers cet avenir
+
+    dont nous rêvons.
+  gr: >-
+    Nicht lange, bis Xion verunsichert ist.{:delay BE 00}{:clear }{:delay 1E 00}{:clear
+    }Seine Bedenken werden ihn zögern
+
+
+    lassen, und schon bald ...{:delay 8C 00}{:clear }{:delay 14 00}{:clear }... wird
+    er sich für seine
+
+    Unentschlossenheit selbst verachten.{:delay C8 00}{:clear }Dieser Selbsthass wird
+    ihn dazu bringen ...{:delay 96 00}{:clear }{:delay 0A 00}{:clear }... jegliche
+    Vernunft über Bord
+
+    zu werfen und voranzuschreiten.{:delay 96 00}{:clear } {:delay 28 00}{:clear }Und
+    dann wird dieser Junge den Weg
+
+    ebnen für die Zukunft, die wir begehren.
+  it: >-
+    Presto Xion dubiterà di se stesso.{:delay DC 00}{:clear } {:delay 0F 00}{:clear
+    }Quel dubbio lo farà esitare e
+
+
+    quell'esitazione diventerà rabbia.{:delay 9F 01}{:clear }Quella rabbia lo spingerà
+    a liberarsi delle
+
+    sue preoccupazioni e ad andare avanti.{:delay CC 01}{:clear } {:delay 28 00}{:clear
+    }Ci spianerà la strada verso
+
+    il futuro che desideriamo.
+  sp: >-
+    Dentro de poco, Xion empezará a dudar de sí mismo.{:delay DC 00}{:clear } {:delay
+    0F 00}{:clear }La duda lo llevará a la incertidumbre
+
+
+    y esta desembocará en ira. {:delay 9F 01}{:clear }Eso es lo que le hará liberarse
+    de las ataduras
+
+    que le refrenan y así podrá seguir adelante.{:delay CC 01}{:clear } {:delay 28
+    00}{:clear }Ese jovencito irá allanando el camino
+
+    para el futuro que tanto anhelamos.
+  en: >-
+    Xion will soon begin to doubt himself.{:delay DC 00}{:clear } {:delay 0F 00}{:clear
+    }It will cause him to hesitate, and
+
+
+    that hesitation will turn to anger.{:delay 9F 01}{:clear }That anger will fuel
+    him to get rid
+
+    of his apprehension and move forward.{:delay CC 01}{:clear } {:delay 28 00}{:clear
+    }He will pave the way for
+
+    the future we desire.
+- id: 19957
+  fr: >
+    Xion connaît désormais toute la vérité.{:delay 93 00}{:clear } {:delay 62 00}{:clear
+    }Plus il anéantira de Sans-cæur,{:delay 78 00}{:clear }plus il servira nos desseins.
+  gr: >-
+    Xion kennt nun die Wahrheit.{:delay 93 00}{:clear } {:delay 62 00}{:clear }Je
+    mehr Herzlose er besiegt,{:delay B1 00}{:clear }desto mehr wird er zur perfekten
+    Puppe,
+
+
+    die die Organisation manipulieren kann.
+  it: >
+    Xion ora sa la verità.{:delay 93 00}{:clear } {:delay 62 00}{:clear }Se continua
+    a eliminare gli Heartless,{:delay 78 00}{:clear }diventerà la nostra marionetta
+    perfetta.
+  sp: >-
+    Xion ya sabe la verdad. {:delay 93 00}{:clear } {:delay 62 00}{:clear }Con cada
+    sincorazón que abate, {:delay 78 00}{:clear }se va convirtiendo más y más en la
+    marioneta
+
+
+    perfecta para los intereses de la Organización.
+  en: >-
+    Xion knows the truth now.{:delay 93 00}{:clear } {:delay 62 00}{:clear }The more
+    Heartless that he defeats,{:delay 78 00}{:clear }the closer he is to becoming
+
+
+    our perfect puppet.
+- id: 19958
+  fr: >-
+    Qu'est-ce que ça peut faire ?{:delay 92 00}{:clear }Quoi qu'il arrive,{:delay
+    8B 00}{:clear }Xion n'a jamais pu s'empêcher de sauver
+
+
+    les autres des griffes des Sans-cæur.{:delay 18 01}{:clear }{:delay 2D 00}{:clear
+    }C'est ce que lui dicte son petit cæur pur.
+  gr: >-
+    Macht es einen Unterschied?{:delay 92 00}{:clear }Egal, wie die Umstände sind
+    ...{:delay 8B 00}{:clear }Xion kann nicht anders,
+
+
+    als Leute vor den Herzlosen zu retten.{:delay A9 00}{:clear }Er war schon immer
+    so.{:delay CE 00}{:clear }Sein reines Herz will es so.
+  it: >-
+    E allora?{:delay 92 00}{:clear }Quali che siano le circostanze,{:delay 8B 00}{:clear
+    }Xion non ha mai potuto fare a meno di
+
+
+    eliminare gli Heartless per salvare gli altri.{:delay 18 01}{:clear } {:delay
+    2D 00}{:clear }È ciò che desidera il suo cuoricino puro.
+  sp: "¿Y qué importa eso?{:delay 92 00}{:clear }Sea como fuere,{:delay 8B 00}{:clear\
+    \ }Xion no puede evitar salvar \n\na la gente de los sincorazón.{:delay 18 01}{:clear\
+    \ } {:delay 2D 00}{:clear }Siempre ha sido así.\nEso es lo que su puro corazoncito\
+    \ desea."
+  en: >-
+    What does it matter really?{:delay 92 00}{:clear }Whatever his circumstances,{:delay
+    8B 00}{:clear }Xion has never been able to help himself
+
+
+    from saving people from the Heartless.{:delay 18 01}{:clear } {:delay 2D 00}{:clear
+    }It's what his pure little heart wants.
+- id: 19972
+  fr: >-
+    Cela semble évident que par toutes ses actions,
+
+
+    aussi extravagante furent-elles,{:delay EA 01}{:clear }Axel a fait vibrer le cæur
+    de Xion.{:delay F0 00}{:clear }Peut-être qu'{:unk0e 0A}il{:unk0e 00} s'éveillera
+    bientôt.
+  gr: >-
+    Ich sehe es deutlich vor mir.{:delay 64 00}{:clear }Durch sein Handeln, so närrisch
+    es auch war ...{:delay 8C 00}{:clear }... hat Axel es geschafft,
+
+
+    Roxass Herz zu berühren.{:delay 64 00}{:clear }Vielleicht dauert es nicht mehr
+
+    lange, bis ER in Xion erwacht.
+  it: >-
+    È chiaro che con le sue azioni,
+
+
+    per quanto sciocche fossero,{:delay EA 01}{:clear }Axel ha toccato il cuore di
+    Xion.{:delay F0 00}{:clear }Forse presto sarà LUI a risvegliarsi.
+  sp: "Lo veo más que claro. \n\nPor absurdos que puedan haber sido sus actos, {:delay\
+    \ EA 01}{:clear }Axel ha llegado hasta el corazón de Xion. {:delay F0 00}{:clear\
+    \ }Es posible que él despierte en el interior de Xion."
+  en: >-
+    Is it clear that through his actions,
+
+
+    however foolish they may have been,{:delay EA 01}{:clear }Axel has touched Xion's
+    heart.{:delay F0 00}{:clear }Perhaps HE will soon awaken.
+- id: 19974
+  fr: >
+    Allez, Xion.{:delay 6A 00}{:clear }Je te croyais plus fort que ça.
+  gr: >
+    Komm schon, Xion.{:delay 6A 00}{:clear }Ich dachte, du bist stärker.{:delay 6A
+    00}{:clear }Wach auf.
+  it: >
+    Forza, Xion.{:delay 6A 00}{:clear }Pensavo che fossi più forte di così.
+  sp: >
+    Vamos, Xion. {:delay 6A 00}{:clear }Creía que eras más fuerte.
+  en: >
+    Come on, Xion.{:delay 6A 00}{:clear }I thought you were stronger than that.
+- id: 19984
+  fr: >
+    DiZ... Il pouvait sentir Xion.
+  gr: >
+    DiZ ... Er konnte Xion spüren.
+  it: >
+    DiZ... Sentiva Xion.
+  sp: >
+    DiZ... Él podía sentir a Xion.
+  en: >
+    DiZ... He could feel Xion.
+- id: 20542
+  fr: >-
+    Un nouvel ennemi est apparu.
+
+
+    Il attend Xion dans
+
+    l'un des mondes.
+  gr: >-
+    In einer der Welten ist ein neuer
+
+
+    Gegner erschienen und erwartet Xion.
+  it: >-
+    Si è materializzato un nuovo nemico
+
+
+    che aspetta Xion in uno dei mondi.
+  sp: >-
+    Un nuevo rival ha aparecido
+
+
+    y aguarda a Xion en alguno
+
+    de los mundos.
+  en: >-
+    A new enemy has materialized,
+
+
+    and awaits Xion in one of the worlds.
+- id: 21433
+  fr: >
+    Je voulais remercier Kairi, mais...
+  gr: >
+    Ich wollte Kairi danken, aber ...
+  it: >
+    Volevo ringraziare Kairi, ma...
+  sp: >
+    Kairi... No le he dado las gracias.
+  en: >
+    I wanted to thank Kairi, but...
+- id: 21439
+  fr: >-
+    S'il avait rencontré Xion,{:delay 74 00}{:clear }les choses auraient
+
+
+    peut-être été différentes.
+  gr: >-
+    Hätte er Xion getroffen, wäre die Sache
+
+
+    vielleicht anders verlaufen.
+  it: >-
+    Se avesse incontrato Xion,{:delay 74 00}{:clear }forse le cose sarebbero
+
+
+    andate diversamente.
+  sp: >
+    Si hubiera conocido a Xion, {:delay 74 00}{:clear }quizá las cosas habrían sido
+    distintas.
+  en: >
+    If he had met Xion,{:delay 74 00}{:clear }things might have been different.

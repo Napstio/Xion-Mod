@@ -1,0 +1,110 @@
+- id: 16794
+  en: >-
+    Naminé! Wait up!
+  fr: >-
+    Naminé ! Attends-moi !
+  gr: >-
+    Naminé! Warte!
+  it: >-
+    Naminé! Aspetta!
+  sp: >-
+    ¡Naminé! ¡Espera!
+- id: 16808
+  fr: >
+    Kairi ?
+  gr: >
+    Kairi?
+  it: >
+    Kairi?
+  sp: >
+    ¿Kairi?
+  en: >
+    Kairi?
+- id: 16810
+  fr: >
+    Naminé ?
+  gr: >
+    Naminé ...?
+  it: >
+    Naminé?
+  sp: >
+    ¿Naminé...?
+  en: >
+    Naminé...?
+- id: 16815
+  fr: >
+    Ça commence par un "X".
+  gr: >
+    Er beginnt mit einem "X".
+  it: >
+    Inizia per "X".
+  sp: >
+    Empezaba por "X"...
+  en: >
+    Starts with an "X."
+- id: 16816
+  fr: >
+    Je sais. Xion !
+  gr: >
+    Nicht wahr, ... Xion?
+  it: >
+    Vero? Xion!
+  sp: >
+    ¿No?...{:delay 43 00}{:clear }¿Xion?
+  en: >
+    Right, Xion?
+- id: 16821
+  fr: >
+    Axel.{:delay 3C 00}{:clear }  {:delay 24 00}{:clear }Il se trouve que je connais
+    bien Xion.
+  gr: >
+    Axel.{:delay 3C 00}{:clear }Ich bin gewissermaßen ein Bekannter von Xion.
+  it: >
+    Axel.{:delay 5A 00}{:clear }Si dà il caso che conosca Xion.
+  sp: >
+    Axel. {:delay 3C 00}{:clear }{:delay 33 00}Resulta que soy un conocido de Xion.
+  en: >
+    Axel.{:delay 5A 00}{:clear }I happen to be an acquaintance of Xion´s.
+- id: 16823
+  fr: >
+    Xion ?
+  gr: >
+    ... Xion?
+  it: >
+    Xion?
+  sp: >
+    ¿Xion?
+  en: >
+    ...Xion?
+- id: 16824
+  fr: >-
+    Toi et moi, on est pareils, Naminé.{:delay 8A 00}{:clear }  {:delay 2A 00}{:clear
+    }Nous avons tous les deux perdu
+
+
+    quelqu'un d'important.{:delay A2 00}{:clear }  {:delay 3C 00}{:clear }Hé...{:delay
+    24 00}{:clear }  {:delay 18 00}{:clear }J'ai l'impression qu'on est déjà amis.
+  gr: >-
+    Wir haben was gemeinsam, Naminé.{:delay A0 00}{:clear }Wir beide vermissen jemanden,
+
+
+    den wir sehr mögen.{:delay DC 00}{:clear }Hey, ich hab glatt das Gefühl,
+
+    als seien wir Freunde.
+  it: >-
+    Abbiamo qualcosa
+
+
+    in comune, Naminé.{:delay AF 00}{:clear }A entrambi manca
+
+    qualcuno che ci è caro.{:delay ED 00}{:clear }Ehi, mi sembra già di essere amici.
+  sp: >-
+    Tenemos algo en común, Naminé. {:delay AF 00}{:clear }Tú y yo echamos de menos
+
+
+    a alguien que nos importa. {:delay ED 00}{:clear }¡Eh! Siento como si
+
+    ya fuéramos amigos.
+  en: >
+    We´ve got something in common, Naminé.{:delay AF 00}{:clear }You and I both miss
+    someone we care about.{:delay ED 00}{:clear }Hey...I feel like we´re friends already.

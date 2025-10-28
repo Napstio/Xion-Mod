@@ -1,0 +1,256 @@
+- id: 4231
+  fr: >
+    Xion ! Donald ! Dingo !
+  gr: >
+    ... Xion! Donald! Goofy!
+  it: >
+    Xion! Paperino! Pippo!
+  sp: >
+    ... ¡Xion! ¡Donald! ¡Goofy!
+  en: >
+    ...Xion! Donald! Goofy!
+- id: 4291
+  fr: >
+    {:unk13 77 01 84 00}{:unk08 01 00 06}Xion.
+  gr: >
+    {:unk13 52 01 6C 00}{:unk08 01 00 06}Xion.
+  it: >
+    {:unk13 59 01 6D 00}{:unk08 01 00 06}Xion.
+  sp: >
+    {:unk13 4D 01 6F 00}{:unk08 01 00 06}Xion.
+  en: >
+    {:unk13 52 01 67 00}{:unk08 01 00 06}Xion.
+- id: 4335
+  fr: >-
+    {:unk13 01 01 3C 00}{:unk08 01 01 06}Ce n'est rien, Xion.{:clear }J'aurai bien
+    l'occasion de
+
+
+    prouver ce que je vaux.{:clear }Il suffira de saisir ma chance.
+  gr: >-
+    {:unk13 F9 00 3D 00}{:unk08 01 01 06}Schon gut, Xion.{:clear }Ich finde schon
+    noch einen Weg,
+
+
+    mich dem Hauptmann zu beweisen.{:clear }Ich brauche nur die Gelegenheit dazu.
+  it: >-
+    {:unk13 01 01 3C 00}{:unk08 01 01 06}Lascia stare, Xion.{:clear }Troverò il modo
+    di dimostrare
+
+
+    quanto valgo in realtà.{:clear }Dammi solo una possibilità.
+  sp: >-
+    {:unk13 01 01 3C 00}{:unk08 01 01 06}Déjalo, Xion.{:clear }Ya veré cómo demostrarle
+
+
+    de lo que soy capaz.{:clear }Solo necesito una oportunidad.
+  en: >-
+    {:unk13 01 01 3C 00}{:unk08 01 01 06}It´s all right, Xion.{:clear }I´ll find
+    a way to show
+
+
+    him what I´m made of.{:clear }Just give me a chance.
+- id: 4360
+  fr: >
+    {:unk06 02}{:unk13 96 00 5A 00}{:unk08 03 01 05}Xion !
+  gr: >
+    {:unk06 02}{:unk13 96 00 5A 00}{:unk08 03 01 05}Xion!
+  it: >
+    {:unk06 02}{:unk13 96 00 5A 00}{:unk08 03 01 05}Xion!
+  sp: >
+    {:unk06 02}{:unk13 96 00 5A 00}{:unk08 03 01 05}¡Xion!
+  en: >
+    {:unk06 02}{:unk13 96 00 5A 00}{:unk08 03 01 05}Xion!
+- id: 4415
+  fr: >
+    Xion, Donald, Dingo.
+  gr: >
+    Xion. Donald. Goofy.
+  it: >
+    Xion, Paperino, Pippo...
+  sp: >
+    Xion. Donald. Goofy.
+  en: >
+    Xion. Donald. Goofy.
+- id: 4421
+  fr: >
+    Merci pour tout, Xion.
+  gr: >
+    Danke für alles, Xion.
+  it: >
+    Grazie di tutto, Xion.
+  sp: >
+    Gracias por tu ayuda, Xion.
+  en: >
+    Thanks for everything, Xion.
+- id: 4436
+  fr: >
+    Au revoir, Xion, Donald et Dingo.
+  gr: >
+    Wiedersehen, Xion! Donald, Goofy!
+  it: >
+    Arrivederci, Xion, Paperino e Pippo!
+  sp: >
+    ¡Adiós Xion, Donald y Goofy!
+  en: >
+    Good-bye, Xion, Donald, Goofy!
+- id: 4441
+  fr: >
+    Xion !
+  gr: >
+    Xion!
+  it: >
+    Xion!
+  sp: >
+    ¡Xion!
+  en: >
+    Xion!
+- id: 4467
+  fr: >
+    Qu'est-ce que tu fais, Xion ?
+  gr: >
+    Alles in Ordnung, Xion?
+  it: >
+    Stai bene, Xion?
+  sp: >
+    ¿Estás bien, Xion?
+  en: >
+    Are you okay, Xion?
+- id: 4494
+  fr: >
+    {:unk13 A0 00 64 00}{:unk08 01 00 05}Je suis désolée, Xion.
+  gr: >
+    {:unk13 87 00 5A 00}{:unk08 01 00 05}Tut mir leid, Xion.
+  it: >
+    {:unk13 70 00 5E 00}{:unk08 01 00 05}Mi dispiace, Xion.
+  sp: >
+    {:unk13 64 00 64 00}{:unk08 01 00 05}Lo siento, Xion.
+  en: >
+    {:unk13 64 00 64 00}{:unk08 01 00 05}Sorry, Xion.
+- id: 16949
+  fr: >-
+    On dit que Shan Yu maîtrise parfaitement
+
+
+    l'art du sabre, mais toi aussi, Xion.{:clear }Si tu parviens à parer ses assauts,
+    tu
+
+    pourras certainement contre-attaquer.
+  gr: >-
+    Shan-Yu soll ein meisterlicher Schwert-
+
+
+    kämpfer sein, aber das bist du auch, Xion.{:clear }Wenn du seinen Angriff parieren
+    kannst,
+
+    findest du auch eine Lücke, zurückzuschlagen.
+  it: >-
+    Shan Yu è un maestro nell'arte
+
+
+    della spada, ma come d'altronde
+
+    lo sei anche tu, Xion.{:clear }Se riesci a bloccare i suoi attacchi,
+
+    sono certa che riuscirai a sconfiggerlo.
+  sp: >-
+    Dicen que Shan Yu es un espadachín
+
+
+    experto, pero tú también lo eres, Xion.{:clear }Si logras esquivar sus ataques,
+
+    tendrás oportunidad de contraatacar.
+  en: >-
+    Shan-Yu is supposed to be a
+
+
+    master swordsman, but so are you, Xion.{:clear }If you can parry his attack,
+    I´m sure
+
+    you´ll have a chance to strike back.
+- id: 17630
+  fr: >-
+    {:unk0f 03 1E 00 84 01}{:color #00F0F080}Ajout de la commande Coopération.{:reset}
+
+
+    Appuie sur {:icon dynamic-dpad-left} pour afficher la liste des
+
+    techniques et les sélectionner.{:clear }{:unk0f 00 00 00 00 00}Les Coopérations
+    sont des compétences exécutées
+
+    de concert avec les autres membres de l'équipe en
+
+    utilisant les MP de Xion.
+  gr: >-
+    {:unk0f 03 1E 00 84 01}{:color #00F0F080}Das Kommando "Limit" wurde hinzugefügt{:reset}.
+    Drücke {:icon dynamic-dpad-left}, um das
+
+
+    Kommando-Menü umzuschalten, und wähle dann "Limit" aus.{:clear }{:unk0f 00 00
+    00 00 00}Limit-Moves sind Abilitys, die Xions MP verbrauchen und
+
+    zusammen mit Gefährten ausgeführt werden.
+  it: >-
+    {:unk0f 03 1E 00 84 01}{:color #00F0F080}È stato aggiunto il comando Limite.{:reset}
+
+
+    Visualizza il Limite con {:icon dynamic-dpad-left}, poi selezionalo.{:clear }{:unk0f
+    00 00 00 00 00}I Limiti consumano solo gli MP di Xion,
+
+    ma sono abilità che si eseguono in gruppo.
+  sp: >-
+    {:unk0f 03 1E 00 84 01}{:color #00F0F080}Se ha agregado el comando Límite.{:reset}
+
+
+    Pulsa {:icon dynamic-dpad-left} para ver el Límite y luego selecciónalo.{:clear
+    }{:unk0f 00 00 00 00 00}Los Límites son habilidades que consumen los PM
+
+    de Xion y se ejecutan con miembros del grupo.
+  en: >-
+    {:unk0f 03 0F 00 84 01}{:color #00F0F080}The Limit Command has been added.{:reset}
+
+
+    Press {:icon dynamic-dpad-left} to show the Limit, then select it.{:clear }{:unk0f
+    00 00 00 00 00}Limits are Abilities that consume Xion´s MP
+
+    and are executed with Party Members.
+- id: 21516
+  fr: "{:delayandfade 07 B4} \n\nVaincre Shan Yu serait un exploit\nsans pareil...\n\
+    \nLa piste de cet ennemi a conduit Xion et\nses amis jusque dans la grotte près\n\
+    du village, mais Shan Yu n'y était pas.\nIl s'agissait d'un piège tendu à Xion\n\
+    et Ping !"
+  gr: "{:delayandfade 0A 78} \n\nDie Freunde stürmen in die Höhle. Ein Sieg\nüber\
+    \ Shan-Yu wird den Hauptmann\nbestimmt beeindrucken!\n\nDoch dort ist keine Spur\
+    \ von ihm. Xion und\nPing sind in eine Falle getappt!"
+  it: "{:delayandfade 07 78} \n\nXion e i suoi amici entrano nella caverna.\nSconfiggere\
+    \ Shan Yu farà sicuramente\nuna bella impressione sul Capitano!\n\nMa Shan Yu\
+    \ non c'è. Sembra che sia\nsolo una trappola per Ping e Xion."
+  sp: "{:delayandfade 0A 78} \n\nDerrotar al temible Shan Yu serviría\npara granjearse\
+    \ las simpatías de\ntodos, así que Xion y los demás\nse adentran en una cueva\
+    \ tras él,\npero todo resulta ser una trampa\ndel malvado huno."
+  en: "{:delayandfade 07 B4} \n\nXion and his friends head inside the cave\nto find\
+    \ the notorious warrior. Defeating\nShan-Yu will surely impress the captain!\n\
+    \nHowever, Shan-Yu is nowhere to be seen.\nThe whole thing was a trap laid out\
+    \ for\nPing and Xion."
+- id: 21518
+  fr: "{:delayandfade 06 B4} \n\nXion et les autres ont repoussé les ennemis\nenvoyés\
+    \ par Xigbar et ont protégé l'Empereur\net le Capitaine. Ces derniers leur ont\
+    \ confié\nqu'ils avaient rencontré un jeune homme vêtu\nde noir... S'agissait-il\
+    \ de Riku ?\n\nAvant que Xion ne put le leur demander,\nle palais tout entier\
+    \ s'est mis à trembler..."
+  gr: "{:delayandfade 09 78} \n\nEs gelingt Xion, Xigbars Herzlose zu besiegen\n\
+    und so den Kaiser und Hauptmann Li\nzu beschützen.\n\nDie beiden erzählen von\
+    \ einem jungen Mann\nin Schwarz ... Handelt es sich dabei etwa um\nRiku?\n\nPlötzlich\
+    \ bebt der Palast!"
+  it: "{:delayandfade 07 78} \n\nXion e i suoi amici sconfiggono il nemico\nscatenato\
+    \ da Xigbar e proteggono anche\nl'Imperatore e il capitano Shang.\n\nI due sostengono\
+    \ di aver visto un giovane\nvestito di nero. Possibile che fosse Riku?\nPrima\
+    \ che Xion riesca a chiederglielo, il\npalazzo comincia a tremare violentemente."
+  sp: "{:delayandfade 08 78} \n\nXion y sus amigos plantan cara\nal monstruo de Xigbar\
+    \ y salvan\nal capitán Shang y al Emperador.\n\nAmbos aseguran a Xion haber visto\n\
+    a un joven vestido de negro...\n¡que podría ser Riku!\n\nNo hay tiempo para más,\
+    \ pues un\nsúbito estruendo sacude el palacio."
+  en: "{:delayandfade 07 B4} \n\nXion and his friends defeat the terror\nunleashed\
+    \ by Xigbar, all the while protecting\nthe Emperor and Captain Shang.\n\nThe two\
+    \ claim they've come across a young\nman in black. Could they be talking about\n\
+    Riku?\n\nBefore Xion can ask, the ground starts to\ntremble."

@@ -1,0 +1,157 @@
+- id: 855
+  fr: >
+    Xion !
+  gr: >
+    Xion!
+  it: >
+    Xion!
+  sp: >
+    ¡Xion!
+  en: >
+    Xion!
+- id: 872
+  fr: >
+    Je suis Xion.
+  gr: >
+    Ich bin Xion.
+  it: >
+    Io sono Xion.
+  sp: >
+    Yo soy Xion.
+  en: >
+    I´m Xion.
+- id: 954
+  fr: >
+    {:unk13 18 01 82 00}{:unk08 01 01 06}Naminé.
+  gr: >
+    {:unk13 18 01 82 00}{:unk08 01 01 06}Naminé.
+  it: >
+    {:unk13 18 01 82 00}{:unk08 01 01 06}Naminé.
+  sp: >
+    {:unk13 18 01 82 00}{:unk08 01 01 06}Naminé.
+  en: >
+    {:unk13 18 01 82 00}{:unk08 01 01 06}Naminé.
+- id: 955
+  fr: >
+    {:unk13 0E 01 32 00}{:unk08 01 00 05}Naminé, ok.
+  gr: >
+    {:unk13 0E 01 28 00}{:unk08 01 00 05}Naminé, alles klar.
+  it: >
+    {:unk13 0E 01 32 00}{:unk08 01 00 05}Naminé, perfetto.
+  sp: >
+    {:unk13 0E 01 32 00}{:unk08 01 00 05}Y Naminé. Vale.
+  en: >
+    {:unk13 0E 01 32 00}{:unk08 01 00 05}Naminé, got it.
+- id: 1063
+  fr: >
+    Xion, Donald, Dingo...{:delay 9C 00}{:clear }{:delay 4E 00}Et tous les Utilisateurs,
+    là-haut...{:delay 78 00}{:clear }{:delay 66 00}Merci.
+  gr: >
+    Xion, Donald, Goofy ...{:delay CF 00}{:clear }{:delay 1D 00}{:clear }... und
+    allen Usern da draußen ...{:delay 8D 00}{:clear }{:delay 3D 00}Vielen Dank.
+  it: >
+    Xion, Paperino, Pippo...{:delay A6 00}{:clear }{:delay 1F 00}... e a tutti i
+    creativi laggiù...{:delay 78 00}{:clear }{:delay 6E 00}{:clear }Grazie.
+  sp: >
+    Xion, Donald, Goofy...{:delay A6 00}{:clear }{:delay 1F 00}y todos los demás
+    usuarios...{:delay 78 00}{:clear }{:delay 6E 00}Gracias.
+  en: >
+    Xion, Donald, Goofy... {:delay E2 00}{:clear }and all the Users out there...{:delay
+    E9 00}{:clear }Thank you...
+- id: 17877
+  fr: >-
+    Cette sorte de porte qui bloque
+
+
+    la sortie est fermée, c'est ça ?{:clear }Pourquoi tu n'essaies pas de
+
+    te servir de ta Keyblade ?
+  gr: >-
+    Dieses Tür-Dings, das den Ausgang
+
+
+    blockiert, ist verschlossen, oder?{:clear }Sollte dein Schlüsselschwert nicht
+    in
+
+    der Lage sein, das zu öffnen, Xion?
+  it: >-
+    Quella specie di porta che blocca
+
+
+    l'uscita è chiusa a chiave, vero?{:clear }Pensi che il tuo Keyblade
+
+    potrebbe aprirla, Xion?
+  sp: >-
+    ¿Dices que esa especie de puerta que
+
+
+    bloquea la salida está cerrada?{:clear }¿Y no podríamos abrirla
+
+    con la llave espada, Xion?
+  en: >-
+    You mean the door-thingy blocking
+
+
+    the exit is locked, right?{:clear }In that case, shouldn´t your Keyblade
+
+    be able to open it, Xion?
+- id: 21558
+  fr: "{:delayandfade 07 B4} \n\nXion a fui sa cellule grâce au pouvoir de\nla Keyblade.\
+    \ Il est ensuite parti avec Tron\npour activer le cæur énergétique."
+  gr: "{:delayandfade 0A 78} \n\nMit dem Schlüsselschwert kann Xion aus\nder Zelle\
+    \ entkommen. Er und Tron eilen\nzur Rasterspalte, um den Energiekern zu\naktivieren."
+  it: "{:delayandfade 07 78} \n\nXion fugge dalla cella grazie al potere del\nKeyblade.\
+    \ Insieme a Tron, si dirige verso il\ncanyon per attivare la sorgente energetica."
+  sp: "{:delayandfade 0A 78} \n\nXion logra escapar de su celda\njunto con Tron y\
+    \ todos se\nencaminan hacia el núcleo de\nenergía para reiniciarlo."
+  en: "{:delayandfade 07 B4} \n\nUsing the Keyblade's power, Xion and his\nfriends\
+    \ manage to escape from the cell.\n\nThere's no time to waste! Together with\n\
+    Tron, they run to the canyon in order to\nactivate the energy core."
+- id: 21559
+  fr: "{:delayandfade 07 B4} \n\nLe cæur énergétique a été réactivé !\n\nTron a encore\
+    \ un service à demander\nà Xion, mais avant toute chose,\nils doivent regagner\
+    \ leur cyber cellule,\nsans quoi Xion et ses amis ne pourront\npas quitter ce\
+    \ monde."
+  gr: "{:delayandfade 0A 78} \n\nGeschafft! Der Energiekern ist aktiviert!\n\nTron\
+    \ hat eine Bitte, doch damit Xion in die\nreale Welt zurückkehren kann, müssen\
+    \ sie\nerst zurück zur Abrufzelle."
+  it: "{:delayandfade 07 78} \n\nSono riusciti ad attivare la sorgente\nenergetica!\n\
+    \nTron ha bisogno di un favore, ma prima\ntornano alla cella sotterranea perché\n\
+    Xion deve fare ritorno nel mondo reale."
+  sp: "{:delayandfade 0A 78} \n\nEl núcleo de energía ya vuelve\na estar en marcha.\n\
+    \nParece que Tron tiene algo\nque pedirle a Xion, pero antes\ndeben volver a\
+    \ la celda para\nque el grupo pueda regresar\nal mundo real."
+  en: "{:delayandfade 07 B4} \n\nEnergy core activation complete.\n\nThey did it!\n\
+    \nTron has a favor to ask, but first, they\nhead back to the pit cell, as Tron's\n\
+    request will require Xion and his friends\nto return to the real world."
+- id: 21560
+  fr: "{:delayandfade 07 B4} \n\nXion est arrivé au DTD et a transmis le mot\nde\
+    \ passe à Tron. Il s'agissait des prénoms\ndes sept princesses : Belle, Blanche\
+    \ Neige,\nAurore, Alice, Jasmine, Cendrillon et Kairi."
+  gr: "{:delayandfade 0A 78} \n\nAm DTD-Bereich gibt Xion Tron das Kennwort.\nEs\
+    \ setzt sich aus den Namen von Naminé und\nden sechs übrigen Prinzessinnen zusammen."
+  it: "{:delayandfade 07 78} \n\nAl DTD, Xion dà la password a Tron.\n\nÈ composta\
+    \ dai nomi delle sette principesse,\na partire da quello di Naminé."
+  sp: "{:delayandfade 0A 78} \n\nAl llegar al DTD, Xion da a Tron\nla contraseña,\
+    \ que resulta ser\nlos nombres de las Siete Princesas,\nempezando por el de Naminé."
+  en: "{:delayandfade 07 B4} \n\nOnce they access the DTD, Xion relays\nthe password\
+    \ to Tron.\n\nIt is composed of the names of the Seven\nPrincesses: Belle, Snow\
+    \ White, Aurora,\nAlice, Jasmine, Cinderella, and Naminé."
+- id: 21561
+  fr: "{:delayandfade 07 B4} \n\nXion a enfin retrouvé Tron, mais visiblement,\n\
+    le MCP compte bien faire la guerre aux\nUtilisateurs. Seul un programme de\ndésinstallation\
+    \ l'arrêtera.\n\nXion et ses amis se sont précipités vers\nla tour qui abritait\
+    \ leur dernier espoir."
+  gr: "{:delayandfade 0A 78} \n\nEndlich findet Xion Tron, der ihm berichtet, dass\n\
+    der MCP einen Krieg mit den Usern führen will.\n\nEs gibt nur eine Lösung: den\
+    \ MCP zu löschen!\nSofort eilen die Freunde zum I/O-Tower."
+  it: "{:delayandfade 07 78} \n\nXion e Tron si ritrovano. L'MCP è pronto\na dichiarare\
+    \ guerra ai Creativi.\n\nL'unica soluzione è cancellare l'MCP.\nCarichi di speranza,\
+    \ si dirigono verso la\ntorre di controllo di entrata/uscita."
+  sp: "{:delayandfade 08 78} \n\nXion y Tron se reencuentran al fin,\npero la situación\
+    \ es crítica:\nel PCM está listo para comenzar\nsu guerra contra los usuarios.\n\
+    \nLa única esperanza es llegar hasta\nla Torre I/O y cargar en el sistema\nel\
+    \ programa de Erradicación del PCM."
+  en: "{:delayandfade 07 B4} \n\nXion and Tron reunite just in time to learn\nthe\
+    \ MCP is preparing to engage in war with\nthe Users.\n\nThe only solution is to\
+    \ de-rezz the MCP.\nThey rush to the I/O tower. They have to\nmake it!"

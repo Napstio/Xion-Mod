@@ -1,0 +1,470 @@
+- id: 54
+  fr: >
+    Xion, on y va !
+  gr: >
+    Xion, gehen wir!
+  it: >
+    Xion, andiamo!
+  sp: >
+    ¡Xion, vámonos!
+  en: >
+    Xion, let´s go!
+- id: 76
+  fr: >
+    Xion ! Donald ! Dingo !
+  gr: >
+    Xion! Donald! Goofy!
+  it: >
+    Xion! Paperino! Pippo!
+  sp: >
+    ¡Xion! ¡Donald! ¡Goofy!
+  en: >
+    Xion! Donald! Goofy!
+- id: 103
+  fr: >
+    Ah, salut !
+  gr: >
+    Hallo, Xion!
+  it: >
+    Ciao, Xion!
+  sp: >
+    ¡Hola, Xion!
+  en: >
+    Hi, Xion!
+- id: 133
+  fr: >
+    {:unk13 70 00 3B 00}{:unk08 01 01 04}Hem... Xion ?
+  gr: >
+    {:unk13 5D 00 36 00}{:unk08 01 01 04}Äh, Xion?
+  it: >
+    {:unk13 5D 00 36 00}{:unk08 01 01 04}Ehi, Xion?
+  sp: >
+    {:unk13 67 00 33 00}{:unk08 01 01 04}Eh, Xion...
+  en: >
+    {:unk13 5D 00 36 00}{:unk08 01 01 04}Uh, Xion?
+- id: 225
+  fr: >-
+    {:unk13 95 01 C4 00}{:unk08 01 00 00}Qu'allez-vous faire
+
+
+    maintenant, Xion ?
+  gr: >-
+    {:unk13 95 01 C4 00}{:unk08 01 00 00}Was steht bei euch
+
+
+    jetzt an, Xion?
+  it: >
+    {:unk13 95 01 C4 00}{:unk08 01 00 00}E adesso, Xion?
+  sp: >-
+    {:unk13 95 01 C4 00}{:unk08 01 00 00}¿Qué haréis
+
+
+    ahora, Xion?
+  en: >-
+    {:unk13 95 01 C4 00}{:unk08 01 00 00}What happens
+
+
+    next, Xion?
+- id: 231
+  fr: >-
+    {:unk13 55 01 7C 00}{:unk08 01 00 01}Vous ne pouvez pas partir
+
+
+    sans lui dire au revoir.{:clear }Bougez pas.
+
+    Je vais le chercher.
+  gr: >-
+    {:unk13 55 01 7C 00}{:unk08 01 00 01}Al kann doch nicht Xion'
+
+
+    große Abschiedsfeier verpassen!{:clear }Ich werde ihn holen.
+
+    Bin gleich wieder da!
+  it: >-
+    {:unk13 55 01 7C 00}{:unk08 01 00 01}Al non può mancare alla
+
+
+    festa d'addio di Xion!{:clear }Lo farò tornare in
+
+    un batter d'occhio!
+  sp: >-
+    {:unk13 55 01 7C 00}{:unk08 01 00 01}¡Al no puede perderse la gran
+
+
+    fiesta de despedida de Xion!{:clear }¡Voy por él y lo traigo
+
+    en un periquete!
+  en: >-
+    {:unk13 55 01 7C 00}{:unk08 01 00 01}Al can´t miss Xion´s
+
+
+    big farewell party!{:clear }I´ll have him back
+
+    in a jiffy!
+- id: 241
+  fr: >
+    Xion... Qu'est-ce qui se passe ?
+  gr: >
+    Xion? Was geschieht da?
+  it: >
+    Xion, che succede?
+  sp: >
+    Xion... ¿qué ocurre?
+  en: >
+    Xion... What is it?
+- id: 259
+  fr: >
+    Xion ! Capture le marchand !
+  gr: >
+    Xion! Lass ihn nicht entkommen!
+  it: >
+    Xion! Non lasciarlo andare!
+  sp: >
+    ¡Xion! ¡No dejes que escape!
+  en: >
+    Xion! Don´t let him get away!
+- id: 292
+  fr: >
+    Xion !
+  gr: >
+    Xion!
+  it: >
+    Xion!
+  sp: >
+    ¡Xion!
+  en: >
+    Xion!
+- id: 372
+  fr: >-
+    {:delay 61 00}{:clear }Xion ! Donald ! Dingo !
+
+
+    Vous êtes trop sympas, les gars.{:delay C3 00}{:clear }Si vous avez envie de faire
+    une
+
+    super-méga fiesta cosmique,{:delay BC 00}{:clear }vous m'appelez. Pigé ?
+  gr: >-
+    {:delay 64 00}{:clear }Xion! Donald! Goofy!
+
+
+    Ihr seid echt 'ne Wucht!{:delay D2 00}{:clear }Wenn ihr mal wieder Lust auf
+
+    kosmisches Halligalli kriegt ...{:delay C8 00}{:clear }... gebt mir Bescheid!
+  it: >-
+    {:delay 64 00}{:clear }Xion! Paperino! Pippo!
+
+
+    Siete troppo forti!{:delay D2 00}{:clear }Se vi viene voglia di vedermi
+
+    in azione, fatemi un fischio!
+  sp: >-
+    {:delay 60 00}{:clear }¡Xion! ¡Donald! ¡Goofy!
+
+
+    ¡Sois la bomba!{:delay D8 00}{:clear }Si alguna vez os apetece otra juerga
+
+    cósmica, pegadme un toque. ¿Vale?
+  en: >-
+    {:delay 64 00}{:clear }Xion! Donald! Goofy!
+
+
+    You guys are too much!{:delay D2 00}{:clear }If you're ever in the mood for some
+    more
+
+    cosmic razzle-dazzle, gimme a shout, okay?
+- id: 375
+  fr: >
+    Je dois encore te remercier, Xion.{:delay 74 00}{:clear } {:delay 36 00}{:clear
+    }Ne nous oublie pas, d'accord ?
+  gr: >
+    Ihr habt uns wieder aus der Patsche geholfen.{:delay 8C 00}{:clear }{:delay 1E
+    00}{:clear }Vergesst uns nicht, okay?
+  it: >
+    Beh, grazie ancora, Xion.{:delay 78 00}{:clear } {:delay 28 00}{:clear }Non dimenticarti
+    di noi!
+  sp: >
+    Te estamos muy agradecidos, Xion.{:delay A8 00}{:clear }No te olvides de nosotros,
+    ¿vale?
+  en: >
+    Well, you´ve done it again, Xion.{:delay 78 00}{:clear } {:delay 28 00}{:clear
+    }Don´t forget about us, okay?
+- id: 377
+  fr: >-
+    Xion, je voulais te dire...
+
+
+    L'ami que tu recherches...
+  gr: >-
+    Und Xion, dieser Freund, nach dem
+
+
+    du suchst -- hast du ihn gefunden?
+  it: >-
+    E poi, Xion... Quel tuo amico,
+
+
+    quello che stai cercando...
+  sp: >-
+    Xion... una cosa más. Sobre ese
+
+
+    amigo al que estáis buscando...
+  en: >-
+    And Xion...about that friend of yours,
+
+
+    the one you´re looking for...
+- id: 4091
+  fr: >
+    {:delay 38 00}{:clear }Iago !{:delay 3F 00}{:clear }Vite, Xion, attrape-le !
+  gr: >
+    {:delay 4F 00}{:clear }Jago!{:delay 4C 00}{:clear }Schnell, Xion, schnapp ihn
+    dir!
+  it: >
+    {:delay 38 00}{:clear }Iago!{:delay 50 00}{:clear }Presto Xion, prendilo!
+  sp: >
+    {:delay 4E 00}{:clear }¡Iago!{:delay 3C 00}{:clear }¡Rápido, Xion! ¡Atrápalo!
+  en: >
+    {:delay 38 00}{:clear }Iago!{:delay 50 00}{:clear }Quick, Xion, catch him!
+- id: 17063
+  fr: >-
+    Le type qui poursuivait le marchand,
+
+
+    c'est votre ennemi ?{:clear }Il vaudrait mieux l'empêcher de s'emparer
+
+    de la lampe. Dépêchons-nous !
+  gr: >-
+    Der Kerl, der den Trödler verfolgt hat, ist
+
+
+    der, der euch so viel Ärger macht, nicht?{:clear }Sollte die Lampe gestohlen werden,
+    kann das
+
+    nichts Gutes verheißen. Beeilen wir uns, Xion!
+  it: >-
+    Quel tipo che insegue il mercante
+
+
+    ti stava creando dei problemi, vero?{:clear }Saremo nei guai se la lampada
+
+    sarà rubata. Sbrighiamoci, Xion!
+  sp: >-
+    Ese tipo que perseguía al mercader
+
+
+    os está causando problemas, ¿no?{:clear }Si alguien roba esa lámpara, no habrá
+
+    más que desgracias. ¡Deprisa, Xion!
+  en: >-
+    That guy chasing the peddler was
+
+
+    the one causing you trouble, right?{:clear }Nothing good will come of that lamp
+
+    being stolen. We´d better hurry, Xion!
+- id: 19204
+  fr: >-
+    Ça me fait plaisir de vous revoir.
+
+
+    Vous voulez aller dans les ruines ?{:clear }Eh bien, elles sont dans le désert.
+
+    Vous ne me cachez rien, j'espère ?
+  gr: >-
+    Es ist so toll, dich wiederzusehen, Xion.
+
+
+    Was? Ihr geht zu den Ruinen?{:clear }Nun, ihr müsst durch die Wüste,
+
+    um dorthin zu gelangen ...{:clear }Sagt mal, ihr verbergt doch
+
+    nichts vor mir, oder?
+  it: >-
+    Che bello rivederti, Xion.
+
+
+    Come? Stai andando alle rovine?{:clear }Beh, puoi arrivarci passando
+
+    dal deserto...{:clear }Dimmi, non è che mi stai
+
+    nascondendo qualcosa?
+  sp: >-
+    ¡Qué alegría volver a verte, Xion!
+
+
+    ¿Qué? ¿Irás a las ruinas?{:clear }Bueno, para llegar allí
+
+    debes cruzar el desierto...{:clear }No me estarás ocultando
+
+    algo, ¿verdad?
+  en: >-
+    It´s so great to see you again, Xion.
+
+
+    What? You´re going to the ruins?{:clear }Well, you can get to them
+
+    through the desert...{:clear }Say, you aren´t hiding anything
+
+    from me, are you?
+- id: 21509
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Puisque Iago avait volé au secours de Xion et
+
+    des autres, il était difficile de ne pas le croire
+
+    lorsqu'il disait vouloir faire amende honorable.
+
+
+    Ensemble, le petit groupe avait pris la route
+
+    du palais, dans l'espoir d'y retrouver
+
+    Aladdin.
+  gr: "{:delayandfade 0A 78} \n\nJago hilft Xion, Donald und Goofy\nzu entkommen.\
+    \ Er will sich offenbar\nwirklich entschuldigen.\n\nGemeinsam machen sich die\
+    \ vier auf den\nWeg zum Palast, um Aladdin zu suchen."
+  it: "{:delayandfade 07 78} \n\nDopo essere stati salvati da Iago, Xion\ne i suoi\
+    \ amici cominciano a credere\nche il pappagallo voglia farsi perdonare.\n\nSi\
+    \ dirigono tutti insieme verso il palazzo,\nnella speranza di trovare Aladdin."
+  sp: "{:delayandfade 0A 78} \n\nIago saca de un buen apuro\na todos, lo que da más\n\
+    credibilidad a sus disculpas.\n\nTras la escaramuza, el grupo\npone rumbo al palacio\
+    \ para\nver a Aladdín."
+  en: "{:delayandfade 07 B4} \n\nAfter Iago comes to the rescue of Xion and\nhis\
+    \ pals, they have no choice but to believe\nhe wants to make things right.\n\n\
+    With their new friend in tow, they head to\nthe palace in hopes of finding Aladdin."
+- id: 21511
+  fr: "{:delayandfade 06 B4} \n\nXion aurait bien voulu acquérir cet objet,\nmais\
+    \ le marchand exigeait un véritable\ntrésor en échange... Heureusement,\nvoilà\
+    \ bien quelque chose qui ne manquait\npas dans la Caverne aux Merveilles !\n\n\
+    Xion devait se dépêcher, s'il voulait récupérer\nl'objet de sa convoitise."
+  gr: "{:delayandfade 0A 78} \n\nDer Trödler ist bereit, die Lampe gegen\neinen wertvollen\
+    \ Schatz abzutreten!\n\nWo soll Xion denn einen Schatz\nauftreiben? Vielleicht\
+    \ wird er ja\nin der Wunderhöhle fündig ..."
+  it: "{:delayandfade 07 78} \n\nXion e i suoi amici cercano di comprare\nla lampada\
+    \ dal mercante, ma il prezzo\nè astronomico anche per un sultano.\n\nForse ci\
+    \ vuole un oggetto dalla Caverna\ndelle Meraviglie, ma devono fare in\nfretta\
+    \ se vogliono mettere le mani su\nquella lampada."
+  sp: "{:delayandfade 0A 78} \n\nEl ladino mercader exige\ncomo pago por la lámpara\n\
+    un tesoro digno de un sultán.\n\nAlgo así, sin duda podría\nhallarse en la Cueva\
+    \ de\nlas Maravillas."
+  en: "{:delayandfade 07 B4} \n\nXion and his friends try to buy the lamp\noff the\
+    \ peddler, but his asking price is\na treasure fit for a sultan.\n\nPerhaps an\
+    \ item from the Cave of Wonders\nwill do. But they have to hurry if they\nwant\
+    \ to get their hands on that lamp!"
+- id: 21512
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Iago avait réussi à se faire une place au sein
+
+    du groupe. Celui-ci s'apprêtait d'ailleurs à
+
+    poursuivre son voyage à la recherche de
+
+    Riku et du Roi Mickey, quand Xion remarqua
+
+    l'absence d'Aladdin...
+  gr: "{:delayandfade 0A 78} \n\nDie anderen haben Jago verziehen und\nnehmen ihn\
+    \ in ihren Freundeskreis auf.\n\nXion will seine Suche nach Riku und\ndem König\
+    \ fortsetzen, doch von Aladdin\nfehlt jede Spur.\n\nIn diesem Moment ..."
+  it: "{:delayandfade 07 78} \n\nNon ci è voluto molto perché Iago\nentrasse nel gruppo.\n\
+    \nMentre Xion continua il suo viaggio\nalla ricerca di Riku e il Re, si accorge\n\
+    improvvisamente che Aladdin è sparito."
+  sp: >-
+    {:delayandfade 0A B4}
+
+
+    Finalmente, los actos de Iago le sirven
+
+    para granjearse la confianza de todos.
+
+
+    Resueltos los problemas, Xion
+
+    y sus amigos se disponen a reanudar
+
+    la búsqueda de Riku y el rey, pero
+
+    es entonces cuando reparan en
+
+    la ausencia de Aladdín...
+  en: "{:delayandfade 07 B4} \n\nIt doesn't take long for Iago to become\npart of\
+    \ the gang.\n\nAs Xion prepares to resume his journey\nto find Riku and the King,\
+    \ he realizes\nAladdin is nowhere to be found.\n\nAnd that's when..."
+- id: 21513
+  fr: >-
+    {:delayandfade 06 B4}
+
+
+    Xion n'a pas perdu une minute en arrivant
+
+    à Agrabah pour interroger le marchand au
+
+    sujet de l'Organisation {XIII}. Mais bien que
+
+    ce dernier semblait savoir quelque chose,
+
+    il ne lui apprit rien.
+
+
+    Xion et ses amis vont bien être obligés
+
+    d'aller enquêter par eux-mêmes.
+  gr: "{:delayandfade 07 78} \n\nNach ihrer Ankunft in Agrabah suchen\nXion und seine\
+    \ Freunde sofort den Trödler\nauf, um ihn zur Organisation {XIII} zu\nbefragen.\
+    \ Er scheint etwas zu wissen, will\naber nicht mit der Sprache rausrücken.\n\n\
+    Xion muss sich wohl weiter umhören ..."
+  it: "{:delayandfade 07 78} \n\nXion chiede al mercante cosa sa\ndell'Organizzazione\
+    \ {XIII}, ma l'uomo\nrimane vago e non rivela niente di utile.\n\nIl gruppo allora\
+    \ va altrove alla ricerca\ndi informazioni."
+  sp: >-
+    {:delayandfade 07 B4}
+
+
+    De vuelta en Agrabah, Xion pregunta
+
+    al mercader sobre la Organización {XIII}.
+
+    Aunque resulta evidente que no es
+
+    la primera vez que escucha ese
+
+    nombre, no suelta prenda.
+
+
+    No queda más remedio que buscar
+
+    pistas en otro sitio.
+  en: "{:delayandfade 07 B4} \n\nBack in Agrabah, Xion tries to find\nout what the\
+    \ peddler knows about\nOrganization {XIII}. Although he seems to\nknow something,\
+    \ he divulges nothing.\n\nThey give up and head off to search for\ninformation\
+    \ elsewhere, but they don't\nget very far..."
+- id: 21514
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Jafar convoitait toujours le trône d'Agrabah...
+
+
+    Après avoir forcé Iago à lui apprendre où se
+
+    trouvait l'ancien grand vizir, Xion a pris
+
+    la route des ruines du désert avec ses amis.
+  gr: "{:delayandfade 0A 78} \n\nDschafar will sich Agrabah\nwieder einmal unterwerfen.\n\
+    \nLaut Jago versteckt er sich\nin den Ruinen in der Wüste.\nDie Freunde brechen\
+    \ sofort\nauf, um ihn zu stellen."
+  it: "{:delayandfade 07 78} \n\nJafar è impegnato a diventare il signore\ndi Agrabah.\n\
+    \nXion scopre che Jafar si nasconde nelle\nrovine nel deserto e corre a cercarlo."
+  sp: "{:delayandfade 0A 78} \n\nUna vez más, los planes de Yafar\nson hacerse con\
+    \ Agrabah.\n\nPor suerte, Iago revela a Xion\nque el malvado personaje se\nesconde\
+    \ en las Ruinas Enterradas\ndel desierto."
+  en: "{:delayandfade 07 B4} \n\nJafar is intent on becoming the ruler of\nAgrabah\
+    \ once and for all.\n\nWhen Xion and his friends learn from Iago\nthat Jafar\
+    \ is lurking in the Desert Ruins,\nthey hurry after him. He must be stopped!"

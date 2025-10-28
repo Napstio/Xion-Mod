@@ -1,0 +1,766 @@
+- id: 3505
+  fr: >
+    Je suis Xion.
+  gr: >
+    Ich bin Xion.
+  it: >
+    Io sono Xion.
+  sp: >
+    Soy Xion.
+  en: >
+    I´m Xion.
+- id: 3524
+  fr: >-
+    Je m'appelle Xion.
+
+
+    Et je te présente Donald et Dingo.{:delay AF 00}{:clear }On est venus voir comment
+    va Hercule.
+  gr: >-
+    Ich bin Xion, und das hier
+
+
+    sind Donald und Goofy.{:delay A5 00}{:clear }Wir wollten nur mal schauen,
+
+    wie es Hercules so geht.
+  it: >-
+    Io sono Xion, lui è Paperino
+
+
+    e quello è Pippo.{:delay AF 00}{:clear }Siamo venuti a trovare Ercole.
+  sp: >-
+    Yo soy Xion, estos son
+
+
+    Donald y Goofy. {:delay AF 00}{:clear }Venimos a ver cómo
+
+    le va a Hércules.
+  en: >-
+    I´m Xion, he´s Donald,
+
+
+    and that´s Goofy.{:delay AF 00}{:clear }We came to see how
+
+    Hercules is doing.
+- id: 3591
+  fr: >
+    Xion, ne me laisse pas tomber.
+  gr: >
+    Xion ... enttäusch mich nicht.
+  it: >
+    Xion, non deludermi.
+  sp: >
+    Xion, no me falles.
+  en: >
+    Xion, don´t let me down.
+- id: 3609
+  fr: >-
+    Xion ! Donald, Dingo !
+
+
+    Depuis quand vous êtes là ?
+  gr: >-
+    Xion! Donald, Goofy!
+
+
+    Seit wann seid ihr hier?
+  it: >-
+    Xion! Paperino, Pippo!
+
+
+    Quando siete arrivati?
+  sp: >-
+    ¡Xion! ¡Donald! ¡Goofy!
+
+
+    ¿Cuándo habéis llegado?
+  en: >-
+    Xion! Donald, Goofy!
+
+
+    When´d you get here?
+- id: 3683
+  fr: >
+    Roxas ?
+  gr: >
+    Roxas?
+  it: >
+    Roxas?
+  sp: >
+    ¿Roxas?
+  en: >
+    Roxas?
+- id: 3692
+  fr: >
+    {:delay 6E 00}{:clear }Roxas, on a besoin de toi !
+  gr: >
+    {:delay 82 00}{:clear }Roxas, komm zu uns zurück!
+  it: >
+    {:delay 6C 00}{:clear }Roxas, torna da noi!
+  sp: >
+    {:delay 6C 00}{:clear }Roxas, vuelve con nosotros.
+  en: >
+    {:delay 6C 00}{:clear }Roxas, come back to us!
+- id: 3700
+  fr: >
+    Xion ! Derrière toi !
+  gr: >
+    Xion! Hinter euch!
+  it: >
+    Xion! Dietro di te!
+  sp: >
+    ¡Xion! ¡Detrás de ti!
+  en: >
+    Xion, behind you!
+- id: 3710
+  fr: >
+    Xion... Je ne peux pas l'abandonner.
+  gr: >
+    Xion. Ich lass ihn nicht zurück.
+  it: >
+    Xion, non voglio lasciarlo.
+  sp: >
+    Xion... No puedo abandonarle.
+  en: >
+    Xion...I won´t leave him.
+- id: 3745
+  fr: >-
+    Ne vous inquiétez pas pour
+
+
+    super-mâle. Je veillerai sur lui.{:delay E5 00}{:clear }Xion, Donald, Dingo...
+
+    Je vous suis très reconnaissante.
+  gr: >-
+    Macht euch keine Sorgen um unseren
+
+
+    Wunderknaben. Ich päppel ihn wieder auf.{:delay FA 00}{:delay 0A 00}{:clear }Xion,{:delay
+    1E 00} {:delay 3C 00}{:clear }Donald, {:delay 3C 00} {:delay 0A 00}{:clear }Goofy.
+    {:delay 46 00}{:clear }Ich stehe tief in eurer Schuld.
+  it: >-
+    Non preoccupatevi per Megafusto.
+
+
+    Baderò io a lui.{:delay D8 00}{:clear }{:delay 36 00}{:clear }Xion...{:delay
+    5A 00}{:clear }Paperino...{:delay 5A 00}{:clear }Pippo...{:delay 3C 00}{:clear
+    }Vi sono davvero grata.
+  sp: >-
+    No os preocupéis por el fortachón.
+
+
+    Yo cuidaré de él.{:delay 14 01}{:clear }Xion,{:delay 54 00}{:clear }Donald,{:delay
+    4E 00}{:clear }Goofy...{:delay 42 00}{:clear }os debo un gran favor.
+  en: >-
+    Don´t worry about Wonderboy here.
+
+
+    I´ll look after him.{:delay D8 00}{:clear }{:delay 36 00}{:clear }Xion,{:delay
+    5A 00}{:clear }Donald,{:delay 5A 00}{:clear }Goofy,{:delay 3C 00}{:clear }I owe
+    you big time.
+- id: 3848
+  fr: >
+    Que se passe-t-il, Xion ?
+  gr: >
+    Was ist los, Xion?
+  it: >
+    Che cosa c'è, Xion?
+  sp: >
+    ¿Qué ocurre, Xion?
+  en: >
+    What´s wrong, Xion?
+- id: 3890
+  fr: >
+    Xion... Donald... Dingo.
+  gr: >
+    Xion ... Donald ... Goofy.
+  it: >
+    Xion... Paperino... Pippo.
+  sp: >
+    Xion... Donald... Goofy.
+  en: >
+    Xion. Donald. Goofy.
+- id: 3944
+  fr: >-
+    Je plaisante... Merci,
+
+
+    Xion, Donald, Dingo.
+  gr: >-
+    Euch gebührt unser Dank,
+
+
+    Xion, Donald, Goofy.
+  it: >-
+    Scherzavo!
+
+
+    Grazie, Xion, Paperino, Pippo.
+  sp: >-
+    De verdad.
+
+
+    Gracias, Xion, Donald... Goofy.
+  en: >-
+    I´m kidding. Thank you,
+
+
+    Xion, Donald, Goofy.
+- id: 4009
+  fr: >-
+    Xion doit combattre
+
+
+    seul, mais la jauge de Flux
+
+    se remplit plus vite et il
+
+    peut recourir aux Fusions.
+  gr: >-
+    Xion muss alleine kämpfen.
+
+
+    Die Drive-Leiste füllt sich
+
+    schneller als sonst, und Xion
+
+    kann Formen alleine einsetzen.
+  it: >-
+    Un torneo solo per Xion.
+
+
+    La barra Turbo si riempie più
+
+    in fretta del solito e Xion
+
+    può usare i Turbo da solo.
+  sp: >-
+    Xion lucha solo.
+
+
+    El indicador de Fusión se
+
+    llena más rápido que de
+
+    costumbre y Xion puede
+
+    usar Fusión estando solo.
+  en: >-
+    A solo fight using Xion.
+
+
+    The Drive Gauge fills
+
+    faster than usual, and
+
+    Xion can use Drives
+
+    alone.
+- id: 4012
+  fr: >-
+    Xion combat seul.
+
+
+    Il peut recourir
+
+    aux Invocations.
+  gr: >-
+    Xion muss alleine kämpfen.
+
+
+    Du kannst in diesem Turnier
+
+    alleine Freunde herbeirufen.
+  it: >-
+    Un torneo solo per Xion.
+
+
+    Xion può usare le Invocazioni
+
+    da solo in questo torneo.
+  sp: >-
+    En este torneo, Xion
+
+
+    lucha solo, pero puede
+
+    usar Invocar.
+  en: >-
+    A solo fight using Xion.
+
+
+    Xion can use Summons
+
+    alone in this tournament.
+- id: 4027
+  fr: >-
+    Xion doit combattre
+
+
+    seul mais la jauge de Flux
+
+    se remplit plus vite et il
+
+    peut recourir aux Fusions.
+  gr: >-
+    Xion muss alleine kämpfen.
+
+
+    Die Drive-Leiste füllt sich
+
+    schneller als sonst, und Xion
+
+    kann Formen alleine einsetzen.
+  it: >-
+    Un torneo solo per Xion.
+
+
+    La barra Turbo si riempie più
+
+    in fretta del solito e Xion
+
+    può usare i Turbo da solo.
+  sp: >-
+    Xion lucha solo.
+
+
+    El indicador de Fusión se
+
+    llena más rápido que de
+
+    costumbre y Xion puede
+
+    usar Fusión estando solo.
+  en: >-
+    A solo fight using Xion.
+
+
+    The Drive Gauge fills
+
+    faster than usual, and
+
+    Xion can use Drives
+
+    alone.
+- id: 4030
+  fr: >-
+    Xion combat seul.
+
+
+    Il peut recourir
+
+    aux Invocations.
+  gr: >-
+    Xion muss alleine kämpfen.
+
+
+    Du kannst in diesem Turnier
+
+    alleine Freunde herbeirufen.
+  it: >-
+    Un torneo solo per Xion.
+
+
+    Xion può usare le Invocazioni
+
+    da solo in questo torneo.
+  sp: >-
+    En este torneo, Xion
+
+
+    lucha solo, pero puede
+
+    usar Invocar.
+  en: >-
+    A solo fight using Xion.
+
+
+    Xion can use Summons
+
+    alone in this tournament.
+- id: 16144
+  fr: >-
+    Si je le pouvais, je volerais tout
+
+
+    de suite au secours de Meg...{:clear }Partez devant, je vous rejoindrai dès
+
+    que je me serai débarrassé de l'Hydre !
+  gr: >-
+    Glaubt mir, ich wünschte, ich könnte
+
+
+    jetzt aufbrechen, um Megara zu retten!{:clear }Bitte helft ihr, Xion. Zumindest
+    so lange,
+
+    bis ich die Hydra besiegt habe!
+  it: >-
+    Credimi, in questo istante, vorrei
+
+
+    solo volare a salvare Megara...{:clear }Xion, ti prego, proteggila almeno
+
+    fin quando non avrò sconfitto Idra!
+  sp: >-
+    Me encantaría ir a rescatar a
+
+
+    Megara sin perder tiempo...{:clear }¡Por favor, Xion, ayúdala hasta
+
+    que acabe con la Hidra!
+  en: >-
+    Believe me, I wish I could leave
+
+
+    this instant to rescue Megara...{:clear }Please help her, Xion, at least
+
+    until I defeat the Hydra!
+- id: 16163
+  fr: >-
+    Il s'en est fallu de peu.
+
+
+    Sans votre aide, c'était perdu.
+  gr: >-
+    Das war knapp. Ihr drei habt
+
+
+    mich eben gerettet, Xion.
+  it: >-
+    C'è mancato un pelo...
+
+
+    Se non ci foste stati voi,
+
+    non ce l'avrei fatta!
+  sp: >-
+    Por poco. Tú y tus amigos
+
+
+    me habéis salvado, Xion.
+  en: >-
+    That was close. You and your friends
+
+
+    saved me back there, Xion.
+- id: 16578
+  fr: >-
+    Meg n'est sûrement pas
+
+
+    la seule à nous attendre.{:clear }Il faut s'attendre à
+
+    une embuscade, Xion.
+  gr: >-
+    Megara ist wahrscheinlich nicht
+
+
+    die Einzige, die auf uns wartet.{:clear }Sei auf der Hut vor Gegnern, Xion.
+  it: >-
+    Forse non troveremo solo
+
+
+    Megara ad aspettarci.{:clear }Attento ai nemici, Xion.
+  sp: >-
+    Seguro que Megara no es la
+
+
+    única que nos está esperando.{:clear }Ten mucho cuidado,
+
+    Xion.
+  en: >-
+    Megara´s probably not the only one
+
+
+    waiting for us.{:clear }Watch out for enemies,
+
+    Xion.
+- id: 16581
+  fr: >-
+    Le Colisée est en danger !{:clear }Allez-y vite !
+
+
+    Nous essaierons de vous aider !
+  gr: >-
+    Xion, in der Arena gibt es Probleme!{:clear }Wir tun auch, was wir können,
+
+
+    also nichts wie hin zur Arena!
+  it: >
+    Xion, lo stadio è in pericolo!{:clear }Non preoccuparti per noi, corri lassù!
+  sp: >-
+    ¡Xion, hay problemas en el Coliseo!{:clear }¡Ve para allá! Nosotros
+
+
+    haremos lo que podamos.
+  en: >-
+    Xion, the coliseum´s in trouble!{:clear }We´ll do what we can.
+
+
+    Just get over to the coliseum!
+- id: 19549
+  fr: >
+    Xion combat en solo !
+  gr: >
+    Ab hier ist Xion komplett auf sich alleine gestellt!
+  it: >
+    Xion è da solo!
+  sp: >
+    ¡Xion está solo!
+  en: >
+    Xion´s on his own!
+- id: 19550
+  fr: >
+    Xion combat en solo !
+  gr: >
+    Ab hier ist Xion komplett auf sich alleine gestellt!
+  it: >
+    Xion è da solo!
+  sp: >
+    ¡Xion está solo!
+  en: >
+    Xion´s on his own!
+- id: 19872
+  fr: >
+    Xion ! Attends !
+  gr: >
+    Nein! Xion, warte!
+  it: >
+    Xion, aspetta!
+  sp: >
+    ¡Xion, espera!
+  en: >
+    Xion, wait!
+- id: 21499
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Mégara s'inquiète pour Hercule. Il travaille
+
+    tellement ces temps-ci... Même un héros
+
+    a besoin de repos !
+
+
+    Elle comptait se rendre dans les Enfers,
+
+    pour demander à Hadès de laisser Hercule
+
+    souffler un peu, mais Xion a décidé
+
+    d'y aller à sa place.
+  gr: "{:delayandfade 07 78} \n\nMegara macht sich große Sorgen um\nHercules, denn\
+    \ selbst ein Held wie er\nbraucht mal eine Pause.\n\nXion und seine Freunde machen\
+    \ sich\ndeshalb auf den Weg in die\nUnterwelt, um Hades an Megs Stelle\num eine\
+    \ Auszeit für Hercules zu bitten."
+  it: "{:delayandfade 07 78} \n\nMegara è in pensiero per Ercole.\nSi sta sfiancando\
+    \ di allenamenti e\npersino gli eroi hanno bisogno di riposo.\n\nXion e i suoi\
+    \ amici vanno negli Inferi\nal posto di Meg per chiedere ad Ade di\navere un po'\
+    \ di pietà."
+  sp: "{:delayandfade 07 78} \n\nMegara andaba muy preocupada por\nHércules, ya que\
+    \ parecía fatigado\ncon tanta lucha, y por eso decidió\nvisitar a Hades y pedirle\
+    \ que le\ndiera un respiro al héroe.\n\n¿Megara sola en el Inframundo?\n¡Eso sí\
+    \ que es preocupante!,\npiensa Xion, razón por la que se\nofrece a ir en su lugar."
+  en: "{:delayandfade 07 B4} \n\nHercules has been working himself to the\nbone, and\
+    \ Megara's worried. Even heroes\nneed some rest.\n\nShe was on her way to beg\
+    \ Hades for mercy,\nbut Xion and his friends decide it's too\ndangerous, and\
+    \ offer to go in her place."
+- id: 21500
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Après avoir discuté avec Auron, Xion
+
+    et ses amis ont décidé de retourner
+
+    voir Meg afin de parler stratégie.
+
+
+    Ce qu'ils ne savaient pas, c'est
+
+    que le plan machiavélique d'Hadès,
+
+    lui, était maintenant en marche.
+  gr: "{:delayandfade 07 78} \n\nXion, Donald und Goofy lassen Auron\nfürs Erste\
+    \ in der Unterwelt und kehren\nzu Megara zurück, um wieder\nzu Kräften zu kommen.\n\
+    \nWährenddessen bringt Hades den Stein\nfür seinen neuen Plan ins Rollen ..."
+  it: "{:delayandfade 07 78} \n\nDopo aver lasciato Auron, Xion e\ni suoi amici tornano\
+    \ da Meg.\n\nMa ignoravano che il piano malvagio\ndi Ade fosse ormai in atto."
+  sp: "{:delayandfade 0A 78} \n\nTras despedirse de Auron,\nXion y los suyos deciden\
+    \ volver\ncon Meg para recomponer filas.\n\nSin embargo, los siniestros\nplanes\
+    \ de Hades ya están en\nmarcha."
+  en: "{:delayandfade 07 B4} \n\nWith Auron on his own, Xion and his\nfriends return\
+    \ to Meg to figure out\ntheir next move. Something has to be\ndone, but what?\n\
+    \nLittle do they know that meanwhile,\nHades' evil plan has been set in motion..."
+- id: 21501
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Hercule a parlé d'un talisman protecteur
+
+    à Xion : la Pierre de l'Olympe. Cet objet
+
+    protégerait son porteur de la malédiction
+
+    des Enfers.
+
+
+    Mais même débarrassé de la malédiction,
+
+    Hadès ne sera pas facile à vaincre.
+
+    Il va falloir suivre l'entraînement de Phil !
+  gr: "{:delayandfade 07 78} \n\nHercules verspricht Xion das\n\"Medaillon des Olymps\"\
+    , das vor\ndem Fluch der Unterwelt\nschützen soll.\n\nDoch selbst mit dem Medaillon\n\
+    bleibt Hades ein gefährlicher\nGegner. Um ihn zu besiegen,\nmüssen sich die Freunde\n\
+    Phils Training unterziehen."
+  it: "{:delayandfade 07 78} \n\nXion vuole altre informazioni sulla\nmaledizione\
+    \ degli Inferi. Ercole però\nconosce un talismano che ne annulla\ngli effetti:\
+    \ la Pietra dell'Olimpo.\n\nTuttavia, anche senza la maledizione,\nAde è ancora\
+    \ un avversario temibile.\nSolo una persona può aiutarli adesso."
+  sp: "{:delayandfade 07 78} \n\nXion quiere averiguar más sobre\nla maldición del\
+    \ Inframundo y\nHércules parece conocer algo\nque podría anular sus efectos:\n\
+    la Piedra del Olimpo.\n\nPero no es la maldición lo único\npreocupante, pues Hades\
+    \ es un\nduro rival contra el que solo Fil\npodría preparar al grupo."
+  en: "{:delayandfade 07 B4} \n\nCurious, Xion asks Hercules about the\nUnderworld's\
+    \ curse. As it turns out,\na talisman called the Olympus Stone can\noffer protection.\n\
+    \nHowever, even without the curse, Hades is\nquite the handful. There's only one\
+    \ person\nwho can help them prepare for the upcoming\nepic battle."
+- id: 21502
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Dès qu'il a su de quoi il en retournait,
+
+    Phil a chaleureusement accepté d'aider
+
+    Xion et ses amis.
+  gr: "{:delayandfade 0A 78} \n\nPhil findet Xion' Bitte urkomisch.\nTrotzdem verspricht\
+    \ er, die drei\nJuniorhelden zu trainieren."
+  it: "{:delayandfade 07 78} \n\nCon una risata di cuore, Fil\naccetta di aiutare\
+    \ Xion e i\nsuoi amici."
+  sp: "{:delayandfade 0A 78} \n\nFil acoge con una gran risotada\nla petición de Xion\
+    \ y decide sin\nreparos entrenar al grupo."
+  en: "{:delayandfade 07 B4} \n\nWith a hearty laugh, Phil agrees to help\nXion and\
+    \ his friends."
+- id: 21503
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Mais une fois l'entraînement terminé, Hercule
+
+    a appris une triste nouvelle à Xion :
+
+    un homme vêtu de noir a volé la Pierre
+
+    de l'Olympe.
+
+
+    Xion devait récupérer cet objet...
+  gr: "{:delayandfade 0A 78} \n\nDoch nach dem Training überbringt\nHercules schockierende\
+    \ Nachrichten.\n\nEin Mann in schwarzer Kutte\nhat das Medaillon des Olymps\n\
+    gestohlen!\n\nXion ist wild entschlossen, es\nzurückzuholen, aber ..."
+  it: "{:delayandfade 07 78} \n\nAlla fine del loro allenamento, Ercole\nfa una rivelazione\
+    \ scioccante a Xion:\nla Pietra dell'Olimpo è stata rubata\nda un uomo vestito\
+    \ di nero.\n\nXion e i suoi amici allora partono,\ndeterminati a recuperare l'oggetto."
+  sp: "{:delayandfade 07 78} \n\nUna vez terminado el entrenamiento,\nHércules sobrecoge\
+    \ a todos con\nuna terrible noticia: un encapuchado\nha robado la Piedra del Olimpo.\n\
+    \nXion y sus amigos no pueden\nquedarse de brazos cruzados\ny salen raudos en\
+    \ busca del\nmalhechor."
+  en: "{:delayandfade 07 B4} \n\nAs their training comes to an end, Hercules\ninforms\
+    \ Xion of a shocking truth--\nthe Olympus Stone was stolen by a figure\ndressed\
+    \ in black.\n\nXion and his friends head off, determined\nto retrieve the valuable\
+    \ item."
+- id: 21504
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Alors que Xion était en route pour les
+
+    Enfers, il a trouvé Phil étendu sur le sol.
+
+    Un homme en noir l'avait attaqué.
+
+
+    Notre héros et ses amis étaient
+
+    vraiment les seuls à pouvoir
+
+    remédier à la situation.
+  gr: "{:delayandfade 0A 78} \n\nAuf dem Weg in die Unterwelt stolpern\nXion und\
+    \ seine Freunde buchstäblich\nüber Phil, der vom Mann in der schwarzen\nKutte\
+    \ niedergestreckt wurde.\n\nJetzt hängt alles von ihnen ab!"
+  it: "{:delayandfade 07 78} \n\nMentre vanno verso gli Inferi, Xion\ne i suoi amici\
+    \ trovano Fil steso a terra,\nsconfitto dall'uomo vestito di nero.\n\nI tre amici\
+    \ dovranno risolvere la\nsituazione!"
+  sp: "{:delayandfade 08 78} \n\nDe camino al Inframundo, los amigos\nse topan con\
+    \ Fil, que yace en\nel suelo tras haber caído derrotado\na manos de un encapuchado.\n\
+    \nLas cosas se han puesto muy feas\ny ahora todo depende del elegido\nde la llave\
+    \ espada."
+  en: "{:delayandfade 07 B4} \n\nAs Xion and his friends make a beeline\nfor the\
+    \ Underworld, they see Phil lying\non the ground, defeated by the figure\nin black.\n\
+    \nIt's up to the three friends to save\nthe day!"
+- id: 21505
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Avant de disparaître, Hadès a prévenu
+
+    Xion qu'un danger menaçait le monde
+
+    de l'Olympe.
+
+
+    Mais de quoi voulait-il parler ?
+  gr: "{:delayandfade 0A 78} \n\nHades behauptet, der Olymp\nsei in Gefahr, und macht\
+    \ sich\naus dem Staub.\n\nWas geht da oben nur vor sich?"
+  it: "{:delayandfade 07 78} \n\nAde rivela a Xion e i suoi amici\nche una minaccia\
+    \ incombe sul\nmonte Olimpo.\n\nDi cosa starà parlando?"
+  sp: "{:delayandfade 0A 78} \n\nHades no deja escapar la ocasión\npara anunciar a\
+    \ Xion y los suyos\nel nefasto futuro que se cierne\nsobre el Olimpo.\n\n¿A qué\
+    \ se referirá realmente\nel díscolo dios?"
+  en: "{:delayandfade 07 B4} \n\nHades informs Xion and his friends about\nthe threat\
+    \ facing the Coliseum, and quickly\ndisappears before them.\n\nWhat could he be\
+    \ talking about? What's\nhappening in the Coliseum?"
+- id: 21506
+  fr: >-
+    {:delayandfade 06 B4}
+
+
+    Dans le monde de l'Olympe, tout le monde
+
+    ne parlait plus que du Colisée des Enfers
+
+    qui avait rouvert ses portes. Il s'agissait
+
+    d'une arène de combat où les monstres
+
+    s'affrontaient sans pitié.
+
+
+    Devant une telle menace pour l'Olympe,
+
+    Xion décida de rejoindre Hercule
+
+    au plus vite.
+  gr: "{:delayandfade 0A 78} \n\nDer ganze Olymp ist in Aufruhr.\nDie Arena, in der\
+    \ sich einst Kreaturen\nder Unterwelt bekämpften, wurde\nwieder geöffnet!\n\n\
+    Xion will sofort nach Hercules sehen!"
+  it: "{:delayandfade 07 78} \n\nIl monte Olimpo era insolitamente chiassoso\ncon\
+    \ il ritorno in attività dell'Inferodromo,\nteatro di battaglie fra mostri.\n\n\
+    Preoccupati per l'incolumità di Ercole,\nXion e i suoi amici vanno a cercarlo."
+  sp: "{:delayandfade 07 78} \n\nEl Olimpo parece más animado\nque de costumbre, todo\
+    \ gracias\na la reapertura del Infiernódromo,\nun coso en el que se disputan\n\
+    combates contra bestias.\n\nHabiendo monstruos de por medio,\nXion sabe que Hércules\
+    \ podría\nestar en apuros, así que se\napresura en busca del héroe."
+  en: "{:delayandfade 07 B4} \n\nOlympus was unusually clamorous with\nthe revival\
+    \ of the Underworld coliseum,\nan arena where monsters battle one\nanother.\n\n\
+    Fearing for Hercules' safety, Xion and his\nfriends head off in search of the\
+    \ hero."

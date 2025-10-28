@@ -1,0 +1,382 @@
+- id: 5004
+  fr: >
+    Xion ! Donald ! Dingo !
+  gr: >
+    Xion! Donald! Goofy!
+  it: >
+    Xion! Paperino! Pippo!
+  sp: >
+    ¡Xion! ¡Donald! ¡Goofy!
+  en: >
+    Xion! Donald! Goofy!
+- id: 5009
+  fr: >
+    Vas-y, Xion, tu peux y arriver !
+  gr: >
+    Los, Xion, du schaffst das!
+  it: >
+    Avanti, Xion, puoi farcela!
+  sp: >
+    ¡Vamos, Xion, tú puedes!
+  en: >
+    C´mon, Xion, you can do it!
+- id: 5029
+  fr: >
+    Xion, tu as été formidable.
+  gr: >
+    Xion, du warst echt toll!
+  it: >
+    Xion, sei stato fantastico!
+  sp: >
+    ¡Xion, has estado impresionante!
+  en: >
+    Xion, you were amazing!
+- id: 5112
+  fr: >-
+    Formidable, Xion. Il sera si heureux
+
+
+    de le récupérer.
+  gr: >-
+    Das ist wunderbar, Xion!{:delay 5A 00}{:clear }Bestimmt freut er sich sehr,
+
+
+    das wiederzubekommen.
+  it: >-
+    È fantastico, Xion. Sono certa
+
+
+    che lui sarà felice di riaverlo.
+  sp: >-
+    Qué bien, Xion. Seguro que
+
+
+    él se alegra de recuperarlo.
+  en: >-
+    This is great, Xion. I know he´ll
+
+
+    be happy to have this back.
+- id: 5148
+  fr: >-
+    Xion, je t'en prie !
+
+
+    Il faut que tu l'arrêtes !
+  gr: >-
+    Xion, bitte! Du musst sie
+
+
+    unbedingt aufhalten!
+  it: >-
+    Xion, ti prego!
+
+
+    Devi fermarla!
+  sp: >-
+    ¡Xion, por favor!
+
+
+    ¡Tienes que impedírselo!
+  en: >-
+    Xion, please!
+
+
+    You got to stop her, mon!
+- id: 5262
+  fr: >
+    Xion, que se passe-t-il ?
+  gr: >
+    Xion, was geschieht?
+  it: >
+    Xion, che sta succedendo?
+  sp: >
+    Xion, ¿qué ha sido eso?
+  en: >
+    Xion, what´s happening?
+- id: 7938
+  fr: >-
+    {:unk13 40 01 2C 01}{:unk08 01 01 00}À ton tour, Donald ! La même
+
+
+    chose que Xion. Montre-nous
+
+    ce que tu sais faire.
+  gr: >-
+    {:unk13 04 01 4D 01}{:unk08 01 01 01}Okay, Donald. Jetzt bist du dran. Mach
+
+
+    einfach genau dasselbe wie Xion eben.
+
+    Mal sehen, wer von euch es besser drauf hat.
+  it: >-
+    {:unk13 5A 01 5A 01}{:unk08 01 01 00}Va bene, Paperino.
+
+
+    Tocca a te. Fa' come Xion.
+
+    Mostraci di cosa sei capace.
+  sp: >-
+    {:unk13 04 01 68 00}{:unk08 01 01 05}Bien, Donald. Tu turno.
+
+
+    Haz lo mismo que Xion.
+
+    Deja que vea cómo lo haces.
+  en: >-
+    {:unk13 40 01 2C 01}{:unk08 01 01 00}Okay, Donald. Your turn.
+
+
+    You do just like Xion.
+
+    Den he see what you got.
+- id: 8957
+  fr: >
+    {:unk13 FA 00 90 01}{:unk0e 0A}Dingo et Xion.{:unk0e 00}
+  gr: >
+    {:unk13 FA 00 90 01}{:unk0e 0A}... Goofy und Xion.{:unk0e 00}
+  it: >
+    {:unk13 FA 00 90 01}{:unk0e 0A}Pippo e Xion{:unk0e 00}
+  sp: >
+    {:unk13 FA 00 90 01}{:unk0e 0A}Goofy y Xion.{:unk0e 00}
+  en: >
+    {:unk13 FA 00 90 01}{:unk0e 0A}Goofy, and Xion{:unk0e 00}
+- id: 18131
+  fr: >-
+    Voilà, tu tiens le bon bout !
+
+
+    Tu apprends vite, Xion !
+  gr: >-
+    Ja, das ist es!
+
+
+    Du lernst schnell, Xion!
+  it: >-
+    Bene, così!
+
+
+    Apprendi velocemente, Xion!
+  sp: >-
+    ¡Sí, eso es!
+
+
+    ¡Qué rápido aprendes, Xion!
+  en: >-
+    Yes, that´s it!
+
+
+    You´re a quick learner, Xion!
+- id: 18142
+  fr: >-
+    Hem... Dis-moi, Xion...
+
+
+    Euh... Non, oublie ça...
+  gr: >-
+    Oh ... Ähm, Xion?
+
+
+    Äh ... ach nichts. Es ist nichts.
+  it: >-
+    Ehi... Ehm, Xion?
+
+
+    Oh... Niente, niente.
+  sp: >-
+    Vaya... Eh, ¿Xion?
+
+
+    Bah... no importa. Olvídalo.
+  en: >-
+    Wow... Um, Xion?
+
+
+    Uh...never mind. It´s nothing.
+- id: 18156
+  fr: >-
+    Cet objet qu'il a fait tomber
+
+
+    est coincé entre les rochers.{:clear }J'aimerais tant lui rendre...
+
+    S'il te plaît, aide-moi, Xion.
+  gr: >-
+    Das, was der Mann verloren hat,
+
+
+    steckt zwischen den Felsen fest.{:clear }Bitte hilf mir, Xion. Ich möchte
+
+    es ihm zurückgeben!
+  it: >-
+    La cosa che è caduta a quel
+
+
+    ragazzo è incagliata fra le rocce.
+
+    Ti prego, Xion, aiutami!
+
+    Vorrei restituirgliela!
+  sp: >-
+    La cosa que se le cayó a ese hombre
+
+
+    está atascada entre las rocas.{:clear }Xion, por favor, ayúdame.
+
+    ¡Quiero devolvérsela!
+  en: >-
+    That thing the man dropped is
+
+
+    stuck between the rocks.
+
+    Please help, Xion. I want to
+
+    return it to him!
+- id: 18169
+  fr: >-
+    Oh, Xion ! On dirait que tu as
+
+
+    gagné de l'expérience.{:clear }Tu crois que tu peux m'aider
+
+    à récupérer le pendentif maintenant ?
+  gr: >-
+    Xion, du siehst so
+
+
+    zuversichtlich aus!{:clear }Denkst du, du kannst mir
+
+    mit dem Anhänger helfen?
+  it: >-
+    Xion, sembra che tu abbia acquisito
+
+
+    un bel po' di esperienza!{:clear }Potresti aiutarmi
+
+    con quel ciondolo?
+  sp: >-
+    Xion, parece que has ganado
+
+
+    algo de experiencia.{:clear }¿Crees que puedes ayudarme
+
+    con el colgante?
+  en: >-
+    Xion, looks like you gained
+
+
+    some experience.{:clear }Do you think you can help me
+
+    with the pendant?
+- id: 18186
+  fr: >-
+    Ce spectacle sera le plus
+
+
+    sensationnel de tous !{:clear }C'est à vous que je penserai
+
+    en chantant.
+  gr: >-
+    Das Musical heute soll das beste
+
+
+    aller Zeiten werden, Xion.{:clear }Ich werde an euch denken,
+
+    wenn ich singe!
+  it: >-
+    Xion, diamo il meglio di noi
+
+
+    nello spettacolo di oggi.{:clear }Penserò a tutti voi mentre canto.
+  sp: >-
+    Hagamos que el musical de hoy sea
+
+
+    el mejor de todos los tiempos, Xion.{:clear }¡Pensaré en vosotros cuando cante!
+  en: >-
+    Let´s make today´s musical
+
+
+    the best ever, Xion.{:clear }I´ll think of all of you when I sing!
+- id: 21529
+  fr: "{:delayandfade 07 B4} \n\nAprès leur entraînement de natation, Sébastien\n\
+    a proposé à Xion de jouer un rôle dans le\nspectacle qu'il était en train de\
+    \ monter.\n\nTout de suite intéressé, Xion est allé répéter."
+  gr: "{:delayandfade 0A 78} \n\nNach den Schwimmübungen wird Xion\neingeladen, bei\
+    \ einem Musical mitzumachen.\n\nEr möchte sein Bestes geben und\nbeginnt zu üben."
+  it: "{:delayandfade 07 78} \n\nDopo aver imparato a nuotare, Xion\nè invitato a\
+    \ partecipare al musical.\n\nDeterminato a fare del suo meglio,\nXion comincia\
+    \ le prove."
+  sp: "{:delayandfade 08 78} \n\nTras la breve lección de\nnatación submarina, Sebastián\n\
+    invita a Xion, Donald y Goofy\na participar en el musical.\n\nNo todos los días\
+    \ uno recibe\nuna invitación así, por lo que\ntodos comienzan a ensayar\ncon entusiasmo."
+  en: "{:delayandfade 07 B4} \n\nUpon learning to swim, Xion is invited to\ntake\
+    \ part in the musical. Not one to turn\ndown any fun, Xion agrees to participate.\n\
+    \nThe Keyblade's hero can fight, but can he\nsing and dance? Let the practicing\
+    \ begin!"
+- id: 21531
+  fr: "{:delayandfade 07 B4} \n\nMais s'inquiéter n'avait jamais résolu\naucun problème\
+    \ !\n\nXion retourna s'entraîner pour le\nspectacle, bien décidé à chasser au\
+    \ loin\nles inquiétudes des habitants du royaume."
+  gr: "{:delayandfade 0A 78} \n\nTrübsal blasen löst keine Probleme.\n\nXion sucht\
+    \ daher in der Musik etwas\nAblenkung und übt fleißig weiter."
+  it: "{:delayandfade 07 78} \n\nPreoccuparsi non serve a niente.\n\nXion riprende\
+    \ le prove, deciso a fare\nil necessario per il bene del regno."
+  sp: "{:delayandfade 08 78} \n\nSin duda, muchos son los\nproblemas que acucian al\
+    \ reino,\npero Xion hace de tripas corazón\ny sigue con los ensayos.\n\nDespués\
+    \ de todo, las penas\ncon música, menos tristes son."
+  en: "{:delayandfade 07 B4} \n\nWorrying doesn't help anyone or solve\nanything.\
+    \ Why not do something productive\ninstead?\n\nThe only way for Xion to help\
+    \ the kingdom\nis to put on a fantastic show. It's time to\npractice once again."
+- id: 21532
+  fr: "{:delayandfade 06 B4} \n\nAriel, éperdument amoureuse du prince,\ns'était rendue\
+    \ près du rivage pour l'observer.\nElle remarqua qu'il avait laissé tomber\nquelque\
+    \ chose, mais un rocher l'empêchait\nd'aller ramasser cet objet.\n\nXion utilisa\
+    \ donc ses pouvoirs afin de\nrécupérer ce qui était en fait un pendentif."
+  gr: "{:delayandfade 0A 78} \n\nDie von Liebeskummer geplagte Arielle\nfindet einen\
+    \ Anhänger, den ihr Prinz\nverloren hat, doch er steckt zwischen\nden Felsen fest\
+    \ ...\n\nDank seiner besonderen Kräfte gelingt es\nXion, das Schmuckstück zu\
+    \ bergen."
+  it: "{:delayandfade 07 78} \n\nUna Ariel innamorata osserva il\nsuo principe da\
+    \ lontano. Nota il tesoro\nda lui perduto, ma una roccia le blocca\nla via.\n\n\
+    Xion usa i suoi poteri speciali per\nrecuperare il ciondolo per lei."
+  sp: "{:delayandfade 07 78} \n\nLa joven y enamorada Ariel observa\na su príncipe\
+    \ en la lejanía. Entre las\nrocas ve aquello que el joven busca,\npero le es imposible\
+    \ alcanzarlo.\n\nPor suerte, Xion está por allí y,\nusando sus poderes, logra\
+    \ apartar\nla gran roca para hacerse con\nel colgante."
+  en: "{:delayandfade 07 B4} \n\nA love-struck Ariel yearns for the prince\nfrom afar.\
+    \ By sheer luck, she spots his lost\ntreasure, but a large rock is in the way.\n\
+    \nUsing his special powers, Xion manages to\nretrieve the pendant for her."
+- id: 21534
+  fr: "{:delayandfade 07 B4} \n\nXion et ses amis ont décidé de retrouver\nUrsula.\
+    \ Après tout, qui sait ce que cette\nsorcière est encore en train de manigancer...\n\
+    \nIls n'oublient cependant pas de veiller\nsur Ariel, pour qui tout semble se\
+    \ passer\nà merveille."
+  gr: "{:delayandfade 0A 78} \n\nXion und seine Freunde suchen nach Ursula,\nbehalten\
+    \ aber Arielle immer im Auge."
+  it: "{:delayandfade 07 78} \n\nXion e i suoi amici cercano Ursula\nmentre tengono\
+    \ d'occhio Ariel."
+  sp: "{:delayandfade 0A 78} \n\nXion y sus amigos deben llegar\nhasta la malvada\
+    \ Úrsula mientras\nprotegen a la pobre Ariel."
+  en: "{:delayandfade 07 B4} \n\nAs Ariel spends time with the prince, Xion\nand\
+    \ his friends watch over them from afar.\nAlthough their love may be forbidden,\
+    \ the\ngang can't help but be happy for them.\n\nBut they can't forget about Ursula!\
+    \ Who\nknows what devious plans she may be\nconcocting?"
+- id: 21535
+  fr: "{:delayandfade 07 B4} \n\nLa paix est revenue. Il faut fêter ça !\n\nXion\
+    \ et ses amis vont monter un spectacle\ninoubliable pour Ariel et les habitants\
+    \ du\nroyaume.\n\nGrâce à cet évènement, c'est certain,\ntout le monde retrouvera\
+    \ le sourire\nà Atlantica."
+  gr: "{:delayandfade 0A 78} \n\nIm Königreich ist wieder Frieden eingekehrt.\n\n\
+    Xion entschließt sich, ein fantastisches\nMusical für Arielle und ihre Freunde\n\
+    aufzuführen."
+  it: "{:delayandfade 07 78} \n\nLa pace è tornata nel regno.\n\nXion decide di mettere\
+    \ in scena\nun musical spettacolare per Ariel\ne i suoi amici."
+  sp: "{:delayandfade 0A 78} \n\nEl paso de Xion y sus amigos\npor Atlántica deja,\
+    \ una vez más,\nun reino en el que impera la paz.\n\nY para celebrarlo, ¡¿qué\
+    \ mejor\nque un buen musical marino\ncomo colofón final a la aventura!?"
+  en: "{:delayandfade 07 B4} \n\nEverything has been made right, and\nthe kingdom\
+    \ is at peace once again.\n\nNow it's time for Xion to put on a musical\nfor\
+    \ Ariel and the other residents of\nAtlantica as promised.\n\nMay the performance\
+    \ put a smile on\neveryone's face!"

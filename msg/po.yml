@@ -1,0 +1,811 @@
+- id: 4664
+  fr: >-
+    Très bien. Mais pour le moment, je
+
+
+    me prépare à faire ma gymnastique. {:delay 2C 01}{:clear }Veux-tu participer,
+    Xion ?
+  gr: >-
+    Oh ja!{:delay 51 00}{:clear }Weißt du, ich wollte gerade meine
+
+
+    Beleibtheitsübungen machen.{:delay DF 00}{:clear }{:delay 28 00}{:clear }Willst
+    du mitmachen, Xion?
+  it: >-
+    Oh, sì.{:delay 5A 00}{:clear }Anzi, stavo proprio per fare
+
+
+    la ginnastica per dimagrire.{:delay FA 00}{:clear }Vuoi farla con me, Xion?
+  sp: >-
+    Oh, sí.{:delay 4E 00}{:clear }De hecho, estaba a punto de hacer
+
+
+    mi gimnasia para la tripita.{:delay 1A 01}{:clear }¿Quieres acompañarme, Xion?
+  en: >-
+    Oh, yes.{:delay 5A 00}{:clear }In fact, I was just about to do
+
+
+    my stoutness exercises.{:delay FA 00}{:clear }Would you like to join me, Xion?
+- id: 4688
+  fr: >
+    Xion ! Aide-moi. Je t'en prie !
+  gr: >
+    Xion! Hilf mir! Bitte!
+  it: >
+    Xion! Aiutami, ti prego!
+  sp: >
+    ¡Xion! ¡Ayúdame! ¡Por favor!
+  en: >
+    Xion! Help! Please!
+- id: 4691
+  fr: >-
+    {:unk13 68 01 C8 00}{:unk06 00}{:unk08 01 00 06}Pfiou !
+
+
+    Merci, Xion.
+  gr: >-
+    {:unk13 7C 01 DC 00}{:unk06 00}{:unk08 01 00 06}Uff!
+
+
+    Danke dir, Xion.
+  it: >-
+    {:unk13 68 01 C8 00}{:unk06 00}{:unk08 01 00 06}Fiù!
+
+
+    Grazie, Xion.
+  sp: >-
+    {:unk13 68 01 C8 00}{:unk06 00}{:unk08 01 00 06}¡Menos mal!
+
+
+    Gracias, Xion.
+  en: >-
+    {:unk13 68 01 C8 00}{:unk06 00}{:unk08 01 00 06}Whew!
+
+
+    Thank you, Xion.
+- id: 4699
+  fr: >-
+    {:unk13 7C 01 3C 00}{:unk06 00}{:unk08 01 00 05}Au revoir, Xion.
+
+
+    Au revoir, Winnie.
+  gr: >-
+    {:unk13 7C 01 32 00}{:unk06 00}{:unk08 01 00 05}Wiedersehen, Xion!
+
+
+    Wiedersehen, Puuh!
+  it: >-
+    {:unk13 7C 01 3C 00}{:unk06 00}{:unk08 01 00 05}Arrivederci, Xion!
+
+
+    Arrivederci, Pooh!
+  sp: >-
+    {:unk13 7C 01 3C 00}{:unk06 00}{:unk08 01 00 05}¡Adiós, Xion!
+
+
+    ¡Adiós, Pooh!
+  en: >-
+    {:unk13 7C 01 3C 00}{:unk06 00}{:unk08 01 00 05}Good-bye, Xion!
+
+
+    Good-bye, Pooh!
+- id: 4706
+  fr: >
+    Xion...
+  gr: >
+    Xion ...
+  it: >
+    Xion...
+  sp: >
+    Xion...
+  en: >
+    Xion...
+- id: 4707
+  fr: >
+    D'a... d'accord. Je vais essayer.
+  gr: >
+    In Ordnung, Xion. Ich versuch's.
+  it: >-
+    D'accordo, S-Xion.
+
+
+    Ci provo...
+  sp: >
+    Está bien, S-Xion. Lo intentaré...
+  en: >
+    All right, Xion. I´ll t-try...
+- id: 4745
+  fr: >-
+    {:unk13 9C 00 3B 00}{:unk06 00}{:unk08 01 01 05}Tiens ? Bonjour, Xion.
+
+
+    Content de te revoir.
+  gr: >-
+    {:unk13 9C 00 3B 00}{:unk06 00}{:unk08 01 01 05}Oh, hallo, Xion ...
+
+
+    Schön, dich wiederzusehen.
+  it: >-
+    {:unk13 9C 00 3B 00}{:unk06 00}{:unk08 01 01 05}Ciao, Xion...
+
+
+    È un piacere rivederti.
+  sp: >-
+    {:unk13 9C 00 3B 00}{:unk06 00}{:unk08 01 01 05}Eh, hola, Xion...
+
+
+    Qué bueno volver a verte.
+  en: >-
+    {:unk13 9C 00 3B 00}{:unk06 00}{:unk08 01 01 05}Oh, hello, Xion...
+
+
+    It´s good to see you again.
+- id: 4780
+  fr: >
+    Bonjour, Xion.
+  gr: >
+    Hallo, Xion.
+  it: >
+    Ciao, Xion.
+  sp: >
+    Vaya, hola, Xion.
+  en: >
+    Well, hello, Xion!
+- id: 4816
+  fr: >-
+    {:unk13 6A 01 73 00}{:unk06 00}{:unk08 01 00 07}Qu'en dis-tu,
+
+
+    Xion ?
+  gr: >-
+    {:unk13 6A 01 73 00}{:unk06 00}{:unk08 01 00 07}Was denkst du, was wir
+
+
+    tun sollten, Xion?
+  it: >-
+    {:unk13 6A 01 73 00}{:unk06 00}{:unk08 01 00 07}Cosa pensi che
+
+
+    dovremmo fare, Xion?
+  sp: >-
+    {:unk13 6A 01 73 00}{:unk06 00}{:unk08 01 00 07}Xion, ¿tú qué crees que
+
+
+    debemos hacer?
+  en: >-
+    {:unk13 6A 01 73 00}{:unk06 00}{:unk08 01 00 07}What do you think
+
+
+    we should do, Xion?
+- id: 4827
+  fr: >-
+    Essaie de te souvenir, Winnie.
+
+
+    Est-ce que Xion ne serait pas{:delay A8 00}{:clear }l'ami que tu cherches ?
+  gr: >
+    Versuch dich zu erinnern, Puuh!{:delay 6E 00}{:clear }Suchst du nicht vielleicht
+    Xion?
+  it: >
+    Cerca di ricordare, Pooh.{:delay 5A 00}{:clear }Non è Xion la persona che cerchi?
+  sp: >
+    Intenta acordarte, Pooh.{:delay 79 00}{:clear }¿No es a Xion a quien estás buscando?
+  en: >-
+    Now, try to remember, Pooh.{:delay 5A 00}{:clear }Isn´t Xion the one you´re
+
+
+    looking for?
+- id: 4830
+  fr: >
+    Bonne idée, Xion.
+  gr: >
+    Klingt gut, Xion.
+  it: >
+    Mi piace quest'idea, Xion.
+  sp: >
+    Eso me gustaría, Xion.
+  en: >
+    I´d like that, Xion.
+- id: 4832
+  fr: >
+    Souvenu de quoi, Xion ?
+  gr: >
+    Woran, Xion?
+  it: >
+    Ricordato che cosa, Xion?
+  sp: >
+    ¿Acordarme de qué, Xion?
+  en: >
+    Remembered what, Xion?
+- id: 4834
+  fr: >-
+    C'est comme ça que je te
+
+
+    préfère, Xion : heureux.
+  gr: >-
+    Ich hab es lieber, wenn du
+
+
+    richtig fröhlich bist, Xion.
+  it: >-
+    Mi piace tanto quando
+
+
+    sei allegro, Xion.
+  sp: >
+    Me encanta cuando estás alegre, Xion.
+  en: >-
+    I like it ever so much when
+
+
+    you´re cheerful, Xion.
+- id: 4840
+  fr: >
+    {:unk13 56 01 C5 00}{:unk06 02}{:unk08 03 01 05}C'est toi, Xion ?{:clear }Sors-moi
+    de là.
+  gr: >
+    {:unk13 56 01 C5 00}{:unk06 02}{:unk08 03 01 05}Xion? Bist du das?{:clear }Hilf
+    mir!
+  it: >
+    {:unk13 56 01 C5 00}{:unk06 02}{:unk08 03 01 05}Xion? Sei tu?{:clear }Aiuto!
+  sp: >
+    {:unk13 56 01 C5 00}{:unk06 02}{:unk08 03 01 05}¿Xion? ¿Eres tú?{:clear }¡Ayúdame!
+  en: >
+    {:unk13 56 01 C5 00}{:unk06 02}{:unk08 03 01 05}Xion? Is that you?{:clear }Help!
+- id: 4848
+  fr: >-
+    Tu ne veux pas plutôt
+
+
+    venir "tout le temps" ?{:delay F0 00}{:clear }Je trouve que ce serait mieux.
+
+    Dis, Xion, si je partais te chercher, {:delay 2C 01}{:clear }est-ce que je te
+    trouverais ?
+  gr: >-
+    Warum nicht wieder und wieder?{:delay C2 00}{:clear }Ich finde, das klingt besser.{:delay
+    B4 00}{:clear }Xion, wenn ich dich suchen gehe,
+
+
+    finde ich dich dann?
+  it: >-
+    Non potrebbe essere
+
+
+    "ogni sempre", invece?{:delay C6 00}{:clear }Per me sarebbe meglio.{:delay C6
+    00}{:clear }Xion, se verrò a cercarti,
+
+    ti troverò?
+  sp: >-
+    ¿Y no podría ser
+
+
+    "de ahora en ahora"?{:delay D9 00}{:clear }Eso me parece un poco mejor.{:delay
+    B8 00}{:clear }Xion, si voy a buscarte,
+
+    ¿te encontraré?
+  en: >-
+    Could you make it
+
+
+    "now and now" instead?{:delay C6 00}{:clear }That seems a bit better to me.{:delay
+    C6 00}{:clear }Xion, if I go looking for you,
+
+    will I find you?
+- id: 4857
+  fr: >-
+    Tu seras toujours
+
+
+    le bienvenu ici, Xion.
+  gr: >
+    Du kannst uns jederzeit besuchen kommen, Xion.
+  it: >
+    Vieni a trovarci quando vuoi, Xion.
+  sp: >-
+    Ven a visitarnos cuando quieras,
+
+
+    Xion.
+  en: >-
+    You´re welcome to visit us
+
+
+    anytime, Xion.
+- id: 4862
+  fr: >
+    Au revoir, Xion.
+  gr: >
+    Mach's gut, Xion.
+  it: >
+    Arrivederci, Xion.
+  sp: >
+    Adiós, Xion.
+  en: >
+    Good-bye, Xion.
+- id: 4868
+  fr: >-
+    Bon, je ne serai pas triste, parce que tu seras
+
+
+    toujours ici tout proche de moi. Pas vrai, Xion ?
+  gr: >
+    Nun, aber ich bin nicht traurig ...{:delay 82 00}{:clear }... weil du für immer
+    und ewig hier drin bist.{:delay 9E 00}{:clear }Hab ich Recht, Xion?
+  it: >
+    Va bene, non sarò triste...{:delay 78 00}{:clear }... perché tu sarai qui per
+    sempre.{:delay DE 00}{:clear }Giusto, Xion?
+  sp: >-
+    Bueno, no me pondré triste,{:delay 95 00}{:clear }porque tú siempre, siempre,
+
+
+    estarás aquí.{:delay AB 00}{:clear }¿Verdad, Xion?
+  en: >-
+    Well, I won´t be sad,{:delay 78 00}{:clear }because you´ll always be
+
+
+    right here forever and ever.{:delay DE 00}{:clear }Right, Xion?
+- id: 7896
+  fr: >-
+    Ce n'est pas la première fois que Winnie
+
+
+    se coince la tête dans un pot de miel !{:clear }Tu peux y aller, Xion.
+
+    Tire de toutes tes forces pour le dégager.
+  gr: >-
+    Das ist schon das zigste Mal,
+
+
+    dass ich Puuh so sehe!{:clear }Xion, nur keine Scheu.
+
+    Geh und nimm ihm den Topf ab.
+  it: >-
+    Questa è l'ennesima volta
+
+
+    che vedo Pooh ridotto così!{:clear }Xion, non restare a guardare!
+
+    Togligli quel vasetto dalla testa!
+  sp: >-
+    ¡Esta es la enésima vez que veo
+
+
+    a Pooh así!{:clear }Xion, no te detengas.
+
+    Ve y quítale ese tarro.
+  en: >-
+    This is the umpteenth time I´ve seen Pooh
+
+
+    like that!{:clear }Xion, don´t hold back.
+
+    Go and grab that pot off of him.
+- id: 7897
+  fr: >-
+    Xion ? Est-ce que c'est toi ?
+
+
+    Aide-moi !
+  gr: >-
+    Xion? Bist du das, Xion?
+
+
+    Hilfe!
+  it: >-
+    Xion? Sei tu, Xion?
+
+
+    Aiuto!
+  sp: >-
+    ¿Xion? ¿Eres tú, Xion?
+
+
+    ¡Socorro!
+  en: >-
+    Xion? Is that you, Xion?
+
+
+    Help!
+- id: 7900
+  fr: >-
+    Bonjour, Xion. Belle journée, hein ?
+
+
+    Le temps idéal pour manger du miel !{:clear }Et pour faire un peu d'exercice aussi.
+
+    Profitons-en !
+  gr: >-
+    Hallo, Xion. Was für ein schöner Tag.
+
+
+    Perfekt für Honig!{:clear }Und perfekt für Beleibtheitsübungen.
+
+    Lass uns heute auch wieder Spaß haben!
+  it: >-
+    Ciao, Xion. Bella giornata, eh?
+
+
+    Perfetta per mangiare del miele!{:clear }Perfetta anche per fare ginnastica.
+
+    Dai, giochiamo un po' oggi!
+  sp: >-
+    Hola, Xion. Hace un día precioso.
+
+
+    ¡Perfecto para comer miel!{:clear }Y para hacer ejercicio.
+
+    ¡Hoy también podríamos jugar!
+  en: >-
+    Hi, Xion. It´s a beautiful day today.
+
+
+    Perfect for hunny!{:clear }Perfect for exercise, too.
+
+    Let´s play today, too!
+- id: 7928
+  fr: >-
+    Cet endroit est sombre et
+
+
+    ressemble à un labyrinthe !{:clear }Si je me perds, tu viendras
+
+    me chercher, hein, Xion ?
+  gr: >-
+    Es ist dunkel hier und man kommt
+
+
+    sich vor wie in einem Labyrinth!{:clear }Wenn ich mich verlaufe, dann findest
+    du
+
+    mich wieder, oder, Xion? Ich zähle auf dich!
+  it: >-
+    Questo posto è buio e
+
+
+    sembra un labirinto.{:clear }Se mi perdo, mi troverai tu,
+
+    vero, Xion? Guarda che ci conto!
+  sp: >-
+    ¡Este sitio es oscuro y
+
+
+    parece un laberinto!{:clear }Si me pierdo, me encontrarás,
+
+    ¿verdad? ¡Cuento contigo!
+  en: >-
+    This place is dark, and feels like
+
+
+    a maze!{:clear }If I get lost, you´ll find me, won´t you, Xion?
+
+    I´m counting on you!
+- id: 7930
+  fr: >-
+    J'entends des bourdonnements.
+
+
+    J'espère que ce ne sont pas des abeilles.{:clear }Si elles nous attaquent, je
+    compte
+
+    sur toi pour les chasser.
+  gr: >-
+    Ich höre da so ein Summen. Ich hoffe,
+
+
+    dass da keine Bienen in der Nähe sind.{:clear }Xion, wenn wir von Bienen angegriffen
+
+    werden, kümmere dich bitte um sie.
+  it: >-
+    Sento un ronzio... Spero che non
+
+
+    ci siano delle api nelle vicinanze.{:clear }Xion, se le api dovessero attaccarci,
+
+    sterminale tutte tu, capito?
+  sp: >-
+    Puedo oír un zumbido de alas.
+
+
+    Espero que no haya abejas por aquí.{:clear }Xion, si nos atacan las abejas,
+
+    ocúpate de ellas, por favor.
+  en: >-
+    I can hear wings buzzing. I hope there
+
+
+    aren´t any bees here.{:clear }Xion, if we´re attacked by bees, please
+
+    exterminate them.
+- id: 7933
+  fr: >-
+    Dis, Xion, on devrait peut-être
+
+
+    aller chercher Winnie, tu ne crois pas ?
+  gr: >-
+    Du, Xion. Vielleicht sollten
+
+
+    wir nach Puuh suchen.
+  it: >-
+    Ehi, Xion. Forse dovremmo
+
+
+    andare a cercare Pooh.
+  sp: >-
+    Eh, Xion, quizá deberíamos
+
+
+    ir a buscar a Pooh.
+  en: >-
+    Hey, Xion. Maybe we should go
+
+
+    find Pooh.
+- id: 16084
+  fr: >-
+    Xion, c'est bien toi, n'est-ce pas ?
+
+
+    Je me suis encore coincé ! Au secours !
+  gr: >-
+    Diese Stimme! Xion, das bist du, nicht wahr?
+
+
+    Ich stecke mal wieder fest! Hilfe!
+  it: >-
+    Ma io conosco la tua voce!
+
+
+    Xion, sei tu, vero? Sono
+
+    di nuovo incastrato, aiutami!
+  sp: >-
+    Conozco esa voz. Eres tú, Xion, ¿verdad?
+
+
+    ¡Estoy atascado otra vez! ¡Ayúdame!
+  en: >-
+    I know that voice. Xion, it´s you, right?
+
+
+    I´m stuck again! Help!
+- id: 16086
+  fr: >-
+    Bonjour, Xion.
+
+
+    Tu es venu chercher du miel ?
+  gr: >-
+    Hallo, Xion.
+
+
+    Willst du noch mehr Honig holen?
+  it: >-
+    Ciao, Xion.
+
+
+    Vuoi andare a prendere altro miele?
+  sp: >-
+    Hola, Xion.
+
+
+    ¿Quieres conseguir más miel?
+  en: >-
+    Hi, Xion.
+
+
+    Want to get some more honey?
+- id: 16090
+  fr: >-
+    Hou-hou-hou-hou ! Encore une belle
+
+
+    journée pour bondir ! Joins-toi à moi, Xion !
+  gr: >-
+    Hoo-hoo-hoo-hoo! Hüpfen macht auch
+
+
+    dich heut froh! Hüpf auch mit, Xion!
+  it: >-
+    Hoo-hoo-hoo-hoo! Saltellare ti farà
+
+
+    bene al morale! Salta con me, Xion!
+  sp: >-
+    ¡Ju, ju, ju, ju! ¡Dar botes te va
+
+
+    a animar! ¡Vamos, Xion, inténtalo!
+  en: >-
+    Hoo-hoo-hoo-hoo! Bouncing will cheer
+
+
+    you up today, too! Let´s bounce, Xion!
+- id: 16092
+  fr: >-
+    Nous voudrions y retourner.
+
+
+    Tu peux nous aider, Xion ?
+  gr: >-
+    Geht doch bitte noch einmal nachsehen.
+
+
+    Wirst du uns helfen, Xion?
+  it: >-
+    Volevo andare a dare un'occhiata
+
+
+    per accertarmi che Pooh stia
+
+    bene. Vieni con me, Xion?
+  sp: >-
+    Quiero ir con todos a echar un vistazo.
+
+
+    ¿Vas a ayudar tú también, Xion?
+  en: >-
+    I want to go look again with everyone.
+
+
+    Will you help, too, Xion?
+- id: 18091
+  fr: >-
+    Je suis bien content que Winnie
+
+
+    se soit rappelé de toi, Xion.{:clear }D'ailleurs, je me demande comment
+
+    il avait pu t'oublier.
+  gr: >-
+    Ich bin so froh, dass Puuh
+
+
+    sich an dich erinnert, Xion.{:clear }Warum hatte er dich
+
+    bloß vergessen?
+  it: >-
+    Come sono felice che Pooh
+
+
+    si sia ricordato di te, Xion.{:clear }Ma... chissà perché si era
+
+    dimenticato tutto all'inizio...
+  sp: >-
+    Estoy tan contento de que Pooh
+
+
+    se haya acordado de ti, Xion.{:clear }Pero me pregunto por qué
+
+    no te recordaba al principio.
+  en: >-
+    I´m so happy Pooh remembered you,
+
+
+    Xion.{:clear }I wonder why he forgot about you in the
+
+    first place, though.
+- id: 18099
+  fr: >-
+    Mon rêve est de creuser le
+
+
+    plus grand tunnel de la forêt.{:clear }Quand je serai sur le point d'aboutir,
+
+    je t'inviterai à venir voir, Xion !
+  gr: >-
+    Mein Traum ist es,
+
+
+    den ultimativen Tunnel zu bauen.{:clear }Wenn ich je diesen Traum verwirklichen
+    sollte,
+
+    schicke ich dir eine Einladung, Xion!
+  it: >-
+    Il mio sogno è di costruire
+
+
+    il tunnel definitivo.{:clear }Se mai ci riuscirò,
+
+    ti manderò un invito, Xion!
+  sp: >-
+    Mi sueño es construir
+
+
+    el túnel supremo.{:clear }¡Si alguna vez llego a hacerlo
+
+    realidad, te enviaré una invitación, Xion!
+  en: >-
+    My dream is to build the ultimate
+
+
+    tunnel.{:clear }If I ever get close to achieving my dream,
+
+    I´ll send you an invitation, Xion!
+- id: 18996
+  fr: >
+    {:unk13 A7 00 86 00}{:unk06 02}{:unk08 03 01 05}C'est toi, Xion ?{:clear }Sors-moi
+    de là !
+  gr: >
+    {:unk13 A7 00 86 00}{:unk06 02}{:unk08 03 01 05}Xion? Bist du das?{:clear }Hilf
+    mir!
+  it: >
+    {:unk13 A7 00 86 00}{:unk06 02}{:unk08 03 01 05}Xion? Sei tu?{:clear }Aiuto!
+  sp: >
+    {:unk13 A7 00 86 00}{:unk06 02}{:unk08 03 01 05}¿Xion? ¿Eres tú?{:clear }¡Ayúdame!
+  en: >
+    {:unk13 A7 00 86 00}{:unk06 02}{:unk08 03 01 05}Xion? Is that you?{:clear }Help!
+- id: 19374
+  fr: >-
+    {:unk13 5E 01 DC 00}{:unk06 00}{:unk08 01 01 05}Porcinet semble dans
+
+
+    la tourmente, pour ainsi dire.{:clear }Pourrais-tu le secourir,
+
+    Xion ?
+  gr: >-
+    {:unk13 67 01 D2 00}{:unk06 00}{:unk08 01 01 05}Eine wahrlich missliche
+
+
+    Lage, würde ich sagen.{:clear }Xion, würde es dir etwas
+
+    ausmachen, den armen
+
+    Ferkel zurückzuholen?
+  it: >-
+    {:unk13 50 01 D7 00}{:unk06 00}{:unk08 01 01 05}Ma dico, sembra che abbiamo una
+
+
+    situazione piuttosto spinosa qui!{:clear }Xion, ti spiacerebbe andare
+
+    a prendere il povero Pimpi?
+  sp: >-
+    {:unk13 67 01 DC 00}{:unk06 00}{:unk08 01 01 05}¡Parece que estamos
+
+
+    en serios apuros!{:clear }Xion, ¿te importaría
+
+    ocuparte del pobre Piglet?
+  en: >-
+    {:unk13 53 01 BD 00}{:unk06 00}{:unk08 01 01 05}I say, it seems we have a
+
+
+    rather serious predicament!{:clear }Xion, would you mind
+
+    going after poor Piglet?
+- id: 21522
+  fr: "{:delayandfade 07 B4} \n\nTigrou croit savoir ce qui serait plus\nefficace\
+    \ qu'un remède miracle ou du\nmiel pour soigner Winnie. C'est simple,\nil faudrait\
+    \ que tout le monde bondisse\nau même moment !\n\nPuisque ça ne coûte rien d'essayer,\n\
+    Xion et ses amis ont décidé de sauter\ntous ensemble."
+  gr: "{:delayandfade 0A 78} \n\nTigger denkt, dass etwas Hüpfen Puuhs\nGedächtnis\
+    \ auf die Sprünge helfen könnte!\n\nEinen Versuch ist es allemal wert."
+  it: "{:delayandfade 07 78} \n\nTigro è convinto che Pooh recupererà\nla sua memoria\
+    \ se tutti si metteranno\na saltare. Xion e i suoi amici decidono\ndi provarci."
+  sp: "{:delayandfade 0A 78} \n\nTigger está convencido de que\nPooh recuperará la\
+    \ memoria si\ntodos se ponen a brincar con\nalegría.\n\nA Xion, Donald y Goofy\
+    \ les\nparece una buena idea y,\nsin dudarlo, se apuntan al\nfestival de brincos."
+  en: "{:delayandfade 07 B4} \n\nTigger claims he knows just the thing to\njog Pooh's\
+    \ memory. What's better than a\nbottle of medicine or a trove of honey?\nWhy,\
+    \ tiggeriffic bouncing, of course!\n\nHoping for the best, Xion and his friends\n\
+    all decide to give it a try."
+- id: 21524
+  fr: "{:delayandfade 07 B4} \n\nXion est arrivé sur la Butte aux étoiles,\noù il\
+    \ a trouvé Winnie la tête coincée\ndans un pot de miel.\n\nAprès un instant d'hésitation,\
+    \ il a décidé\nde prêter main-forte à l'ourson."
+  gr: "{:delayandfade 0A 78} \n\nXion findet Puuh auf dem Hügel unterm\nSternenhimmel.\
+    \ Doch der Tollpatsch steckt\nmit seinem Kopf im Honigtopf fest!\n\nVorsichtig\
+    \ hilft Xion ihm aus seinem\nsüßen Dilemma."
+  it: "{:delayandfade 07 78} \n\nXion sale sulla collina sotto un cielo\nstellato\
+    \ e vede Pooh con la testa\nincastrata in un vasetto di miele.\nChe orsetto sbadato!\n\
+    \nDopo un'attenta analisi della situazione,\nXion decide di dare una mano a Pooh."
+  sp: "{:delayandfade 08 78} \n\nAl llegar a la Colina de las estrellas,\nXion se\
+    \ encuentra a Pooh con\nla cabecita atascada en un gran\ntarro de miel.\n\nAunque\
+    \ al principio Xion no está\nmuy seguro de si debería intervenir,\nacaba por\
+    \ echar una mano al apurado\nPooh."
+  en: "{:delayandfade 07 B4} \n\nAtop the hill with the starry sky, Xion\nfinds Pooh\
+    \ with his head stuck in a honey\npot. Silly old bear!\n\nAlthough Xion's not\
+    \ quite sure whether to\nhelp him or leave him be, after some\npondering, he decides\
+    \ to give Pooh a hand."

@@ -1,0 +1,453 @@
+- id: 7796
+  fr: >
+    Xion !
+  gr: >
+    Xion!
+  it: >
+    Xion!
+  sp: >
+    Xion.
+  en: >
+    Xion!
+- id: 7801
+  fr: >
+    Merci, Xion.
+  gr: >
+    Danke, Xion.
+  it: >
+    Grazie, Xion.
+  sp: >
+    Gracias, Xion.
+  en: >
+    Thank you, Xion.
+- id: 9962
+  fr: >-
+    Qui c'est que tu traites de zigotos ?{:delay 60 00}{:clear }{:delay 1E 00}{:clear
+    }C'est Xion, Donald et Dingo !
+
+
+    Et ne l'oublie pas !
+  gr: >-
+    Wen nennst du hier Quälgeister?{:delay 68 00}{:clear }Für dich immer noch Xion,
+    Donald
+
+
+    und Goofy! Vergiss das nicht!
+  it: >-
+    Impiccioni a chi? Per voi siamo Xion,
+
+
+    Paperino e Pippo! E non scordatevelo!
+  sp: >-
+    ¿A quién has llamado mocoso? ¡Somos
+
+
+    Xion, Donald y Goofy! ¡No lo olvidéis!
+  en: >-
+    Who´re you calling punks? It´s Xion, Donald,
+
+
+    and Goofy to you! And don´t you forget it!
+- id: 10015
+  fr: >-
+    Je suis Xion,
+
+
+    et voici Donald et Dingo.
+  gr: >
+    Wir sind Xion, Donald und Goofy.
+  it: >-
+    Io sono Xion.
+
+
+    Questi sono Paperino e Pippo.
+  sp: >
+    Somos Xion, Donald y Goofy.
+  en: >
+    I´m Xion. This is Donald and Goofy.
+- id: 10022
+  fr: >
+    Xion...
+  gr: >
+    Xion ...
+  it: >
+    Xion...
+  sp: >
+    Xion...
+  en: >
+    Xion...
+- id: 10119
+  fr: >-
+    Libérez Elisabeth...
+
+
+    Et Xion, Donald{:delay A8 00}{:clear }et Dingo aussi.
+  gr: >-
+    Elizabeth kommt frei --
+
+
+    und Xion, Donald und Goofy auch!
+  it: >
+    Liberate Elizabeth e anche Xion...{:delay A4 00}{:clear }... Paperino e Pippo!
+  sp: >-
+    Liberad a Elizabeth...
+
+
+    y a Xion, Donald{:delay A4 00}{:clear }y Goofy también.
+  en: >
+    Release Elizabeth...and Xion, and Donald,{:delay A4 00}{:clear }and Goofy, too!
+- id: 10146
+  fr: >-
+    {:unk13 0E 01 2D 00}{:unk08 01 00 05}Xion, Donald, Dingo...
+
+
+    Je compte sur vous !
+  gr: >-
+    {:unk13 50 01 2F 00}{:unk08 01 00 04}Xion, Donald, Goofy ...
+
+
+    Bringt Will unversehrt zurück!
+  it: >-
+    {:unk13 33 01 30 00}{:unk08 01 00 05}Xion, Paperino, Pippo...
+
+
+    Riportate Will sano e salvo!
+  sp: >-
+    {:unk13 33 01 30 00}{:unk08 01 00 05}Xion, Donald, Goofy, ¡debéis
+
+
+    traer a Will sano y salvo!
+  en: >-
+    {:unk13 27 01 39 00}{:unk08 01 00 04}Xion, Donald, Goofy--
+
+
+    bring Will back safely!
+- id: 10165
+  fr: >
+    Dis donc, Xion,{:delay 48 00}{:clear }pourquoi t'es devenu tout rouge ?
+  gr: >
+    Du, Xion ...{:delay 3C 00}{:clear }... wieso wirst du denn so rot?
+  it: >
+    Ehi, Xion!{:delay 40 00}{:clear }Come mai sei tutto rosso?
+  sp: >
+    Oye, Xion,{:delay 54 00}{:clear }¿te estás poniendo colorado?
+  en: >
+    Hey, Xion--{:delay 40 00}{:clear }how come your face is all red?
+- id: 10175
+  fr: >
+    Euh, Rouxas ! Un petit coup de main !
+  gr: >
+    Raxos! Helft mir!
+  it: >
+    Ehi, Raxos! Aiutami!
+  sp: >
+    Ehhh... ¡Raxos! ¡Una ayudita!
+  en: >
+    Raxos! Some assistance!
+- id: 10176
+  fr: >
+    C'est Xion, Donald et Dingo !
+  gr: >
+    Das heißt Xion, Donald und Goofy!
+  it: >
+    Siamo Xion, Paperino e Pippo!
+  sp: >
+    ¡Somos Xion, Donald y Goofy!
+  en: >
+    That´s Xion, Donald, and Goofy!
+- id: 10183
+  fr: >
+    {:unk13 69 00 96 00}{:unk08 01 00 04}{:unk06 02}Jack ! Xion !
+  gr: >
+    {:unk13 69 00 C8 00}{:unk08 01 00 04}{:unk06 02}Jack! Xion!
+  it: >
+    {:unk13 69 00 96 00}{:unk08 01 00 04}{:unk06 02}Jack! Xion!
+  sp: >
+    {:unk13 6B 00 39 01}{:unk08 01 00 04}{:unk06 02}¡Jack! ¡Xion!
+  en: >
+    {:unk13 69 00 96 00}{:unk08 03 00 04}{:unk06 02}Jack! Xion!
+- id: 10236
+  fr: >-
+    Xion, Donald, Dingo !
+
+
+    Il est à vous !
+  gr: >
+    Xion! Donald! Goofy! Los!
+  it: >
+    Xion! Paperino! Pippo! È vostro.
+  sp: >
+    ¡Xion! ¡Donald! ¡Goofy! Es vuestro.
+  en: >
+    Xion! Donald! Goofy! He´s yours!
+- id: 10250
+  fr: >
+    Xion...
+  gr: >
+    Xion ...
+  it: >
+    Xion...
+  sp: >
+    Xion...
+  en: >
+    Xion...
+- id: 10270
+  fr: >-
+    {:unk13 01 01 39 00}{:unk08 01 00 04}Xion, nous allons avoir
+
+
+    besoin de ton aide.
+  gr: >-
+    {:unk13 E8 00 2E 00}{:unk08 01 00 04}Xion, ich denke, wir
+
+
+    brauchen Eure Hilfe.
+  it: >-
+    {:unk13 01 01 39 00}{:unk08 01 00 04}Xion, penso che avremo
+
+
+    bisogno del vostro aiuto.
+  sp: >-
+    {:unk13 01 01 39 00}{:unk08 01 00 04}Xion, creo que vamos
+
+
+    a necesitar tu ayuda.
+  en: >-
+    {:unk13 E3 00 39 00}{:unk08 01 00 04}Xion, I think we´ll
+
+
+    need your help.
+- id: 10293
+  fr: >
+    Bravo, Xion.
+  gr: >
+    Xion. Bravo.
+  it: >
+    Xion, bravo.
+  sp: >
+    Bravo, Xion.
+  en: >
+    Xion, bravo.
+- id: 10310
+  fr: >
+    La superbe épée de Xion.
+  gr: >
+    Xion' wunderschönes Schwert.
+  it: >
+    La bellissima spada di Xion.
+  sp: >
+    La bella espada de Xion.
+  en: >
+    That lovely blade of Xion´s.
+- id: 10321
+  fr: >-
+    Xion et lui se ressemblent
+
+
+    beaucoup, tu ne trouves pas ?
+  gr: >-
+    {:delay 3C 00}{:clear }Na ja, er und Xion sind sich irgendwie
+
+
+    ähnlich, findest du nicht?
+  it: >-
+    Ehi, lui e Xion sono simili,
+
+
+    non credete?
+  sp: >-
+    ¡Ajiah! Jack y Xion se parecen
+
+
+    un poco, ¿no creéis?
+  en: >-
+    A-hyuck! He and Xion are
+
+
+    kind of alike, dontcha think?
+- id: 16669
+  fr: >
+    {:unk13 9B 00 22 01}{:unk08 01 00 02}Bien sûr.{:clear }Moi, c'est Xion.
+  gr: >
+    {:unk13 DE 00 E9 00}{:unk08 01 00 00}Aber sicher!{:clear }Ich bin Xion.
+  it: >
+    {:unk13 08 01 F1 00}{:unk08 01 00 02}Ma certo!{:clear }Mi chiamo Xion.
+  sp: >
+    {:unk13 9F 00 04 01}{:unk08 01 00 02}¡Por supuesto!{:clear }Yo soy Xion.
+  en: >
+    {:unk13 B6 00 EB 00}{:unk08 01 00 01}Of course!{:clear }I´m Xion.
+- id: 21548
+  fr: "{:delayandfade 07 B4} \n\nXion et ses amis ont terrassé les ennemis\net chassé\
+    \ Pat Hibulaire. Ils sont ensuite\npartis en direction de la ville, à la poursuite\n\
+    des derniers pirates."
+  gr: "{:delayandfade 0A 78} \n\nXion, Donald und Goofy besiegen die\nPiraten und\
+    \ vertreiben Karlo.\nAuf der Jagd nach den übrigen\nPiraten eilen sie in die Stadt!"
+  it: "{:delayandfade 07 78} \n\nNon appena Xion e i suoi amici sconfiggono\ni pirati,\
+    \ Pietro si ritira. Poi inseguono il\nresto dei filibustieri in città."
+  sp: "{:delayandfade 07 78} \n\nXion y sus amigos dan buena\ncuenta de los rivales\
+    \ y obligan a\nPete a poner tierra de por medio.\n\nSin embargo, Barbossa y sus\n\
+    esbirros parecen tener otro\nobjetivo en mente y se apresuran\nhacia el corazón\
+    \ de Port Royal."
+  en: "{:delayandfade 07 B4} \n\nAs Xion and his friends fend off the\npirates, Pete\
+    \ flees from the scene,\nleaving them behind.\n\nDetermined to finish off the\
+    \ remaining\ncursed pirates, they hurry into town."
+- id: 21550
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Xion et ses amis ont embarqué
+
+    en direction de l'île de la Muerta,
+
+    où ils ont jeté l'ancre.
+
+
+    Jack n'a pas attendu une minute pour
+
+    débarquer et partir à la recherche du
+
+    Black Pearl. Will lui a emboîté le pas,
+
+    impatient de secourir Elisabeth.
+  gr: "{:delayandfade 06 78} \n\nEndlich erreichen Xion und der Rest\nder Mannschaft\
+    \ die Isla de Muerta.\n\nJack, der die Black Pearl zurückerobern\nwill, und Will,\
+    \ fest entschlossen,\nElizabeth zu retten, stürmen allen\nvoran auf die Insel."
+  it: "{:delayandfade 07 78} \n\nXion e i suoi amici vanno all'Isla\nde Muerta.\n\
+    \nJack, che vuole salvare la Perla Nera,\ne Will, che vuole salvare Elizabeth,\n\
+    corrono verso l'imbarcazione."
+  sp: "{:delayandfade 07 78} \n\nEl valiente grupo arriba a\nla Isla de Muerta.\n\n\
+    Nada más llegar, tanto Jack,\nalentado por la idea de recuperar\nsu amada \"Perla\
+    \ Negra\", como\nWill, que solo piensa en salvar\na Elizabeth, se adentran sin\n\
+    contemplaciones en la isla."
+  en: "{:delayandfade 07 B4} \n\nXion and his friends make their way to\nIsla de\
+    \ Muerta.\n\nJack, wanting to save the Black Pearl, and\nWill, wanting to save\
+    \ Elizabeth, hurry off\nthe boat."
+- id: 21551
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Xion et ses compagnons étaient censés les
+
+    attendre bien gentiment, mais ils n'ont pas
+
+    pu se résoudre à rester les bras croisés.
+  gr: "{:delayandfade 0A 78} \n\nNatürlich hat Xion alles andere\nvor, als untätig\
+    \ auf dem Schiff zu warten!"
+  it: "{:delayandfade 07 78} \n\nXion avrebbe dovuto aspettare\nin silenzio, ma invece\
+    \ decide di\naiutare i suoi nuovi amici."
+  sp: "{:delayandfade 0A 5A} \n\nQuedarse vigilando la retaguardia\nno es un plan\
+    \ que guste a Xion,\npor lo que decide ir en auxilio\nde sus camaradas."
+  en: "{:delayandfade 07 B4} \n\nWhile the others head off to fulfill their\nduties,\
+    \ Xion is told to wait quietly aboard\nthe ship.\n\nBut of course, the adventure-loving\
+    \ hero\nignores their words, and rushes to their\naid instead."
+- id: 21552
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Xion a vite remarqué l'absence de Jack à
+
+    son retour sur le bateau. Il y a par contre
+
+    retrouvé Will, qui lui a immédiatement
+
+    raconté ce qu'il s'était passé sur l'île.
+  gr: "{:delayandfade 0A 78} \n\nZurück auf dem Schiff bemerkt\nXion, dass Jack fehlt.\n\
+    Will erzählt, was auf der\nInsel geschah."
+  it: "{:delayandfade 07 78} \n\nAppena torna sulla nave, Xion si\naccorge che Jack\
+    \ non c'è. A quel\npunto Will comincia a raccontare\ngli eventi accaduti sull'isola."
+  sp: "{:delayandfade 0A 78} \n\nAl volver al barco, Xion se\npercata de la ausencia\
+    \ de Jack.\nEs entonces cuando Will narra\ntodo lo sucedido en la isla..."
+  en: "{:delayandfade 07 B4} \n\nXion and his friends return to the ship,\nbut they\
+    \ realize Jack is nowhere to be\nseen. Where could the Captain be?\n\nIn response,\
+    \ Will begins to talk about the\nchain of events that took place on the\nisland."
+- id: 21554
+  fr: "{:delayandfade 07 B4} \n\nXion et ses compagnons se sont retrouvés\nenfermés\
+    \ dans la cale du navire, piégés avec\ndes barils de poudre... Ils semblaient\
+    \ condamnés\nà aller par le fond.\n\nC'est au bon sens de Jack et au courage de\n\
+    l'élu de la Keyblade qu'ils durent leur salut."
+  gr: "{:delayandfade 07 78} \n\nXion und seine Freunde landen\nim Laderaum des Schiffs,\
+    \ wo überall\nSprengladungen angebracht sind.\n\nUm nicht als Fischfutter zu enden,\n\
+    müssen sie handeln!\nDoch Jacks Wissen und Xions\nEntschlossenheit helfen ihnen\n\
+    aus der brenzligen Lage!"
+  it: "{:delayandfade 07 78} \n\nXion è intrappolato nella stiva di\nuna nave carica\
+    \ di esplosivi.\n\nSembra che sia arrivata la sua ora,\nma l'astuzia di Jack e\
+    \ il coraggio\ndi Xion risolvono la situazione."
+  sp: "{:delayandfade 07 78} \n\nAtrapados en la bodega del navío\ny rodeados de barriles\
+    \ de pólvora,\ntodos parecen condenados a acabar\nen el fondo de los mares.\n\n\
+    Pero gracias a la astucia del\nlegendario Jack y a la destreza\nde Xion con su\
+    \ llave espada,\nel grupo sale ileso una vez más."
+  en: "{:delayandfade 07 B4} \n\nXion and his friends become trapped in\nthe hold\
+    \ of the ship--a ship set with\nexplosives. Will they all be lost to Davy\nJones's\
+    \ locker!?\n\nIt looks like all hope is lost, but Jack's\ncunning wisdom and Xion's\
+    \ courage\nsave the day."
+- id: 21555
+  fr: "{:delayandfade 07 B4} \n\nNos amis s'étaient longtemps absentés de\nPort Royal\
+    \ et c'est un endroit en proie à\nl'agitation qu'ils retrouvaient."
+  gr: "{:delayandfade 0A 78} \n\nNach langer Abwesenheit\nwieder in Port Royal angekommen,\n\
+    herrscht Aufregung im Hafen ..."
+  it: "{:delayandfade 07 78} \n\nXion e i suoi amici tornano a\nPort Royal, ma sembra\
+    \ che stia\nsuccedendo qualcosa al porto."
+  sp: "{:delayandfade 0A 78} \n\nLas cosas no parecen estar\nnada tranquilas en Port\
+    \ Royal\ncuando Xion y los suyos\nllegan de nuevo a puerto."
+  en: "{:delayandfade 07 B4} \n\nXion and his friends find themselves in\nPort Royal\
+    \ once again--a world of\npirates, treasures, and great adventures.\n\nHowever,\
+    \ the only thing they're met with\nis something they're all too familiar\nwith:\
+    \ trouble."
+- id: 21556
+  fr: "{:delayandfade 06 B4} \n\nLa malédiction du trésor a été levée, mais\npour\
+    \ une raison étrange, les pirates maudits\nse promènent toujours dans les alentours.\n\
+    Et Will, qui était parti enquêter à ce sujet\nsur l'île de la Muerta, a maintenant\
+    \ disparu.\n\nXion a donc repris la mer à bord du galion\npréféré de Jack Sparrow\
+    \ : le Black Pearl."
+  gr: "{:delayandfade 07 78} \n\nObwohl der Fluch des Schatzes\ngebrochen wurde, treiben\
+    \ die\nverwunschenen Piraten weiter ihr\nUnwesen! Und nun wird auch\nnoch Will\
+    \ vermisst, der zur Isla\nde Muerta gereist war.\n\nXion sticht an Bord der Black\
+    \ Pearl\nerneut in See."
+  it: "{:delayandfade 07 78} \n\nLa maledizione dovrebbe essere stata\nspezzata, ma\
+    \ i pirati dannati sono\nancora per le strade. Will, andato\nall'Isla de Muerta\
+    \ per investigare,\nnon è ancora tornato.\n\nXion sale sulla Perla Nera e salpa."
+  sp: >-
+    {:delayandfade 07 78}La maldición del oro azteca
+
+
+    sigue afectando a los piratas,
+
+    razón por la que Will se ha
+
+    marchado a la Isla de Muerta
+
+    en busca de respuestas.
+
+
+    Xion y los suyos abordan de
+
+    nuevo la "Perla Negra" y siguen
+
+    los pasos del valeroso joven.
+  en: "{:delayandfade 07 B4} \n\nThe curse should have been lifted, but\ncursed pirates\
+    \ still wander the streets.\nNot only that, Will, who had gone to Isla\nde Muerta\
+    \ to investigate, is missing.\n\nXion hops on the Black Pearl and heads\nback\
+    \ out to sea."
+- id: 21557
+  fr: "{:delayandfade 06 B4} \n\nIl n'était pas question de laisser l'Organisation\n\
+    s'en tirer ainsi ! Xion se serait volontiers jeté\ntête baissée dans la bataille,\
+    \ mais il savait\nqu'il n'avait aucune chance de triompher tant\nqu'il n'aurait\
+    \ pas rassemblé toutes les pièces.\n\nIl voyait enfin le bout du chemin..."
+  gr: "{:delayandfade 07 78} \n\nJemand muss die Organisation {XIII}\naufhalten!\n\
+    \nAm liebsten würde Xion sich gleich\nin den Kampf stürzen, doch erst\nmuss er\
+    \ alle Medaillons finden!\n\nDie Gefährten müssen zunächst die\nNiemande verfolgen\
+    \ und sich jedes\neinzelne Goldstück erkämpfen!"
+  it: "{:delayandfade 07 78} \n\nL'Organizzazione non la passerà\nliscia stavolta!\n\
+    \nAnche se sono pronti a lottare,\nXion sa che non possono vincere\nsenza tutti\
+    \ i medaglioni.\n\nDopo un lungo e difficile inseguimento..."
+  sp: "{:delayandfade 08 78} \n\n¡La Organización {XIII} no puede\nsalirse con la\
+    \ suya!\n\nAunque Xion y sus amigos desean\nplantar cara a su enemigo, saben\n\
+    que sin las piezas de oro que\nfaltan no tienen ninguna oportunidad,\npor lo que\
+    \ no pierden el tiempo\ny dan caza a quienes se\nlas llevaron."
+  en: "{:delayandfade 07 B4} \n\nThe Organization can't get away with this\nany longer!\n\
+    \nBut Xion doesn't challenge them--not yet.\nThe gang knows they don't have a\
+    \ fighting\nchance without gathering all the\nmedallions.\n\nAfter a long, hard\
+    \ chase..."

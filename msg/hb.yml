@@ -1,0 +1,1472 @@
+- id: 8273
+  fr: >-
+    Exact.{:delay 3C 00}{:clear }Je ne sais pas grand-chose sur
+
+
+    Winnie l'Ourson et ses amis.{:delay C6 00}{:clear }C'est pour ça que je vous ai
+    appelés.
+  gr: >-
+    So ist es. Ich weiß, dass du und
+
+
+    Winnie Puuh befreundet seid ...{:delay F0 00}{:clear }... deshalb habe ich euch
+    hergerufen.
+  it: >-
+    Esatto.{:delay 42 00}{:clear }Xion, so che sei un caro amico
+
+
+    di Winnie the Pooh.{:delay B9 00}{:clear }Ed è per questo che
+
+    ti ho convocato.
+  sp: >-
+    Eso es. {:delay 44 00}{:clear }Sé que eres un buen amigo
+
+
+    de Winnie the Pooh, Xion,{:delay BD 00}{:clear }por eso os he invocado.
+  en: >-
+    That´s right.{:delay 42 00}{:clear }I know you´re a good friend of Winnie the
+
+
+    Pooh, Xion--that´s why I summoned you.
+- id: 8278
+  fr: >
+    Xion !
+  gr: >
+    Xion!
+  it: >
+    Xion...
+  sp: >
+    ¡Xion!
+  en: >
+    Xion...
+- id: 8280
+  fr: >
+    Xion ! Viens vite !
+  gr: >
+    Xion! Komm schnell!
+  it: >
+    Xion! Vieni presto!
+  sp: >
+    ¡Xion! ¡Ven rápido!
+  en: >
+    Xion! Hurry up!
+- id: 8282
+  fr: >
+    Tu as le livre, Xion ?
+  gr: >
+    Xion! Hast du das Buch dabei?
+  it: >
+    Hai portato il libro, Xion?
+  sp: >
+    ¿Has traído el libro, Xion?
+  en: >
+    Did ya bring the book, Xion?
+- id: 8999
+  fr: >-
+    À ce rythme-là, elle va dévaster la pièce
+
+
+    avant qu'on trouve le mot de passe.{:clear }Tu peux la surveiller, Xion ?
+  gr: >-
+    Wenn sie so weitermacht, wird sie
+
+
+    das Arbeitszimmer zerstören, bevor
+
+    wir das Kennwort finden.{:clear }Entschuldige Xion, aber habt
+
+    bitte ein Auge auf sie, ja?
+  it: >-
+    Se continua così, distruggerà lo studio
+
+
+    prima che noi avremo trovato la password.{:clear }Scusa Xion, potresti tenere
+
+    d'occhio quella ragazza?
+  sp: >-
+    Si sigue así, destruirá el estudio antes
+
+
+    de que encontremos la contraseña.{:clear }Lo siento, Xion, pero debes
+
+    vigilar a esa chica.
+  en: >-
+    If she keeps that up, she´ll destroy the
+
+
+    study before we find the password.{:clear }Sorry, Xion, but keep an eye on
+
+    that girl.
+- id: 9010
+  fr: >-
+    Il faudra du temps et des efforts, mais
+
+
+    ce monde retrouvera le droit chemin.{:clear }Tu peux reprendre ta route, à présent.
+
+    Fais bien attention à toi, Xion.
+  gr: >-
+    Es wird ein Weilchen dauern, aber wenn wir nicht
+
+
+    aufgeben, wird diese Welt wieder so, wie sie war.{:clear }Ihr könnt jetzt wieder
+    eure eigenen Wege gehen.
+
+    Pass gut auf dich auf, Xion.
+  it: >-
+    Anche se ci vorrà molto, non importa:
+
+
+    questo mondo tornerà alla normalità.{:clear }Ora sei libero di andare, Xion.
+
+    Mi raccomando, sta' attento.
+  sp: >-
+    Será duro, pero si seguimos trabajando
+
+
+    este mundo volverá a la normalidad.{:clear }Ahora eres libre de seguir tu camino.
+
+    Ten cuidado, Xion.
+  en: >-
+    It´ll take awhile, but so long as we keep
+
+
+    at it, this world will return to normal.{:clear }You´re free to go your own way
+    now.
+
+    Be careful, Xion.
+- id: 12372
+  fr: >-
+    Xion, Donald, Dingo,{:delay 84 00}{:clear }{:delay 2A 00}{:clear }vous pourriez
+    nous aider à
+
+
+    faire le ménage dans cette ville ?
+  gr: >-
+    Xion, Donald, Goofy. Euer Beistand
+
+
+    wäre uns wirklich sehr willkommen.
+  it: >-
+    Xion, Paperino e Pippo, vorremmo
+
+
+    che voi tre ci deste una mano.
+  sp: >-
+    Xion, Donald, Goofy...{:delay 78 00}{:clear }Esperábamos que los tres pudierais
+
+
+    echarnos una mano por aquí.
+  en: >-
+    Xion, Donald, Goofy. We were hoping the
+
+
+    three of you might give us a hand around here.
+- id: 12380
+  fr: >-
+    Xion et ses amis ont
+
+
+    accepté de nous aider.
+  gr: >
+    Die drei haben versprochen, uns zu helfen!
+  it: >
+    Xion e i suoi amici ci aiuteranno!
+  sp: >-
+    ¡Xion y sus compañeros
+
+
+    nos van a ayudar!
+  en: >-
+    Xion and the gang said
+
+
+    they´re gonna help out!
+- id: 12399
+  fr: >
+    Dis, Xion... Tu sais ce qui se passe ?
+  gr: >
+    Also, Xion, du weißt, was hier los ist?
+  it: >-
+    Allora, Xion, sai che
+
+
+    cosa sta accadendo?
+  sp: >-
+    Dime, Xion...
+
+
+    ¿tienes idea de lo que está pasando?
+  en: >-
+    So Xion--do you know
+
+
+    what´s going on, then?
+- id: 12516
+  fr: >
+    Où est Naminé ? Où est Riku ?
+  gr: >
+    Wo ist Naminé?! Wo ist Riku?!
+  it: >
+    Dov'è Naminé? E Riku?
+  sp: >
+    ¿Dónde están Naminé... y Riku?
+  en: >
+    Where´s Naminé? Where´s Riku?
+- id: 12539
+  fr: >
+    Xion !
+  gr: >
+    Xion!
+  it: >
+    Xion!
+  sp: >
+    ¡Xion!
+  en: >
+    Xion!
+- id: 12547
+  fr: >-
+    J'en ai pas pour longtemps.{:delay 42 00}{:clear }{:delay 4E 00}{:clear }Xion,{:delay
+    2A 00}{:clear }{:delay 30 00}{:clear }tu devrais commencer à télécharger
+
+
+    et copier les données.
+  gr: >-
+    Ich bin gleich wieder da.{:delay 5A 00}{:clear }{:delay 41 00}{:clear }Hey, Xion.
+    Fang doch schon mal an,
+
+
+    die Daten zu laden und zu kopieren.
+  it: >-
+    Tornerò subito.{:delay 46 00}{:clear }{:delay 46 00}{:clear }Ehi, Xion, perché
+    non inizi
+
+
+    a caricare i dati e a copiarli?
+  sp: >-
+    Ahora mismo vuelvo. {:delay 46 00}{:clear }{:delay 46 00}{:clear }Eh, Xion...
+    ¿por qué no empiezas
+
+
+    a cargarlos y a copiarlos?
+  en: >-
+    I´m coming right back.{:delay 46 00}{:clear }{:delay 46 00}{:clear }Hey, Xion--why
+    don´t you get started on
+
+
+    loading the data and copying it down?
+- id: 12554
+  fr: >
+    Riku et Naminé !
+  gr: >
+    Riku und Naminé!
+  it: >
+    Riku e Naminé!
+  sp: >
+    ¡Riku y Naminé!
+  en: >
+    Riku and Naminé!
+- id: 12567
+  fr: >
+    Xion !
+  gr: >
+    Xion!
+  it: >
+    Xion!
+  sp: >
+    ¡Xion!
+  en: >
+    Xion!
+- id: 12606
+  fr: >
+    Toi...{:delay 2A 00}{:clear }{:delay 3C 00}{:clear }Tout ça, c'est ta faute.{:delay
+    4E 00}{:clear }{:delay 54 00}{:clear }À cause de toi,{:delay 36 00}{:clear }{:delay
+    18 00}{:clear }Riku et Naminé...
+  gr: >
+    Du ...!{:delay 3C 00}{:clear }{:delay 2D 00}{:clear }Du bist an allem Schuld!{:delay
+    78 00}{:clear }{:delay 3C 00}{:clear }Wegen dir sind Riku und Naminé --
+  it: >
+    Tu!{:delay 3C 00}{:clear }{:delay 2D 00}{:clear }Sei stato tu a iniziare tutto
+    questo!{:delay 54 00}{:clear }{:delay 4E 00}{:clear }Per colpa tua, Riku e Naminé...
+  sp: >
+    ¡Tú! {:delay 3C 00}{:clear }{:delay 2D 00}{:clear }¡Tú empezaste todo esto! {:delay
+    54 00}{:clear }{:delay 4E 00}{:clear }Por tu culpa, Riku y Naminé...
+  en: >
+    You...!{:delay 3C 00}{:clear }{:delay 2D 00}{:clear }You started all of this!{:delay
+    54 00}{:clear }{:delay 4E 00}{:clear }Because of you, Riku and Naminé...
+- id: 12610
+  fr: >
+    Pardonne-moi, Xion.
+  gr: >
+    Es tut mir Leid, Xion.
+  it: >
+    Mi dispiace, Xion.
+  sp: >
+    Lo siento, Xion.
+  en: >
+    I´m sorry, Xion.
+- id: 12611
+  fr: >-
+    Et Naminé ?{:delay 36 00}{:clear }{:delay 2A 00}{:clear }C'est peut-être l'Organisation
+    XIII
+
+
+    qui l'a enlevée.
+  gr: >
+    Und was ist mit Naminé?{:delay 55 00}{:clear }{:delay 0F 00}{:clear }Die Organisation
+    {XIII} hat sie vielleicht entführt.
+  it: >-
+    E Naminé?{:delay 3C 00}{:clear }{:delay 2A 00}{:clear }L'Organizzazione {XIII}
+
+
+    potrebbe averla rapita.
+  sp: >-
+    ¿Y qué pasa con Naminé? {:delay 3C 00}{:clear }{:delay 2A 00}{:clear }¡Quizá la
+    Organización
+
+
+    la haya secuestrado!
+  en: >
+    What about Naminé?{:delay 3C 00}{:clear }{:delay 2A 00}{:clear }Organization {XIII}
+    might´ve kidnapped her.
+- id: 12613
+  fr: >
+    Xion, Donald, Dingo.
+  gr: >
+    Xion, Donald, Goofy.
+  it: >
+    Xion, Paperino, Pippo.
+  sp: >
+    Xion, Donald, Goofy...
+  en: >
+    Xion, Donald, Goofy.
+- id: 12618
+  fr: >
+    Cherchons Riku et Naminé ensemble.
+  gr: >
+    Suchen wir Riku und Naminé doch gemeinsam.
+  it: >
+    Cerchiamo insieme Riku e Naminé.
+  sp: >-
+    Iremos juntos a buscar
+
+
+    a Riku y a Naminé.
+  en: >
+    Let´s look for Riku and Naminé together.
+- id: 12626
+  fr: >-
+    Sans-cæur,{:delay 42 00}{:clear }oubliez les créatures blanches.
+
+
+    Occupez-vous de Xion et ses amis.
+  gr: >-
+    Herzlose!{:delay 3C 00}{:clear }Lasst ab von den Weißen! Kümmert
+
+
+    euch um Xion und seine Freunde!
+  it: >-
+    Heartless!{:delay 42 00}{:clear }Lasciate perdere i bianchi.
+
+
+    Occupatevi di Xion e dei suoi amici!
+  sp: >-
+    ¡Sincorazón! {:delay 42 00}{:clear }¡Dejad a los blancos!
+
+
+    ¡Concentraos en Xion y sus amigos!
+  en: >-
+    Heartless!{:delay 42 00}{:clear }Leave the white ones. Turn your
+
+
+    attention to Xion and his friends!
+- id: 12645
+  fr: >
+    Xion, c'est Séphiroth !
+  gr: >
+    Xion, das ist Sephiroth!
+  it: >
+    Xion, è Sephiroth!
+  sp: >
+    ¡Xion, es Sephiroth!
+  en: >
+    Xion, it´s Sephiroth!
+- id: 12655
+  fr: >
+    Xion ! Derrière toi !
+  gr: >
+    Xion! Hinter euch!
+  it: >
+    Xion! Dietro di te!
+  sp: >
+    ¡Xion! ¡Por detrás!
+  en: >
+    Xion! Behind you!
+- id: 12675
+  fr: >-
+    Vous trois, partez
+
+
+    retrouver Riku et Naminé.
+  gr: >
+    Los jetzt, ihr müsst Riku und Naminé finden!
+  it: >-
+    Ora ragazzi, dovete andare
+
+
+    a cercare Riku e Naminé!
+  sp: >-
+    Bien, chicos, tenéis que ir
+
+
+    a buscar a Riku y a Naminé.
+  en: >-
+    Okay, fellas,
+
+
+    you´ve gotta go find Riku and Naminé!
+- id: 12679
+  fr: >
+    Donald, Dingo !{:delay 48 00}{:clear }{:delay 06 00}{:clear }Emmenez Xion et
+    partez !
+  gr: >
+    Donald! Goofy!{:delay 3C 00}{:clear }Nehmt Xion mit und geht jetzt!
+  it: >
+    Paperino! Pippo!{:delay 5A 00}{:clear }Prendete Xion e andate!
+  sp: >
+    ¡Donald! ¡Goofy! {:delay 5A 00}{:clear }¡Coged a Xion y marchaos!
+  en: >
+    Donald! Goofy!{:delay 5A 00}{:clear }Take Xion and get goin´!
+- id: 12680
+  fr: >-
+    Riku, Naminé... Attendez-moi
+
+
+    encore un peu.
+  gr: >
+    Riku, Naminé ... Wartet noch eine Weile, ja?
+  it: >-
+    Riku, Naminé...
+
+
+    datemi un po' di tempo, d'accordo?
+  sp: >-
+    Riku, Naminé... dadme
+
+
+    un poco de tiempo, ¿vale?
+  en: >-
+    Riku, Naminé...give me
+
+
+    a little time, okay?
+- id: 12682
+  fr: >-
+    Compris. Nous allons
+
+
+    retrouver Riku et Naminé !
+  gr: >
+    Zu Befehl. Wir gehen Riku und Naminé suchen!
+  it: >-
+    Abbiamo capito.
+
+
+    Andremo a cercare Riku e Naminé!
+  sp: >-
+    Entendido. Partiremos en
+
+
+    busca de Riku y de Naminé.
+  en: >-
+    We understand. We´ll go
+
+
+    search for Riku and Naminé!
+- id: 12686
+  fr: >
+    Xion, fais ce qu'on te dit !
+  gr: >
+    Xion, tu, was man dir sagt!
+  it: >
+    Xion, fa' come ti ha detto!
+  sp: >
+    ¡Xion, obedece!
+  en: >
+    Xion, do as you´re told!
+- id: 12688
+  fr: >
+    Allez Xion, tu dois obéir.
+  gr: >
+    Na los, Xion! Wir brechen jetzt auf!
+  it: >-
+    Avanti, Xion!
+
+
+    Devi fare il bravo.
+  sp: >
+    ¡Vamos, Xion! Tienes que ser bueno.
+  en: >
+    C´mon, Xion! Ya gotta be good!
+- id: 12709
+  fr: >
+    Hé, Xion !
+  gr: >
+    Nicht, Xion!
+  it: >
+    Ehi! Xion!
+  sp: >
+    ¡Eh! ¡Xion!
+  en: >
+    Hey, Xion!
+- id: 12767
+  fr: >-
+    Ça suffit, Simili !
+
+
+    Où est Naminé ? Où est Riku ?
+  gr: >-
+    Raus mit der Sprache, Niemand!
+
+
+    Wo ist Naminé? Wo ist Riku?!
+  it: >-
+    Sputa il rospo, Nessuno!
+
+
+    Dov'è Naminé? Dov'è Riku?
+  sp: >-
+    ¡Suéltalo, incorpóreo!
+
+
+    ¿Dónde está Naminé? ¿Y Riku?
+  en: >-
+    Out with it, Nobody! Where´s Naminé?
+
+
+    Where´s Riku!?
+- id: 12768
+  fr: >
+    Je ne connais aucune Naminé.{:delay 78 00}{:clear }{:delay 3C 00}{:clear }Quant
+    à Riku...{:delay 48 00}{:clear }{:delay 3C 00}{:clear }Vous devriez demander à
+    votre Roi.
+  gr: >
+    Von dieser Naminé weiß ich nichts.{:delay 78 00}{:clear }{:delay 2D 00}{:clear
+    }Und was Riku betrifft ...{:delay 78 00}{:clear }Warum fragst du nicht den König?
+  it: >
+    Non conosco nessuna Naminé.{:delay 73 00}{:clear }{:delay 2D 00}{:clear }Quanto
+    a Riku...{:delay 73 00}{:clear }Forse dovresti chiedere al tuo Re.
+  sp: >
+    No sé nada de ninguna Naminé.{:delay 83 00}{:clear }{:delay 30 00}{:clear }En
+    cuanto a Riku...{:delay 71 00}{:clear }tal vez deberías preguntarle a tu rey.
+  en: >
+    I know nothing of any Naminé.{:delay 73 00}{:clear }{:delay 2D 00}{:clear }As
+    for Riku...{:delay 73 00}{:clear }Perhaps you should ask your king.
+- id: 12771
+  fr: >
+    Xion. Dingo.
+  gr: >
+    Xion. Goofy.
+  it: >
+    Xion, Pippo.
+  sp: >
+    Xion... Goofy...
+  en: >
+    Xion, Goofy.
+- id: 12784
+  fr: >
+    Toi. C'est toi qui as enlevé Naminé !
+  gr: >
+    Du. Du bist der Entführer von Naminé!
+  it: >-
+    Tu. Tu sei quello che
+
+
+    ha rapito Naminé!
+  sp: >-
+    ¡Tú! ¡Tú eres el que ha
+
+
+    secuestrado a Naminé!
+  en: >
+    You...you´re the one who kidnapped Naminé!
+- id: 12786
+  fr: >
+    Où est Naminé ?
+  gr: >
+    Wo ist Naminé?
+  it: >
+    Dov'è Naminé?
+  sp: >
+    ¿¡Dónde está Naminé!?
+  en: >
+    Where is Naminé?
+- id: 12788
+  fr: >
+    Écoute, au sujet de Naminé...{:delay 66 00}{:clear }{:delay 12 00}{:clear }Je
+    suis désolé.
+  gr: >
+    Also, wegen Naminé ...{:delay 64 00}{:clear }{:delay 19 00}{:clear }Das tut mir
+    Leid.
+  it: >
+    Senti, per Naminé...{:delay 64 00}{:clear }{:delay 23 00}{:clear }Mi dispiace.
+  sp: >
+    Mira, respecto a Naminé...{:delay 64 00}{:clear }{:delay 23 00}{:clear }lo siento.
+  en: >
+    Look, about Naminé...{:delay 64 00}{:clear }{:delay 23 00}{:clear }I´m sorry.
+- id: 12793
+  fr: >
+    Inutile de t'inquiéter pour Naminé.{:delay 84 00}{:clear }{:delay 2A 00}{:clear
+    }Nous prenons grand soin de ton amie.
+  gr: >-
+    Du brauchst dir keine Sorgen
+
+
+    um Naminé zu machen.{:delay 8C 00}{:clear }Wir passen sehr gut auf sie auf.
+  it: >-
+    Se è di Naminé che ti preoccupi,
+
+
+    lascia stare.{:delay A5 00}{:clear }Ce ne stiamo prendendo cura noi.
+  sp: >-
+    Si es Naminé lo que te preocupa,
+
+
+    tranquilo,{:delay A0 00}{:clear }estamos cuidando muy bien de ella.
+  en: >-
+    If it´s Naminé you´re worried about, don´t.
+
+
+    We´re taking very good care of her.
+- id: 12822
+  fr: >
+    Xion ! On part !
+  gr: >
+    Xion! Komm!
+  it: >
+    Xion! Andiamo!
+  sp: >
+    ¡Xion! ¡Vamos!
+  en: >
+    Xion! C´mon!
+- id: 12828
+  fr: >
+    Oui, Xion !{:delay 3C 00}{:clear }{:delay 0C 00}{:clear }Libère plus de cæurs.
+  gr: >
+    Ja, Xion!{:delay 3C 00}{:clear }{:delay 0E 00}{:clear }Extrahiere noch mehr Herzen!
+  it: >
+    Sì, Xion!{:delay 3C 00}{:clear }{:delay 18 00}{:clear }Libera altri cuori!
+  sp: >
+    Bien, Xion.{:delay 3C 00}{:clear }{:delay 18 00}{:clear }Libera más corazones.
+  en: >
+    Yes, Xion!{:delay 3C 00}{:clear }{:delay 18 00}{:clear }Extract more hearts!
+- id: 12833
+  fr: >
+    Xion ! Donald ! Dingo !
+  gr: >
+    Xion! Donald! Goofy!
+  it: >
+    Xion! Paperino! Pippo!
+  sp: >
+    ¡Xion! ¡Donald! ¡Goofy!
+  en: >
+    Xion! Donald! Goofy!
+- id: 15173
+  fr: >-
+    {:unk13 A0 00 E3 00}{:unk08 01 01 02}Et peut-être même sur
+
+
+    le domaine des ténèbres.{:clear }Apparemment, c'est là-bas
+
+    que sont Riku et Naminé.
+  gr: >-
+    {:unk13 A0 00 E3 00}{:unk08 01 01 02}Und vielleicht sogar
+
+
+    was über das Reich
+
+    der Dunkelheit?{:clear }Sieht ja so aus, als
+
+    ob Riku und Naminé
+
+    sich dort befänden.
+  it: >-
+    {:unk13 A0 00 E3 00}{:unk08 01 01 02}E magari anche qualcosa
+
+
+    sul regno oscuro?{:clear }Sembra che Riku e
+
+    Naminé si trovino là.
+  sp: >-
+    {:unk13 A0 00 E3 00}{:unk08 01 01 02}¿Y también algo sobre el
+
+
+    Reino de la Oscuridad?{:clear }Parece que allí es
+
+    donde están Riku y Naminé.
+  en: >-
+    {:unk13 A0 00 E3 00}{:unk08 01 01 02}And maybe something on
+
+
+    the dark realm, too?{:clear }It looks like that´s where
+
+    Riku and Naminé are.
+- id: 16059
+  fr: >
+    Naminé ! Riku !
+  gr: >
+    Naminé! Riku!
+  it: >
+    Naminé! Riku!
+  sp: >
+    ¡Naminé! ¡Riku!
+  en: >
+    Naminé! Riku!
+- id: 16065
+  fr: >
+    Roxas.
+  gr: >
+    Roxas.
+  it: >
+    ... Roxas.
+  sp: >
+    Roxas.
+  en: >
+    Roxas.
+- id: 16067
+  fr: >-
+    Non.{:delay 2D 00}{:clear }{:delay 28 00}{:clear }Mais je sais que c'est son nom.
+
+
+    Il s'appelle Roxas.
+  gr: >-
+    Nein ...{:delay 28 00}{:clear }{:delay 28 00}{:clear }Der Name kam mir nur grade
+    in den Sinn.
+
+
+    Dass das ... "Roxas" ist.
+  it: >-
+    No...{:delay 2D 00}{:clear }{:delay 28 00}{:clear }Ma il nome mi è venuto in
+
+
+    mente così... Lui è Roxas.
+  sp: >-
+    No...{:delay 2D 00}{:clear }{:delay 2F 00}{:clear }Me ha venido ese nombre de
+    repente.
+
+
+    Él es... Roxas.
+  en: >-
+    No...{:delay 2D 00}{:clear }{:delay 28 00}{:clear }The name just popped into my
+    head...
+
+
+    This is Roxas.
+- id: 16071
+  fr: >-
+    Pas maintenant. Je dois
+
+
+    d'abord retrouver Naminé.
+  gr: >
+    Noch nicht! Ich muss erst Naminé suchen!
+  it: >-
+    Non ora!
+
+
+    Devo cercare Naminé!
+  sp: >-
+    ¡Aún no!
+
+
+    ¡Tengo que buscar a Naminé!
+  en: >-
+    Not yet!
+
+
+    I gotta look for Naminé!
+- id: 17867
+  fr: >-
+    L'explosion venait de l'extérieur, non ?
+
+
+    Il doit se passer quelque chose de grave !{:clear }La bataille sera de longue
+    haleine.
+
+    Tu te sens prêt, Xion ?
+  gr: >-
+    Die Explosion kam von draußen, oder?
+
+
+    Es muss draußen ja wirklich schlimm sein!{:clear }Das könnte ein ziemlich langer
+    Kampf werden.
+
+    Bist du bereit, Xion?
+  it: >-
+    L'esplosione veniva dall'esterno, vero?
+
+
+    Chissà che caos ci sarà...{:clear }Qualcosa mi dice che sarà una
+
+    lunga battaglia, Xion. Sei pronto?
+  sp: >-
+    Esa explosión vino de afuera, ¿no?
+
+
+    ¡Debe de estar pasando algo terrible!{:clear }Me temo que será una larga batalla.
+
+    ¿Estás preparado, Xion?
+  en: >-
+    That explosion came from outside, right?
+
+
+    It must be awful out there!{:clear }This looks like it´s going to be a long battle.
+
+    Are you ready, Xion?
+- id: 17868
+  fr: >-
+    Il suffit parfois d'un déclic pour
+
+
+    faire de quelqu'un un héros.{:clear }Surtout, veille à toujours préserver
+
+    ton courage et ta générosité, Xion.
+  gr: >-
+    Es gibt Leute, die zu Helden werden,
+
+
+    wenn sich die Gelegenheit dazu ergibt.{:clear }Verliere also niemals den Mut und
+
+    dein Mitgefühl für andere, Xion.
+  it: >-
+    Alcune persone, quando ne ricevono
+
+
+    l'opportunità, possono diventare eroi.{:clear }Non perdere il coraggio e la compassione
+
+    che hai per gli altri, Xion.
+  sp: >-
+    Hay quien, si tiene la oportunidad,
+
+
+    puede convertirse en héroe.{:clear }Nunca pierdas tu coraje ni tu
+
+    compasión por los otros, Xion.
+  en: >-
+    Some people, if given the opportunity,
+
+
+    might become heroes.{:clear }Don´t ever lose your courage and your
+
+    compassion for others, Xion.
+- id: 17869
+  fr: >-
+    Dès que Cid aura terminé son programme,
+
+
+    je vous l'enverrai depuis le {:theme 0A}labo{:reset}.{:clear }Allez vite au secours
+    de Tron.
+
+    Sans lui, on est perdus.
+  gr: >-
+    Wenn Cids Programm fertig ist, sende ich
+
+
+    euch die Daten vom {:theme 0A}Arbeitszimmer{:reset} aus.{:clear }Wenn Tron etwas
+    geschieht, ist das alles
+
+    für die Katz. Geht und helft ihm, Xion.
+  it: >-
+    Appena il programma di Cid sarà pronto,
+
+
+    te lo invierò dallo {:theme 0A}studio{:reset}.{:clear }Ma se perdiamo Tron, sarà
+    tutto inutile.
+
+    Corri ad aiutarlo, Xion.
+  sp: >-
+    Una vez que el programa de Cid esté
+
+
+    listo, lo enviaré desde el {:theme 0A}estudio{:reset}.{:clear }Pero, si perdemos
+    a Tron, será inútil.
+
+    Ve y ayúdale, Xion.
+  en: >-
+    Once Cid´s program is ready,
+
+
+    I´ll send it from the {:theme 0A}study{:reset}.{:clear }It´ll be useless, though,
+    if we lose Tron.
+
+    Go help him, Xion.
+- id: 17870
+  fr: >-
+    Tu as bien grandi en à peine un an.{:clear }Et pas seulement physiquement.
+
+
+    Ton esprit aussi est devenu plus fort.
+  gr: >-
+    Du bist ja ziemlich gewachsen
+
+
+    während des letzten Jahres.{:clear }Und ich meine nicht nur, wie groß du bist.
+
+    Du bist stärker geworden, resoluter.{:clear }So mag ich dich, Xion!
+  it: >-
+    Sei cresciuto molto negli ultimi
+
+
+    anni e non dico solo fisicamente.
+
+    Sei diventato più forte e più saggio.{:clear }Questo è il Xion che conosco.
+  sp: >-
+    Parece que has crecido un montón
+
+
+    este último año.{:clear }No me refiero solo a tu cuerpo.
+
+    Te has vuelto aún más fuerte.{:clear }Ese es el Xion que conozco.
+  en: >-
+    It seems you´ve done a lot of
+
+
+    growing this past year.{:clear }And I don´t just mean your body.
+
+    You´ve become even stronger.{:clear }That´s the Xion I know.
+- id: 17936
+  fr: >-
+    Même Léon n'est pas de taille face à tant
+
+
+    d'ennemis. Allez lui prêter main-forte.{:clear }Passez par la muraille des fortifications
+
+    qui s'est écroulée. Faites vite !
+  gr: >-
+    Das sind selbst für Leon zu viele Gegner.
+
+
+    Ihr müsst ihnen helfen.{:clear }Ihr solltet durch die kaputte Mauer im
+
+    Außenhof zu ihnen gelangen. Schnell, Xion!
+  it: >-
+    I nemici sono troppi persino per Leon.
+
+
+    Dovete dargli una mano, ragazzi.{:clear }Dovreste riuscire a raggiungerli attraverso
+
+    il muro rotto dell'area fortificata. Forza!
+  sp: >-
+    Hay demasiados enemigos hasta para
+
+
+    León. Tenéis que echarle una mano.{:clear }Podéis llegar hasta él a través de
+    la
+
+    pared rota del patio interior. ¡Deprisa!
+  en: >-
+    There are too many enemies even for Leon
+
+
+    to handle. You gotta go help them out.{:clear }You should be able to get to them
+    through
+
+    the broken bailey wall. Hurry, Xion!
+- id: 17939
+  fr: >-
+    La ville tout entière tremble !
+
+
+    Que se passe-t-il dans l'ordinateur ?
+  gr: >-
+    Die ganze Stadt bebt!
+
+
+    Xion, was geht da drin vor?
+  it: >-
+    L'intera città sta tremando!
+
+
+    Xion, che cosa sta succedendo lì dentro?
+  sp: >-
+    ¡La ciudad entera está temblando!
+
+
+    Xion, ¿qué ocurre ahí dentro?
+  en: >-
+    The whole town is shaking!
+
+
+    Xion, what´s going on inside there?
+- id: 18836
+  fr: >-
+    {:unk13 FA 00 3C 00}{:unk08 01 01 06}Un instant, Xion.{:clear }Qu'en est-il de
+
+
+    ta magie ?
+  gr: >-
+    {:unk13 F1 00 4E 00}{:unk08 01 01 06}Einen Moment, Xion.{:clear }Was ist mit
+
+
+    deiner Magie?
+  it: >
+    {:unk13 FA 00 3C 00}{:unk08 01 01 06}Aspetta un momento, Xion.{:clear }Che mi
+    dici della tua magia?
+  sp: >-
+    {:unk13 FA 00 3C 00}{:unk08 01 01 06}Un momento, Xion.{:clear }¿Qué hay de
+
+
+    tu magia?
+  en: >-
+    {:unk13 FA 00 3C 00}{:unk08 01 01 06}Just a moment, Xion.{:clear }What about
+
+
+    your magic?
+- id: 18842
+  fr: >-
+    {:unk13 9F 00 48 00}{:unk08 01 01 05}Oh, encore une chose, Xion.{:clear }Je vais
+    conférer de nouveaux
+
+
+    pouvoirs à tes vêtements.
+  gr: >-
+    {:unk13 9F 00 3E 00}{:unk08 01 01 05}Ach! Bevor ich es vergesse.{:clear }Lass
+    mich deiner Kleidung
+
+
+    neue Kräfte verleihen, Xion.
+  it: >-
+    {:unk13 9F 00 48 00}{:unk08 01 01 05}Oh! Un'altra cosa.{:clear }Lascia che dia
+    dei nuovi
+
+
+    poteri ai tuoi abiti, Xion.
+  sp: >-
+    {:unk13 BB 00 48 00}{:unk08 01 00 06}¡Ah! Una cosa más.{:clear }Xion, deja que
+    otorgue nuevos
+
+
+    poderes a tus prendas.
+  en: >-
+    {:unk13 9F 00 48 00}{:unk08 01 01 05}Oh! One more thing.{:clear }Let me give your
+    clothes
+
+
+    some new powers, Xion.
+- id: 18846
+  fr: >-
+    {:unk13 C3 00 64 00}{:unk08 01 00 05}Entendu, Xion.
+
+
+    Surtout, soyez prudents.
+  gr: >-
+    {:unk13 C3 00 50 00}{:unk08 01 00 05}Das werde ich, Xion.
+
+
+    Und denkt daran --
+
+    seid vorsichtig!
+  it: >-
+    {:unk13 C3 00 64 00}{:unk08 01 00 05}D'accordo, Xion.
+
+
+    E fa' attenzione!
+  sp: >-
+    {:unk13 DE 00 4E 00}{:unk08 01 00 05}Lo haré, Xion.
+
+
+    Y recuerda: ¡ten cuidado!
+  en: >-
+    {:unk13 C3 00 64 00}{:unk08 01 00 05}I will, Xion. And
+
+
+    remember--be careful!
+- id: 18847
+  fr: >-
+    {:unk13 18 01 46 00}{:unk08 01 01 06}J'ai quelque chose
+
+
+    pour toi, Xion.
+  gr: >-
+    {:unk13 0E 01 50 00}{:unk08 01 01 06}Und wo wir gerade von wichtigen
+
+
+    Freunden sprechen ...{:clear }Dies ist für dich, Xion.
+  it: >-
+    {:unk13 18 01 46 00}{:unk08 01 01 06}Il libro non è l'unica
+
+
+    cosa preziosa...{:clear }Ecco, è per te, Xion.
+  sp: >-
+    {:unk13 18 01 46 00}{:unk08 01 01 06}Ahora bien, el libro no es
+
+
+    lo único valioso...{:clear }Esto es para ti, Xion.
+  en: >-
+    {:unk13 18 01 46 00}{:unk08 01 01 06}Now, the book isn´t
+
+
+    all that´s cherished...{:clear }This is for you, Xion.
+- id: 20185
+  fr: >-
+    {:unk08 02 00 06}Tu peux défier Roxas à nouveau,
+
+
+    mais sache qu'il est plus fort maintenant.
+
+    {:chardelay 33 00}Sans moi.
+
+    {:chardelay AD 00}C'est parti !
+  gr: >-
+    {:unk08 02 00 06}Möchtest du dich mit einer gestärkten
+
+
+    Datenrekonstruktion Roxas' messen?
+
+    {:chardelay 33 00}Das lass ich lieber.
+
+    {:chardelay AD 00}Au ja! Auf in den Kampf!
+  it: >-
+    {:unk08 02 00 06}Combatti di nuovo con Roxas,
+
+
+    ma attenzione, ora è più forte.
+
+    {:chardelay 33 00}Non ora.
+
+    {:chardelay AD 00}Non mi fa paura!
+  sp: >-
+    {:unk08 02 00 06}¿Quieres enfrentarte a una versión más
+
+
+    fuerte de Roxas a partir de sus datos?
+
+    {:chardelay 33 00}Ahora no.
+
+    {:chardelay AD 00}¡A batirse tocan!
+  en: >-
+    {:unk08 02 00 06}Battle Roxas again, but be warned--
+
+
+    he's stronger than before.
+
+    {:chardelay 33 00}Not right now.
+
+    {:chardelay AD 00}I'm ready for a fight!
+- id: 21483
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Merlin pense que Winnie a oublié ses amis
+
+    parce que les Sans-cæur ont volé des pages
+
+    du livre.
+
+
+    Xion a retrouvé les pages manquantes, et
+
+    est retourné dans le monde de Winnie.
+  gr: "{:delayandfade 06 78} \n\nMerlin erklärt, dass Puuh sich wegen\nfehlenden Seiten\
+    \ seines Bilderbuchs nicht\nmehr an seine Freunde erinnern kann.\n\nXion sammelt\
+    \ die Seiten, die von den\nHerzlosen gestohlen wurden, und\nreist ins Bilderbuchland."
+  it: >-
+    {:delayandfade 07 78}
+
+
+    Secondo Merlino, gli Heartless hanno
+
+    rubato delle pagine del libro: ecco
+
+    perché Pooh ha dimenticato i suoi
+
+    amici.
+
+
+    Xion recupera le pagine e torna
+
+    nel mondo di Pooh.
+  sp: "{:delayandfade 08 78} \n\nSegún Merlín, Pooh no recuerda\nnada porque los sincorazón\
+    \ han\nrobado algunas páginas de su libro.\n\nXion tiene que apresurarse en\n\
+    recuperar una a una las páginas y\nregresar al mundo del simpático osito\nantes\
+    \ de que la cosa empeore."
+  en: "{:delayandfade 07 B4} \n\nAccording to Merlin, Pooh lost his memory\nbecause\
+    \ the Heartless had stolen pages out\nof the book.\n\nDetermined to help his friend,\
+    \ Xion collects\nthe pages and dives into Pooh's world."
+- id: 21484
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Lorsque Xion est revenu chez Merlin,
+
+    Cid lui a annoncé qu'ils avaient trouvé
+
+    l'ordinateur d'Ansem.
+
+
+    Ils allaient enfin recueillir des informations
+
+    au sujet de l'Organisation {XIII}, mais
+
+    également sur Riku, Naminé et le Roi !
+
+    C'est le cæur battant que nos amis ont
+
+    pris le chemin de la salle informatique...
+  gr: "{:delayandfade 07 78} \n\nIn Merlins Haus hat Cid Neuigkeiten:\nAnsems Computer\
+    \ wurde gefunden!\n\nAuf ihm könnten nicht nur Daten\nüber die Organisation {XIII},\
+    \ sondern\nauch über Riku, Naminé und sogar den\nKönig sein!\n\nXion stürmt allen\
+    \ voran zum\nComputer-Raum ..."
+  it: >-
+    {:delayandfade 07 78}
+
+
+    Poco dopo, Xion torna a casa di Merlino
+
+    e Cid lo informa che hanno trovato il
+
+    computer di Ansem.
+
+
+    Forse potrebbero usarlo per recuperare
+
+    informazioni sull'Organizzazione {XIII} e
+
+    anche su Riku, Naminé e persino il Re!
+
+
+    Incapaci di contenere l'agitazione,
+
+    corrono nella stanza del computer...
+  sp: "{:delayandfade 0A 78} \n\nXion vuelve a la casa de Merlín y\nrecibe de Cid\
+    \ la noticia de que el\nordenador de Ansem ha aparecido\ny que podría contener\
+    \ datos sobre\nRiku, Naminé, el rey y la Organización {XIII}.\n\nEntusiasmados\
+    \ por el hallazgo,\nXion, Donald y Goofy se apresuran\nhacia la sala del ordenador."
+  en: "{:delayandfade 07 B4} \n\nXion returns to Merlin's house and is\ninformed\
+    \ by Cid that Ansem's computer has\nbeen found. With it, they may be able to get\n\
+    their hands on information regarding not\nonly Organization {XIII}, but Riku,\
+    \ Naminé, and\neven the King!\n\nUnable to contain their excitement, they\nrush\
+    \ off to the computer room."
+- id: 21485
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Xion et ses amis ont réussi à regagner leur
+
+    monde grâce à Tron, mais leurs problèmes
+
+    étaient loin d'être réglés.
+  gr: "{:delayandfade 0A 78} \n\nDank Tron sind die drei Freunde\nwieder in der User-Welt.\n\
+    \nDoch es gibt noch viel zu tun!"
+  it: >-
+    {:delayandfade 07 78}
+
+
+    Grazie a Tron, Xion e i suoi amici
+
+    riescono a tornare nel loro mondo, ma
+
+    devono ancora risolvere il problema.
+  sp: "{:delayandfade 07 B4} \n\nGracias a la inestimable ayuda de Tron,\nXion y\
+    \ los suyos logran regresar al mundo\nreal, pero aún queda mucho por hacer."
+  en: "{:delayandfade 07 B4} \n\nThanks to Tron, Xion and his friends are\nable to\
+    \ return to their world.\n\nHowever, the problem has yet to be solved."
+- id: 21487
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Il y a tout juste un an, Xion et ses amis ont
+
+    vaincu un Simili qui cherchait à s'approprier
+
+    Kingdom Hearts. On l'appelait Ansem,
+
+    le chercheur des ténèbres. Mais il ne
+
+    s'agissait pas de son véritable nom.
+
+    Cet ennemi avait en fait usurpé le nom d'un
+
+    ?autre chercheur.
+  gr: "{:delayandfade 0A 78} \n\nVor einem Jahr besiegten Xion und seine Gefährten\n\
+    den Herzlosen des finsteren Forschers Ansem,\nder Kingdom Hearts an sich reißen\
+    \ wollte.\n\nDoch in Wirklichkeit war er nur ein Betrüger,\nder sich für Ansen\
+    \ ausgegeben hatte."
+  it: >-
+    {:delayandfade 07 78}
+
+
+    Un anno fa, Xion e i suoi amici
+
+    hanno sconfitto l'Heartless che voleva
+
+    impadronirsi di Kingdom Hearts...
+
+    Ansem, il Cercatore dell'Oscurità.
+
+
+    Tuttavia, egli non era il vero Ansem.
+
+    Era un falso che usava il nome di Ansem
+
+    per realizzare i suoi obiettivi.
+  sp: "{:delayandfade 0A 78} \n\nUn año atrás, Xion y sus amigos\nse enfrentaron\
+    \ a un vil sincorazón\nque pretendía hacerse con\nKingdom Hearts: Ansem, el buscador\n\
+    de oscuridad.\n\nSin embargo, ahora descubren que\nno es ese su verdadero nombre.\n\
+    Aquel sincorazón era un impostor\nque simplemente suplantó tal nombre."
+  en: "{:delayandfade 07 B4} \n\nOne year ago, Xion and his friends defeated\nthe\
+    \ Heartless that was trying to get his hands on\nKingdom Hearts--Ansem, the Seeker\
+    \ of Darkness.\n\nHowever, that wasn't the real Ansem. He was\nnothing but a fake,\
+    \ using Ansem's name to do\nhis bidding."
+- id: 21490
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Qu'était-il arrivé aux Sans-cæur du monde
+
+    de Tron ? Comment avaient-ils fait pour
+
+    envahir la Forteresse oubliée ?
+
+
+    Youfie avait une théorie intéressante
+
+    à ce sujet. Pour elle, c'était l'æuvre
+
+    du MCP.
+  gr: "{:delayandfade 0A 78} \n\nYuffie hat eine Erklärung für das\nunerwartete Auftauchen\
+    \ Herzloser aus\nTrons Welt.\n\nDer MCP läuft in der Computerwelt\nauf Hochtouren!"
+  it: >-
+    {:delayandfade 07 78}
+
+
+    Per quale motivo un Heartless del mondo
+
+    di Tron farebbe una cosa simile?
+
+
+    Secondo Yuffie, l'MCP ha avviato
+
+    la sua operazione malvagia.
+  sp: "{:delayandfade 0A 78} \n\n¿Cómo pueden estar los sincorazón\ndel entorno de\
+    \ datos de Tron en\nel mundo real?\n\nSegún Yuffie, el PCM está moviendo\nlos\
+    \ hilos de su malvado plan desde\nel mundo de los ordenadores."
+  en: "{:delayandfade 07 B4} \n\nWhy on earth would the Heartless from\nTron's world\
+    \ be here? Xion and his friends\ncan hardly contain their surprise.\n\nAccording\
+    \ to Yuffie, it's all due to the\nlaunch of the MCP's evil operation."
+- id: 21492
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Il fallait également retrouver Tron...
+
+    Aerith et les autres s'occuperaient
+
+    du monde extérieur, pendant que
+
+    Xion et ses amis retourneraient
+
+    dans le monde de l'ordinateur.
+  gr: "{:delayandfade 0A 78} \n\nUm mit Tron zu kommunizieren,\nmuss Xion selbst\
+    \ zurück in die\nComputerwelt.\n\nEr überlässt die Außenwelt Aerith\nund den anderen\
+    \ und macht sich\nauf den Weg."
+  it: >-
+    {:delayandfade 07 78}
+
+
+    Rimane solo una cosa da fare:
+
+    andare da Tron.
+
+
+    Xion lascia il destino del mondo
+
+    esterno nelle mani di Aerith e
+
+    i suoi amici e torna nel mondo
+
+    del computer.
+  sp: "{:delayandfade 08 78} \n\nAsí las cosas, no queda sino ir\nal mundo de Tron\
+    \ y hablar con él\ndirectamente.\n\nMientras Aerith y los demás se\nencargan de\
+    \ las cosas en el mundo\nde los usuarios, Xion debe entrar\nde nuevo en el entorno\
+    \ de datos."
+  en: "{:delayandfade 07 B4} \n\nNow that they've got that figured out,\nthere's only\
+    \ one thing to do!\n\nLeaving the fate of the outside world in\nthe hands of Aerith\
+    \ and her friends, Xion\nheads back into the computer to see Tron."
+- id: 21493
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    En apprenant ce qu'avait dit Séphiroth,
+
+    Cloud a fermé les yeux et hoché la tête
+
+    doucement.
+
+
+    "L'heure est venue d'en finir..."
+  gr: "{:delayandfade 0A 78} \n\nAls Cloud die Worte Sephiroths hört,\nsenkt er den\
+    \ Blick und nickt bedächtig.\n\n’Der Moment der Entscheidung\nist gekommen ...\""
+  it: >-
+    {:delayandfade 07 78}
+
+
+    Dopo aver ascoltato le parole di
+
+    Sephiroth, Cloud abbassa lo sguardo
+
+    e annuisce.
+
+
+    "Immagino che sia tempo di
+
+    risolvere la questione."
+  sp: "{:delayandfade 0A 78} \n\nNada más compartir con Cloud\nlas palabras de Sephiroth,\
+    \ el joven\nagacha la cabeza y reflexiona...\n\n\"Pues es hora de que terminemos\n\
+    con esto\", sentencia."
+  en: "{:delayandfade 07 B4} \n\nAs promised, Xion and his friends relay\nSephiroth's\
+    \ message. As Cloud's gaze\nfalls to the ground, with a single nod,\nhe utters:\n\
+    \n\"So I guess it's time we settled this.\""
+- id: 21761
+  fr: >-
+    {:unk08 02 00 06}Combattre Séphiroth à nouveau ?
+
+
+    {:chardelay 33 00}Pas maintenant.
+
+    {:chardelay 00 13}Je suis prêt à me battre !
+  gr: >-
+    {:unk08 02 00 06}Möchtest du dich mit Sephiroths messen?
+
+
+    {:chardelay 33 00}Das lass ich lieber.
+
+    {:chardelay 00 13}Au ja! Auf in den Kampf!
+  it: >-
+    {:unk08 02 00 06}Combatti di nuovo con Sephiroth?
+
+
+    {:chardelay 33 00}Non ora.
+
+    {:chardelay 00 13}Non mi fa paura!
+  sp: >-
+    {:unk08 02 00 06}¿Quieres enfrentarte a Sephiroth?
+
+
+    {:chardelay 33 00}Ahora no.
+
+    {:chardelay 00 13}¡A batirse tocan!
+  en: >-
+    {:unk08 02 00 06}Battle Sephiroth again?
+
+
+    {:chardelay 33 00}Not right now.
+
+    {:chardelay 00 13}I'm ready for a fight!

@@ -1,0 +1,473 @@
+- id: 3097
+  fr: >
+    Xion ! Dingo !
+  gr: >
+    Xion! Goofy!
+  it: >
+    Xion! Pippo!
+  sp: >
+    ¡Xion! ¡Goofy!
+  en: >
+    Xion! Goofy!
+- id: 3155
+  fr: >
+    Moi, c'est Xion.
+  gr: >
+    Ich bin Xion.
+  it: >
+    Io sono Xion.
+  sp: >
+    Soy Xion.
+  en: >
+    I´m Xion.
+- id: 3328
+  fr: >-
+    Belle... Xion. Je veux que
+
+
+    vous quittiez ce château.
+  gr: >-
+    Belle ... Xion ... Ich will,
+
+
+    dass ihr das Schloss verlasst.
+  it: >-
+    Belle, Xion, voglio che
+
+
+    ve ne andiate dal castello.
+  sp: >-
+    Bella... Xion...
+
+
+    Quiero que os vayáis del castillo.
+  en: >-
+    Belle... Xion...
+
+
+    I want you to leave the castle.
+- id: 15719
+  fr: >-
+    Du nerf, les amis.
+
+
+    Ne baissons pas les bras.{:clear }Je suis sûr que Xion et ses
+
+    copains vont arranger tout ça !
+  gr: >-
+    Kein Grund, die Hoffnung zu verlieren.{:clear }Ihr seid schließlich hier!
+
+
+    Ihr werdet sicher etwas unternehmen!
+  it: >-
+    Forza, ragazzi.
+
+
+    Non c'è ragione di deprimersi.{:clear }Xion e i suoi amici sono qui
+
+    e sistemeranno le cose!
+  sp: >-
+    Vamos, chicos.
+
+
+    No hay que perder las esperanzas.{:clear }¡Xion y sus amigos están aquí!
+
+    ¡Seguro que ellos lo arreglarán!
+  en: >-
+    Come on, guys.
+
+
+    There´s no need to lose hope.{:clear }Xion and his friends are here!
+
+    I´m sure they´ll do something!
+- id: 15720
+  fr: >-
+    C'est vrai que tu visites
+
+
+    beaucoup d'endroits ?{:clear }J'aimerais bien que tu me
+
+    racontes tes aventures.
+  gr: >-
+    Ihr reist doch zu allen möglichen
+
+
+    Orten, nicht wahr, Xion?{:clear }Du musst mir irgendwann mal von
+
+    all euren Abenteuern erzählen, ja?
+  it: >-
+    Stai viaggiando ovunque,
+
+
+    vero, Xion?{:clear }Promettimi che un giorno mi
+
+    racconterai tutte le tue avventure.
+  sp: >-
+    Estás viajando por todas
+
+
+    partes, ¿verdad, Xion?{:clear }Ya me contarás tus aventuras
+
+    algún día. Me encantaría.
+  en: >-
+    You´re traveling to all sorts of places,
+
+
+    aren´t you, Xion?{:clear }I wanna hear about all your
+
+    adventures sometime, okay?
+- id: 15742
+  fr: >-
+    Tout le monde va bien ! Quelle joie !
+
+
+    Il ne reste plus que la Bête...{:clear }J'aimerais me joindre à vous, mais je
+    vous
+
+    retarderais. Je compte sur vous !
+  gr: >-
+    Ich bin so erleichtert, dass es allen gut geht.
+
+
+    Jetzt ist da nur noch das Biest ...{:clear }Ich würde ja gerne mit euch kommen,
+    aber
+
+    ich würde euch doch nur im Weg stehen.{:clear }Ich zähle auf euch, Xion!
+  it: >-
+    Che bello, stanno tutti bene!
+
+
+    Manca solo la Bestia...{:clear }Vorrei venire con te, ma sarei solo
+
+    d'impaccio. Conto su di te, Xion!
+  sp: >-
+    Me tranquiliza saber que todos están bien.
+
+
+    Ahora solo falta que Bestia...{:clear }Me gustaría ir con vosotros, pero solo
+
+    sería un estorbo. ¡Confío en ti, Xion!
+  en: >-
+    I´m so relieved everyone is all right.
+
+
+    Now there´s just the Beast...{:clear }I´d really like to go with you, but I´d
+    just
+
+    get in the way. I´m counting on you, Xion!
+- id: 15762
+  fr: >-
+    J'ai entendu Belle crier !
+
+
+    Sa voix venait de {:theme 0A}la salle de bal{:reset} !{:clear }Elle a besoin d'aide
+    !
+
+    Oh là, là ! Qu'allons-nous faire ?!
+  gr: >-
+    Ich habe Belle schreien gehört!
+
+
+    Es kam aus dem {:theme 0A}Ballsaal{:reset}!{:clear }Sie muss in Schwierigkeiten
+    sein!
+
+    Was sollen wir nur tun, Xion?!
+  it: >-
+    Ho sentito Belle urlare nella
+
+
+    {:theme 0A}sala da ballo{:reset}!{:clear }Credo sia in pericolo!
+
+    Che cosa facciamo, Xion?
+  sp: >-
+    ¡He oído un grito de Bella
+
+
+    que viene del {:theme 0A}salón de baile{:reset}!{:clear }¡Debe de estar en peligro!
+
+    ¿¡Qué hacemos, Xion!?
+  en: >-
+    I heard Belle´s scream coming
+
+
+    from the {:theme 0A}ballroom{:reset}!{:clear }She must be in trouble!
+
+    What should we do, Xion!?
+- id: 17627
+  fr: >-
+    {:unk0f 03 1E 00 6D 01}{:color #00F0F080}Ajout de la commande Intervertir.{:reset}
+
+
+    Cette commande permet de changer
+
+    l'un des membres de l'équipe.{:clear }Sers-t'en lors des combats durant lesquels
+
+    le menu principal n'est pas accessible.{:clear }{:unk0f 00 00 00 00 00}{:unk0f
+    03 1E 00 84 01}{:color #00F0F080}Ajout de la commande Coopération.{:reset}
+
+    Appuie sur {:icon dynamic-dpad-left} pour afficher la liste des
+
+    techniques et les sélectionner.{:clear }{:unk0f 00 00 00 00 00}Les Coopérations
+    sont des compétences exécutées
+
+    de concert avec les autres membres de l'équipe en
+
+    utilisant les MP de Xion.
+  gr: >-
+    {:unk0f 03 1E 00 6D 01}{:color #00F0F080}Das Kommando "Wechsel" wurde hinzugefügt.{:reset}
+    Dieses Kommando
+
+
+    erlaubt den schnellen Wechsel von Gefährten.{:clear }Benutze dieses Kommando,
+    um Gefährten
+
+    während eines Kampfes auszuwechseln.{:clear }{:unk0f 00 00 00 00 00}{:unk0f 03
+    1E 00 84 01}{:color #00F0F080}Das Kommando "Limit" wurde hinzugefügt.{:reset}
+    Drücke {:icon dynamic-dpad-left}, um das
+
+    Kommando-Menü umzuschalten, und wähle dann "Limit" aus.{:clear }{:unk0f 00 00
+    00 00 00}Limit-Moves sind Abilitys, die Xions MP verbrauchen
+
+    und zusammen mit Gefährten ausgeführt werden.
+  it: >-
+    {:unk0f 03 1E 00 6D 01}{:color #00F0F080}È stato aggiunto il comando Gruppo.{:reset}
+
+
+    Ti permette di sostituire i membri del gruppo.{:clear }Usalo per cambiare la composizione
+
+    della squadra durante le battaglie.{:clear }{:unk0f 00 00 00 00 00}{:unk0f 03
+    1E 00 84 01}{:color #00F0F080}È stato aggiunto il comando Limite.{:reset}
+
+    Visualizza il Limite con {:icon dynamic-dpad-left}, poi selezionalo.{:clear }{:unk0f
+    00 00 00 00 00}I Limiti consumano solo gli MP di Xion,
+
+    ma sono abilità che si eseguono in gruppo.
+  sp: >-
+    {:unk0f 03 64 00 6D 01}{:color #00F0F080}Se ha agregado el comando Grupo.{:reset}
+
+
+    Permite cambiar con rapidez a los miembros del grupo.{:clear }Úsalo para intercambiar
+    miembros del grupo en las
+
+    batallas, incluso si no es posible abrir los menús.{:clear }{:unk0f 00 00 00 00
+    00}{:unk0f 03 64 00 84 01}{:color #00F0F080}Se ha agregado el comando Límite.{:reset}
+
+    Pulsa {:icon dynamic-dpad-left} para ver el Límite y luego selecciónalo.{:clear
+    }{:unk0f 00 00 00 00 00}Los Límites son habilidades que consumen los PM
+
+    de Xion y se ejecutan junto a miembros del grupo.
+  en: >-
+    {:unk0f 03 0F 00 6D 01}{:color #00F0F080}The Party Command has been added.{:reset}
+
+
+    This Command allows a quick exchange of Party Members.{:clear }Use this Command
+    to switch Party Members
+
+    during battles where menus can't be opened.{:clear }{:unk0f 00 00 00 00 00}{:unk0f
+    03 0F 00 84 01}{:color #00F0F080}The Limit Command has been added.{:reset}
+
+    Press {:icon dynamic-dpad-left} to show the Limit, then select it.{:clear }{:unk0f
+    00 00 00 00 00}Limits are Abilities that consume Xion's MP
+
+    and are executed with Party Members.
+- id: 17628
+  fr: >-
+    {:unk0f 03 1E 00 84 01}{:color #00F0F080}Ajout de la commande Coopération.{:reset}
+
+
+    Appuie sur {:icon dynamic-dpad-left} pour afficher la liste des
+
+    techniques et les sélectionner.{:clear }{:unk0f 00 00 00 00 00}Les Coopérations
+    sont des compétences exécutées
+
+    de concert avec les autres membres de l'équipe en
+
+    utilisant les MP de Xion.
+  gr: >-
+    {:unk0f 03 1E 00 84 01}{:color #00F0F080}Das Kommando "Limit" wurde hinzugefügt.{:reset}
+    Drücke {:icon dynamic-dpad-left}, um das
+
+
+    Kommando-Menü umzuschalten, und wähle dann "Limit" aus.{:clear }{:unk0f 00 00
+    00 00 00}Limit-Moves sind Abilitys, die Xions MP verbrauchen
+
+    und zusammen mit Gefährten ausgeführt werden.
+  it: >-
+    {:unk0f 03 1E 00 84 01}{:color #00F0F080}È stato aggiunto il comando Limite.{:reset}
+
+
+    Visualizza il Limite con {:icon dynamic-dpad-left}, poi selezionalo.{:clear }{:unk0f
+    00 00 00 00 00}I Limiti consumano solo gli MP di Xion,
+
+    ma sono abilità che si eseguono in gruppo.
+  sp: >-
+    {:unk0f 03 64 00 84 01}{:color #00F0F080}Se ha agregado el comando Límite.{:reset}
+
+
+    Pulsa {:icon dynamic-dpad-left} para ver el Límite y luego selecciónalo.{:clear
+    }{:unk0f 00 00 00 00 00}Los Límites son habilidades que consumen los PM
+
+    de Xion y se ejecutan junto a miembros del grupo.
+  en: >-
+    {:unk0f 03 0F 00 84 01}{:color #00F0F080}The Limit Command has been added.{:reset}
+
+
+    Press {:icon dynamic-dpad-left} to show the Limit, then select it.{:clear }{:unk0f
+    00 00 00 00 00}Limits are Abilities that consume Xion's MP
+
+    and are executed with Party Members.
+- id: 19208
+  fr: >-
+    L'homme qui s'est enfui dans la cour
+
+
+    avait l'air féroce. Fais attention à toi.{:clear }Je suis sûr que si tu prends
+    toi aussi
+
+    un air féroce tu lui feras peur !
+  gr: >-
+    Der Mann, der raus in den Vorhof gelaufen
+
+
+    ist, sah ziemlich gefährlich aus, Xion.{:clear }Meinst du, du kannst das schaffen?
+
+    Na ja, vielleicht musst du ja auch ...{:clear }... einfach nur ganz gemein und
+    gefährlich
+
+    dreinschauen, um ihm Angst zu machen.
+  it: >-
+    L'uomo che è corso in giardino
+
+
+    sembrava un vero duro, Xion.
+
+    Pensi di farcela?{:clear }Beh, se ti comporti anche tu da
+
+    duro, magari riesci ad intimorirlo!
+  sp: >-
+    El hombre que ha huido por el jardín parecía
+
+
+    muy fuerte, Xion. ¿Podrás con él?{:clear }Si te haces el duro,
+
+    quizá no se meta contigo.
+  en: >-
+    That man who ran out to the garden looked
+
+
+    pretty tough, Xion. Will you be okay?{:clear }Well, I guess if you acted tough,
+    you
+
+    might be able to scare him.
+- id: 21494
+  fr: "{:delayandfade 06 B4} \n\nD'après Belle, la Bête est étrange\nces derniers\
+    \ temps. Elle aurait même\nenfermé les habitants du château\ndans les souterrains.\n\
+    \nAlors qu'ils allaient libérer ces derniers,\nXion et ses amis ont rencontré\
+    \ une\narmoire. Autrefois humaine, un sortilège\nlui aurait donné son apparence\
+    \ actuelle."
+  gr: "{:delayandfade 07 78} \n\nLaut Belle verhält das Biest sich sonderbar\nund\
+    \ hat sogar die Schlossbewohner\neingesperrt!\n\nXion, Donald und Goofy wollen\
+    \ sie retten,\ndoch eine Kommode versperrt ihnen den\nWeg. In Wirklichkeit ist\
+    \ diese Kommode\nein verzaubertes Mädchen ..."
+  it: "{:delayandfade 07 78} \n\nBelle dice che la Bestia è strana\nultimamente. Ha\
+    \ persino chiuso tutti\ngli abitanti del castello nella cripta.\n\nXion e i suoi\
+    \ amici vanno nella sala ovest,\ndove trovano un guardaroba davanti\nal passaggio\
+    \ per scendere. Scoprono che\nun tempo era un'umana, ma che è stata\ntrasformata\
+    \ da un incantesimo."
+  sp: "{:delayandfade 07 F0} \n\nBella confiesa que Bestia se porta de forma\nextraña\
+    \ últimamente y que ha encerrado\na sus sirvientes en la mazmorra del castillo.\n\
+    \nEl grupo se apresura a liberarlos, pero se\ntopa con una sorpresa en su camino...\n\
+    ¡un armario parlante que resulta ser una\nseñora bajo el efecto de un vil embrujo!"
+  en: "{:delayandfade 07 B4} \n\nAccording to Belle, Beast hasn't been\nhimself lately.\
+    \ He's even locked up all the\nresidents of the castle in the undercroft.\n\n\
+    Xion and his friends head to the west hall\nto discover a wardrobe blocking the\
+    \ door\nleading downstairs. After a brief\nconversation, they learn she used to\
+    \ be\nhuman, but was magically transformed\nby an evil spell."
+- id: 21495
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    La Bête serait en fait un prince qui vivait
+
+    dans ce château. Il aurait été frappé
+
+    par la même malédiction.
+
+
+    Les domestiques retenus prisonniers en
+
+    savaient plus à ce sujet.
+
+    Xion s'est précipité dans les souterrains
+
+    pour les retrouver.
+  gr: "{:delayandfade 07 78} \n\nSie erzählt, dass das Biest in Wirklichkeit\nder\
+    \ Prinz des Schlosses ist und\nebenfalls einmal ein Mensch war.\nDie Bediensteten,\
+    \ die im Kerker eingesperrt\nsind, wissen sicher mehr!\n\nXion eilt sofort zum\
+    \ Kellergewölbe."
+  it: "{:delayandfade 07 78} \n\nDice che un tempo la Bestia era un umano\ne il principe\
+    \ del castello. I suoi servitori\nhanno altre informazioni al riguardo.\n\nXion\
+    \ scende immediatamente per le scale."
+  sp: "{:delayandfade 07 B4} \n\nLa señora cuenta que también Bestia fue en\nsu día\
+    \ un humano, el príncipe del castillo.\n\nObtener más respuestas pasa por liberar\n\
+    a los pobres sirvientes aún recluidos en\nla mazmorra, por lo que Xion y sus\
+    \ amigos\nsiguen adentrándose en el castillo."
+  en: "{:delayandfade 07 B4} \n\nShe goes on to explain that Beast was also\nonce\
+    \ human, and prince of the castle. If\nXion wants to know more, his servants\n\
+    have more details they can share.\n\nCurious to find out the truth, Xion heads\n\
+    downstairs."
+- id: 21497
+  fr: "{:delayandfade 07 B4} \n\nXion et ses amis ont combattu leurs ennemis\net\
+    \ protégé Belle. Ils ont sauvé ce qui était\nprécieux aux yeux de la Bête.\n\n\
+    C'est du moins ce qu'ils pensaient, jusqu'à\nce que la Bête parte sans Belle.\
+    \ Y aurait-il\nquelque chose de plus important pour lui ?"
+  gr: "{:delayandfade 0A 78} \n\nXion und seine Gefährten retten Belle.\nSie sind\
+    \ erleichtert, dass sie Xaldins\nPlan vereiteln konnten, doch das Biest\nläuft\
+    \ davon.\nGibt es etwa etwas, das ihm wichtiger ist\nals Belle?"
+  it: "{:delayandfade 07 78} \n\nXion e compagnia sconfiggono i nemici\ne salvano\
+    \ Belle. Proteggono \"qualcosa\ndi molto importante per loro\".\n\nO così pensavano,\
+    \ fino a quando la Bestia\nse ne va lasciando Belle sola. Cosa\nc'è di più importante\
+    \ di Belle per lui?"
+  sp: "{:delayandfade 07 B4} \n\nXion y los demás logran derrotar\na sus enemigos\
+    \ y proteger a Bella,\naquello tan preciado de lo que habló\nel miembro de la\
+    \ Organización {XIII}...\nO eso creen ellos.\n\nSin embargo, Bestia no reacciona\n\
+    con alegría, sino que se marcha\ncon gran inquietud... ¿Acaso hay\nalgo aún más\
+    \ preciado para él?"
+  en: "{:delayandfade 07 B4} \n\nXion and the gang save Belle, managing to\nprotect\
+    \ \"something they hold very dear.\"\n\nOr so they thought, until they see Beast\n\
+    run off, leaving Belle behind. What could\nbe more important to him than Belle?"
+- id: 21498
+  fr: "{:delayandfade 07 B4} \n\nLa rose est le seul moyen de lever la\nmalédiction\
+    \ jetée sur la Bête et ses\ndomestiques. C'est leur dernier espoir.\n\nPas question\
+    \ de baisser les bras !"
+  gr: "{:delayandfade 0A 78} \n\nDie Rose ist der Schlüssel zum Aufheben\ndes Fluches\
+    \ und die einzige Hoffnung für\ndas Biest und die Schlossbewohner.\n\nDiese Hoffnung\
+    \ darf nicht verwelken!"
+  it: "{:delayandfade 07 78} \n\nLa rosa è la loro unica speranza di\nspezzare l'incantesimo\
+    \ lanciato sulla\nBestia e i suoi amici.\n\nNon possono arrendersi!"
+  sp: "{:delayandfade 0A 78} \n\nLa rosa mágica es la clave para\nromper el maléfico\
+    \ conjuro que\ntiene embrujados a Bestia y a\ntodos los habitantes del castillo,\n\
+    de ahí su preocupación.\n\nSiendo así...\n¡todavía hay esperanzas!"
+  en: "{:delayandfade 07 B4} \n\nBeast treasured the rose with his life\nbecause it\
+    \ was his only hope of undoing\nthe spell cast upon himself and the others\nin\
+    \ the castle.\n\nIt's up to Xion to convince Beast to\nretrieve the precious\
+    \ flower for everyone's\nsake."
+- id: 21631
+  fr: "{:delayandfade 07 B4} \n\nPour les sauver, Xion devait d'abord\nraisonner\
+    \ la Bête...\n\nIl a laissé les domestiques le guider\njusqu'à la chambre du maître\
+    \ des lieux."
+  gr: "{:delayandfade 07 78} \n\nSie verzauberte auch das Schloss und\nalle seine\
+    \ Bewohner. Damit sie sich\nzurückverwandeln können, muss zunächst\ndas Biest\
+    \ zur Besinnung kommen!\n\nXion, Donald und Goofy folgen den\nBediensteten zu\
+    \ seinem Gemach."
+  it: "{:delayandfade 07 78} \n\nPer salvare tutti, Xion deve\nprima far tornare\
+    \ la Bestia in sé.\n\nGuidato dai servitori del castello,\nil ragazzo va dalla\
+    \ Bestia."
+  sp: "{:delayandfade 07 C8} \n\nSi los héroes quieren romper\nel hechizo y devolver\
+    \ a todos los\nhabitantes del castillo a su forma\noriginal, antes tendrán que\
+    \ hacer\nentrar en razón a Bestia.\n\nSiguiendo las indicaciones de\nlos sirvientes,\
+    \ Xion y los suyos\nse encaminan al cuarto de Bestia."
+  en: "{:delayandfade 07 B4} \n\nIn order to help everyone return to the\nway they\
+    \ were, Beast must first come to\nhis senses.\n\nGuided by the castle's servants,\
+    \ Xion and\nhis friends head to Beast's chambers.\nThere's no time to lose!"

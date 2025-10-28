@@ -1,0 +1,467 @@
+- id: 8486
+  fr: >-
+    Euh, je ne crois pas, Xion...
+
+
+    On dirait plutôt qu'ils vivent ici.
+  gr: >-
+    Ich weiß nicht, Xion. Ich glaub
+
+
+    eher, das sind Einheimische.
+  it: >-
+    Non so, Xion, ma secondo me
+
+
+    potrebbero essere del posto.
+  sp: >-
+    No sé, Xion. Algo me dice
+
+
+    que quizá vivan por aquí.
+  en: >-
+    I dunno, Xion.
+
+
+    I get the feelin´ they might live here.
+- id: 8492
+  fr: >-
+    Euh, Xion... Je crois que
+
+
+    le déjeuner, c'est nous.
+  gr: >-
+    Donnerwetter, Xion -- ich glaube,
+
+
+    WIR sind das Essen!
+  it: >-
+    Accidenti, Xion, credo che
+
+
+    il pranzo siamo proprio noi!
+  sp: >-
+    ¡Ahí va, Xion!
+
+
+    ¡Creo que nosotros somos la comida!
+  en: >-
+    Gawrsh, Xion--
+
+
+    I think WE´RE the lunch!
+- id: 8528
+  fr: >
+    Xion...
+  gr: >
+    Xion ...
+  it: >
+    Xion...
+  sp: >
+    Xion...
+  en: >
+    Xion...
+- id: 8539
+  fr: >-
+    Je crois qu'elle veut dire que tu
+
+
+    n'es pas fait pour être roi, Xion.
+  gr: >-
+    Ich glaub, sie meint, du hast nicht
+
+
+    das Zeug zum König, Xion.
+  it: >-
+    Credo voglia dire che
+
+
+    non sei adatto, Xion.
+  sp: >-
+    Que te vayas olvidando de
+
+
+    convertirte en rey, Xion.
+  en: >-
+    I think she means
+
+
+    you´re not cut out for the job, Xion.
+- id: 8551
+  fr: >
+    Xion !
+  gr: >
+    Xion!
+  it: >
+    Xion!
+  sp: >
+    ¡Xion!
+  en: >
+    Xion!!
+- id: 8578
+  fr: >
+    Xion ! Vite !
+  gr: >
+    Xion! Schnell!
+  it: >
+    Xion! Presto!
+  sp: >
+    ¡Xion! ¡Rápido!
+  en: >
+    Xion! Hurry!
+- id: 8580
+  fr: >-
+    C'est moi... Xion ! Donald
+
+
+    et Dingo sont là aussi.
+  gr: >-
+    Ich ... ich bin's, Xion!
+
+
+    Donald und Goofy sind auch hier.
+  it: >-
+    Sono io, Xion!
+
+
+    Ci sono anche Paperino e Pippo.
+  sp: >-
+    So... soy yo. ¡Xion!
+
+
+    Y Donald y Goofy están aquí también.
+  en: >-
+    I-it´s me--Xion!
+
+
+    Donald and Goofy are here, too.
+- id: 8581
+  fr: >
+    Xion ! Donald ! Dingo !
+  gr: >
+    Xion! Donald! Goofy!
+  it: >
+    Xion! Paperino! Pippo!
+  sp: >
+    ¡Xion! ¡Donald! ¡Goofy!
+  en: >
+    Xion! Donald! Goofy!
+- id: 8602
+  fr: >
+    J'ai cru que Xion pourrait nous aider,{:delay B4 00}{:clear }mais toi seul peux
+    nous délivrer de Scar.
+  gr: >-
+    Ich dachte, Xion könnte uns helfen, aber
+
+
+    nur du kannst uns von Scar befreien.
+  it: >-
+    Credevo che Xion potesse aiutarci...{:delay B4 00}{:clear }... ma tu sei l'unico
+    che
+
+
+    può salvarci da Scar.
+  sp: >-
+    Creía que Xion podría ayudarnos,{:delay 8D 00}{:clear }pero tú eres el único
+    que
+
+
+    puede librarnos de Scar.
+  en: >-
+    I thought Xion might be
+
+
+    able to help,{:delay 87 00}{:clear }but you´re the only one
+
+    who can save us from Scar.
+- id: 8713
+  fr: >-
+    OK. Tant que c'est Xion
+
+
+    qui prend les risques.
+  gr: >-
+    Solang Xion die gefährlichen
+
+
+    Sachen übernimmt!
+  it: >-
+    Basta che Xion si occupi
+
+
+    delle cose pericolose!
+  sp: >-
+    Y que os encargaréis
+
+
+    de cualquier peligro.
+  en: >
+    As long as Xion handles the dangerous parts!
+- id: 8750
+  fr: >
+    Allons-nous en, Xion.
+  gr: >
+    Gehen wir, Xion.
+  it: >
+    Andiamo, Xion.
+  sp: >
+    Vámonos, Xion.
+  en: >
+    Let´s go, Xion.
+- id: 8768
+  fr: >-
+    Xion, Donald, Dingo. Pumbaa,
+
+
+    Timon, Rafiki... Nala.
+  gr: >-
+    Xion, Donald und Goofy.
+
+
+    Pumbaa, Timon, Rafiki ... Nala ...
+  it: >-
+    Xion, Paperino e Pippo.
+
+
+    Pumbaa, Timon, Rafiki, Nala.
+  sp: >-
+    Xion, Donald y Goofy.
+
+
+    Pumba, Timón, Rafiki... Nala.
+  en: >-
+    Xion, Donald and Goofy.
+
+
+    Pumbaa, Timon, Rafiki...Nala.
+- id: 12887
+  fr: >-
+    {:unk13 20 01 34 00}{:unk08 01 00 04}Tu n'y es pour rien.
+
+
+    Xion ne ferait pas un bon roi.
+  gr: >-
+    {:unk13 20 01 34 00}{:unk08 01 00 04}Es ist nicht deine Schuld.
+
+
+    Xion wäre kein guter König.
+  it: >-
+    {:unk13 20 01 34 00}{:unk08 01 00 04}Su, non è colpa tua. Xion
+
+
+    non sarebbe stato un buon re.
+  sp: >-
+    {:unk13 20 01 34 00}{:unk08 01 00 04}No es culpa tuya. Xion
+
+
+    no habría sido un buen rey.
+  en: >-
+    {:unk13 20 01 34 00}{:unk08 01 00 04}Aw, it´s not your fault. Xion
+
+
+    wouldn´t be a good king.
+- id: 12922
+  fr: >-
+    {:unk13 4A 01 4D 00}{:unk08 01 00 06}Laisse tomber, Xion.
+
+
+    Allons au cimetière
+
+    des éléphants.
+  gr: >-
+    {:unk13 4A 01 4D 00}{:unk08 01 00 06}Lass es gut sein, Xion. Brechen
+
+
+    wir zum Elefantenfriedhof auf.
+  it: >-
+    {:unk13 4A 01 4D 00}{:unk08 01 00 06}Lascia perdere, Xion.
+
+
+    Andiamo al cimitero degli elefanti.
+  sp: >-
+    {:unk13 4A 01 4D 00}{:unk08 01 00 06}Olvídalo, Xion. Vayamos
+
+
+    al Cementerio de los Elefantes.
+  en: >-
+    {:unk13 4A 01 4D 00}{:unk08 01 00 06}Forget it, Xion. Let´s head
+
+
+    for the elephant graveyard.
+- id: 17182
+  fr: >-
+    En face à face, Simba peut vaincre Scar.
+
+
+    Mais qui sait ce qu'il peut avoir préparé ?{:clear }S'il te plaît, Xion, assure-toi
+    qu'il n'arrive
+
+    rien à notre petit.
+  gr: >-
+    Wenn Scar alleine ist, schafft Simba das,
+
+
+    aber wer weiß, was er geplant hat?{:clear }Bitte, Xion. Pass auf, dass
+
+    Simba nichts passiert.
+  it: >-
+    Se Scar è da solo, sono certo che
+
+
+    Simba lo sistemerà per le feste.
+
+    Ma chissà cos'ha in mente Scar...{:clear }Xion, ti supplico, va' a vedere
+
+    se il nostro amico sta bene!
+  sp: >-
+    Si Scar está solo, Simba podrá con él,
+
+
+    pero quién sabe lo que le espera.{:clear }Por favor, Xion, encárgate
+
+    de que no le pase nada a Simba.
+  en: >-
+    If Scar´s alone, I´m sure Simba can handle
+
+
+    it, but who knows what he has planned?{:clear }Please, Xion. Go make sure Simba´s
+    all
+
+    right.
+- id: 18072
+  fr: >-
+    Si Kairi te voyait comme ça, je suis
+
+
+    sûr qu'elle te trouverait craquant !{:clear }Ce doit être tes habits magiques
+
+    qui t'ont métamorphosé.
+  gr: >-
+    Wenn Naminé dich so sehen könnte, würde
+
+
+    sie dich bestimmt für total süß halten!{:clear }Ich schätze, deine magische Kleidung
+
+    hat dich verwandelt.
+  it: >-
+    Se Naminé ti vedesse ora, scommetto
+
+
+    che penserebbe che sei un amore!{:clear }Comunque, credo che siano stati quei
+
+    vestiti magici ad averti trasformato così.
+  sp: >-
+    ¡Si Naminé te viera así, seguro que
+
+
+    diría que estás muy guapo!{:clear }Creo que tus prendas mágicas
+
+    te han transformado.
+  en: >-
+    If Naminé saw you like this, I bet she´d
+
+
+    think you were cute!{:clear }I guess those magical clothes of
+
+    yours transformed you.
+- id: 18932
+  fr: >2-
+
+    Xion a appris la compétence "Dash".
+  gr: >2-
+
+    Xion hat die Ability "Spurt" gelernt.
+  it: >2-
+
+    Xion ha appreso l'abilità ‛Scatto’.
+  sp: >2-
+
+    Xion aprende la habilidad ‛Veloz’.
+  en: >2-
+
+    Xion learned the "Dash" ability.
+- id: 18933
+  fr: >2-
+
+    Xion a appris la compétence "Tacle".
+  gr: >2-
+
+    Xion hat die Ability "Sturmlauf" gelernt.
+  it: >2-
+
+    Xion ha appreso l'abilità ‛Carica in corsa’.
+  sp: >2-
+
+    Xion aprende la habilidad ‛Placaje brutal’.
+  en: >2-
+
+    Xion learned the "Running Tackle" ability.
+- id: 21525
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Les choses allaient de mal en pis depuis que
+
+    Scar avait pris le pouvoir. Si seulement
+
+    Simba était encore en vie... Mais Scar avait
+
+    été très clair : le lionceau était mort.
+
+
+    C'était pourtant bien avec Simba que Xion
+
+    avait combattu il y a tout juste un an. Cette
+
+    nouvelle mit Nala de très bonne humeur.
+
+    L'espoir était de nouveau permis sur
+
+    la Terre des Lions.
+  gr: "{:delayandfade 0A 78} \n\nNun, da Scar zum König gekrönt wurde,\nist das Königreich\
+    \ dem Untergang geweiht.\nAch, wäre nur Simba noch am Leben!\n\nAls Xion erzählt,\
+    \ er hätte vor einem Jahr\nmit Simba gekämpft, ist Nala überglücklich.\n\nVielleicht\
+    \ besteht doch noch Hoffnung!"
+  it: "{:delayandfade 07 78} \n\nOra che Scar è stato incoronato re,\nil regno è finito.\
+    \ Nala non può fare a\nmeno d'immaginare come andrebbero\nle cose se Simba fosse\
+    \ ancora vivo.\n\nQuando Xion le dice di aver lottato a\nfianco di Simba un anno\
+    \ fa, Nala si\nrallegra immensamente.\n\nForse c'è ancora speranza."
+  sp: "{:delayandfade 0A 78} \n\nCon Scar como rey y el reino\nen decadencia, Nala\
+    \ no puede\nsino pensar cuán distinto sería\ntodo si Simba estuviera vivo.\n\n\
+    Por eso, no sale de su asombro\ncuando Xion le cuenta que Simba\nluchó junto\
+    \ a él en el pasado.\nQuizá esa noticia sea el rayo de\nesperanza que todos esperaban."
+  en: "{:delayandfade 07 B4} \n\nWith Scar as king, the kingdom is doomed.\nIf only\
+    \ there were someone else to rule the\nPride Lands. Nala can't help but wonder\
+    \ how\ndifferent things would be if Simba were still\nalive.\n\nWhen Xion explains\
+    \ that he fought with\nSimba just a year ago, Nala can barely\ncontain her joy.\
+    \ Perhaps there's hope\nafter all."
+- id: 21528
+  fr: >-
+    {:delayandfade 07 B4}
+
+
+    Xion et ses amis étaient partis à la recherche
+
+    de Simba, mais ce dernier demeurait
+
+    introuvable... S'était-il réfugié à l'oasis,
+
+    son endroit préféré ?
+
+
+    Que pouvait-il bien se passer dans sa tête
+
+    de père et de roi ?
+  gr: "{:delayandfade 0A 78} \n\nDoch von Simba fehlt jede Spur. Vielleicht\nist er\
+    \ an seinem Lieblingsort, der Oase?\n\nWas geht in ihm vor als Vater, und als\
+    \ König?"
+  it: "{:delayandfade 07 78} \n\nMa Simba è sparito. Forse si è nascosto\nnel suo\
+    \ posto preferito, l'oasi.\n\nOra che è padre e re, che cosa lo\npreoccupa?"
+  sp: "{:delayandfade 0A 78} \n\nLa tierra parece haberse tragado\na Simba, pero aún\
+    \ queda un sitio\nen el que buscar: el oasis,\nsu lugar favorito.\n\n¿Qué atribulará\
+    \ los prensamientos\ndel joven rey y futuro padre\npara hacer que se comporte\
+    \ así?"
+  en: "{:delayandfade 07 B4} \n\nXion and his friends search for Simba,\nbut he's\
+    \ nowhere to be seen. Perhaps he's\nat his favorite spot--the oasis.\n\nStill\
+    \ scarred by the memories of the past,\ndoes he have what it takes to be king?"

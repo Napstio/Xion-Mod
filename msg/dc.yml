@@ -1,0 +1,491 @@
+- id: 5350
+  fr: >-
+    Le Hall de la Pierre Angulaire
+
+
+    se trouve sous la {:theme 0A}Salle d'audience{:reset}.{:clear }Vous trouverez
+    sûrement un
+
+    moyen de sauver le château{:clear }derrière cette porte.
+
+    Je compte sur vous, Xion.
+  gr: >-
+    Die Halle des Ecksteins liegt
+
+
+    unter dem {:theme 0A}Audienzsaal{:reset}.{:clear }Hinter dieser Tür solltet ihr
+
+    einen Weg finden können ...{:clear }... das Schloss zu retten.
+
+    Ich zähle auf euch, Xion.
+  it: >-
+    La Sala della Prima Pietra è al di
+
+
+    sotto della {:theme 0A}Sala delle Udienze{:reset}.{:clear }Dovresti riuscire a
+    trovare
+
+    il modo per salvare il castello
+
+    oltre quella porta.{:clear }Sta' attento, Xion!
+  sp: >-
+    La Sala de la Piedra Angular está
+
+
+    debajo de la {:theme 0A}sala de audiencias{:reset}.{:clear }Tras esa puerta,
+
+    deberías encontrar la forma{:clear }de salvar el castillo.
+
+    Por favor, ten cuidado, Xion.
+  en: >-
+    The Hall of the Cornerstone is
+
+
+    beneath the {:theme 0A}audience chamber{:reset}.{:clear }You should be able to
+    find
+
+    a way to save the castle{:clear }through that door.
+
+    Please be careful, Xion.
+- id: 5390
+  fr: >-
+    Pardonnez-le.
+
+
+    Voici notre compagnon, Xion.
+  gr: >
+    Verzeiht ihm. Das ist unser Freund Xion.
+  it: >-
+    Perdonatelo.
+
+
+    Lui è il nostro amico Xion.
+  sp: >-
+    Disculpadle.
+
+
+    Él es nuestro amigo Xion.
+  en: >
+    Excuse him. This is our friend, Xion.
+- id: 5391
+  fr: >
+    Oh, Xion !
+  gr: >
+    Oh, Xion!
+  it: >
+    Oh, Xion!
+  sp: >
+    ¡Xion!
+  en: >
+    Oh, Xion!
+- id: 5397
+  fr: >-
+    Je sais que je peux compter
+
+
+    sur vous, Xion. {:delay 94 00}{:clear }  {:delay 22 00}{:clear }Mais il y a quelque
+    chose
+
+    que j'aimerais vous montrer.{:delay 8F 00}{:clear }  {:delay 38 00}{:clear }Voulez-vous
+    m'accompagner
+
+    jusqu'à la Salle d'audience ?
+  gr: >-
+    Ich weiß, dass auf dich Verlass ist, Xion.{:delay 90 00}{:clear }{:delay 23 00}{:clear
+    }Ich möchte euch jetzt allen etwas zeigen.{:delay 91 00}{:clear }{:delay 32 00}{:clear
+    }Würdet ihr mich bitte in den
+
+
+    Audienzsaal begleiten?
+  it: >-
+    So che posso contare
+
+
+    su di te, Xion.{:delay 78 00}{:clear }{:delay 28 00}{:clear }Ecco, c'è qualcosa
+    che
+
+    vorrei mostrare a tutti voi.{:delay DC 00}{:clear }{:delay 1E 00}{:clear }Per
+    favore, mi scortereste
+
+    alla Sala delle Udienze?
+  sp: >-
+    Sé que puedo contar contigo, Xion.{:delay B4 00}{:clear }Bien, hay algo que quiero
+    que veáis.{:delay DE 00}{:clear }¿Podéis escoltarme hasta
+
+
+    la sala de audiencias?
+  en: >-
+    I know I can count on you, Xion.{:delay 78 00}{:clear }{:delay 28 00}{:clear
+    }Now, there´s something I´d like
+
+
+    all of you to come and see.{:delay DC 00}{:clear }{:delay 1E 00}{:clear }Would
+    you please escort me to the
+
+    audience chamber?
+- id: 5405
+  fr: >
+    Non, Xion, tu vas te perdre !
+  gr: >
+    Nein, Xion, du verläufst dich nur!
+  it: >
+    No, Xion, ti perderesti!
+  sp: >
+    ¡No, Xion, te puedes perder!
+  en: >
+    No, Xion, you´ll just get lost!
+- id: 5410
+  fr: >-
+    Oui, s'il vous plaît.
+
+
+    Mettons-nous en route.
+  gr: >
+    Ja, Xion. Machen wir uns auf den Weg.
+  it: >-
+    Sì, Xion.
+
+
+    Avviamoci subito.
+  sp: >-
+    Sí, Xion.
+
+
+    Démonos prisa.
+  en: >-
+    Yes, Xion.
+
+
+    Let´s be on our way.
+- id: 5472
+  fr: >-
+    Alors, écoute, Xion : tu
+
+
+    dois trouver ce portail.{:delay B0 00}{:clear }Et quand ce sera fait,
+
+    ferme-le avec ta Keyblade.
+  gr: >-
+    Xion. Du musst diese Tür finden.
+
+
+    Und wenn du sie gefunden hast ...{:delay B8 00}{:clear }... versiegle sie mit
+    deinem Schlüsselschwert.
+  it: >-
+    Quindi ascoltami bene, Xion.{:delay 63 00}{:clear }Devi trovare quella porta
+    e
+
+
+    chiuderla con il Keyblade.
+  sp: >-
+    Así que escúchame bien, Xion.{:delay 72 00}{:clear }Debes encontrar ese portal
+
+
+    y sellarlo con tu llave espada.
+  en: >-
+    Listen carefully, Xion. You must find that door.
+
+
+    And when you do--lock it with your Keyblade.
+- id: 5497
+  fr: >
+    Xion !
+  gr: >
+    Xion!
+  it: >
+    Xion!
+  sp: >
+    Xion...
+  en: >
+    Xion!
+- id: 13874
+  fr: >-
+    Je savais que Merlin nous aiderait !{:clear }Mais nous ne sommes pas tirés d'affaire
+
+
+    pour autant. Je compte sur vous, Xion !
+  gr: >-
+    Ich wusste, dass Merlin uns helfen würde!{:clear }Dennoch, unser Problem ist noch
+    nicht gelöst.
+
+
+    Xion, ich zähle auf euch!
+  it: >-
+    Sapevo che Merlino ci avrebbe aiutati!{:clear }Ma il problema non è stato ancora
+
+
+    risolto. Xion, conto su di te!
+  sp: >-
+    ¡Sabía que Merlín nos ayudaría!{:clear }Pero nuestro problema sigue sin
+
+
+    resolverse. ¡Confío en ti, Xion!
+  en: >-
+    I knew Merlin would help!{:clear }Still, our problem´s not solved.
+
+
+    Xion, I´m counting on you!
+- id: 16122
+  fr: >-
+    La Salle d'audience se trouve derrière
+
+
+    la {:theme 0A}grande porte{:reset}, dans le couloir.{:clear }Pressons-nous, Xion
+    !
+  gr: >-
+    Zum Audienzsaal geht es durch
+
+
+    die {:theme 0A}große Tür{:reset} im Wandelgang.{:clear }Beeilen wir uns, Xion!
+  it: >-
+    La Sala delle Udienze si trova al di là
+
+
+    di quella {:theme 0A}grande porta {:reset}nel corridoio.{:clear }Presto, Xion!
+  sp: >-
+    La sala de audiencias está
+
+
+    tras {:theme 0A}la gran puerta {:reset}del corredor.{:clear }¡Date prisa, Xion!
+  en: >-
+    The audience chamber is
+
+
+    through the {:theme 0A}large door {:reset}in the hallway.{:clear }Now hurry, Xion!
+- id: 16123
+  fr: >-
+    Tous ces ennemis m'empêchent
+
+
+    d'avancer.{:clear }Aidez-moi à les battre, Xion.
+  gr: >-
+    Es sind zu viele Gegner,
+
+
+    ich komme nicht an ihnen vorbei.{:clear }Xion, hilf mir, sie aus
+
+    dem Weg zu räumen.
+  it: >-
+    Tutti i nemici stanno
+
+
+    venendo verso di me!{:clear }Xion, aiutami
+
+    a sconfiggerli!
+  sp: >-
+    Multitud de enemigos se
+
+
+    interponen en mi camino.{:clear }Ayúdame a
+
+    combatirlos, Xion.
+  en: >-
+    All these enemies are getting
+
+
+    in my way.{:clear }Xion, help me
+
+    defeat them.
+- id: 16124
+  fr: >-
+    Il ne nous reste plus qu'à entrer dans la
+
+
+    {:theme 0A}Salle d'audience{:reset}. Dépêchons-nous, Xion !
+  gr: >-
+    Jetzt heißt es nur noch, in den {:theme 0A}Audienzsaal{:reset}
+
+
+    zu gehen. Beeilen wir uns, Xion!
+  it: >-
+    E ora non rimane che andare nella
+
+
+    {:theme 0A}Sala delle Udienze{:reset}. Svelto, Xion!
+  sp: >-
+    Ahora debemos ir a la
+
+
+    {:theme 0A}sala de audiencias{:reset}. ¡Deprisa, Xion!
+  en: >-
+    All that´s left now is to go to
+
+
+    the {:theme 0A}audience chamber{:reset}. Hurry, Xion!
+- id: 20335
+  fr: >-
+    T'as vu ça, Xion ? Ce trou noir est
+
+
+    apparu ici comme par magie !{:clear }Moi qui croyais le calme revenu au château...
+
+    Qu'est-ce que cette chose nous réserve ?
+  gr: >-
+    Sieh nur, Xion! Dieses riesige Loch ist auf
+
+
+    einmal mitten im Raum erschienen!{:clear }Dabei war gerade wieder Frieden im Schloss
+
+    eingekehrt ... Was wohl dieses Mal passiert?
+  it: >-
+    Guarda là, Xion!
+
+
+    Quel grosso buco è saltato fuori dal nulla!{:clear }Pensavo che il castello fosse
+    di nuovo
+
+    sicuro. Cosa sta succedendo?
+  sp: >-
+    ¡Mira, Xion! ¡Ese enorme agujero
+
+
+    ha aparecido en mitad de la sala!{:clear }¿No se suponía que el castillo
+
+    estaba ya fuera de peligro?
+  en: >-
+    Look over there, Xion!
+
+
+    That big hole appeared out of nowhere!{:clear }I thought the castle was safe again.
+
+    What's going on?
+- id: 21409
+  fr: >
+    Ven...
+  gr: >
+    Ven...
+  it: >
+    Ven...
+  sp: >
+    Ven...
+  en: >
+    Ven...
+- id: 21410
+  fr: >
+    Ventus ?{:delay 73 00}{:clear }C'est moi...
+  gr: >
+    Ventus?{:delay 73 00}{:clear }Ich bin´s...
+  it: >
+    Ventus ?{:delay 73 00}{:clear }Sono io...
+  sp: >
+    ¿Ventus?{:delay 73 00}{:clear }Soy yo...
+  en: >
+    Ventus?{:delay 73 00}{:clear }It's me...
+- id: 21411
+  fr: >
+    Non ce n'est pas toi...{:delay B9 00}{:clear }Tu lui ressembles beaucoup...
+  gr: >
+    Nein, du bist es nicht...{:delay B9 00}{:clear }aber du siehst ihm sehr ähnlich...
+  it: >
+    No, non sei tu...{:delay B9 00}{:clear }Gli assomigli molto...
+  sp: >
+    No, no eres él...{:delay B9 00}{:clear }Te pareces mucho a él...
+  en: >
+    No, it's not you...{:delay B9 00}{:clear }You look a lot like him...
+- id: 21412
+  fr: >
+    Je ne comprends pas.{:delay 69 00}{:clear }Mais qu'avez-vous fait ?
+  gr: >
+    Ich verstehe es nicht.{:delay 69 00}{:clear }Was hast du getan?
+  it: >
+    Non capisco. {:delay 69 00}{:clear }Ma cosa hai fatto?
+  sp: >
+    No lo entiendo.{:delay 73 00}{:clear }¿Qué has hecho?
+  en: >
+    I don't understand.{:delay 69 00}{:clear }What have you done?
+- id: 21414
+  fr: >
+    Où est mon ami ?
+  gr: >
+    Wo ist mein Freund?
+  it: >
+    Dov'è il mio amico?
+  sp: >
+    ¿Dónde está mi amigo?
+  en: >
+    Where is my friend?
+- id: 21415
+  fr: >
+    Que lui as-tu fait ?
+  gr: >
+    Was hast du ihm angetan?
+  it: >
+    Cosa gli hai fatto?
+  sp: >
+    ¿Qué le has hecho?
+  en: >
+    What did you do to him?
+- id: 21417
+  fr: >
+    Ventus...
+  gr: >
+    Ventus...
+  it: >
+    Ventus...
+  sp: >
+    Ventus...
+  en: >
+    Ventus...
+- id: 21418
+  fr: >
+    Ventus !
+  gr: >
+    Ventus!
+  it: >
+    Ventus!
+  sp: >
+    ¡Ventus!
+  en: >
+    Ventus!
+- id: 21421
+  fr: >-
+    {:unk13 D7 00 42 00}{:unk06 01}{:unk08 03 00 05}Comme on se retrouve,
+
+
+    toi qui ressemble à Ventus.
+  gr: >-
+    {:unk13 D7 00 42 00}{:unk06 01}{:unk08 03 00 05}Und wieder treffen wir uns,
+
+
+    der Junge der nicht Ventus ist.
+  it: >-
+    {:unk13 D7 00 42 00}{:unk06 01}{:unk08 03 00 05}Ci incontriamo ancora,
+
+
+    giovane Eroe del Keyblade.
+  sp: >-
+    {:unk13 D7 00 42 00}{:unk06 01}{:unk08 03 00 05}Nos volvemos a encontrar,
+
+
+    portador de la llave espada que no es Ventus.
+  en: >-
+    {:unk13 D7 00 42 00}{:unk06 01}{:unk08 03 00 05}We meet again,
+
+
+    the one who's not Ventus.
+- id: 21425
+  fr: >-
+    {:unk13 96 00 DC 00}{:unk06 02}{:unk08 03 01 06}Xion !
+
+
+    Tu tombes à pic !
+  gr: >-
+    {:unk13 96 00 DC 00}{:unk06 02}{:unk08 03 01 06}Xion!
+
+
+    Ein Glück bist du da!
+  it: >-
+    {:unk13 96 00 DC 00}{:unk06 02}{:unk08 03 01 06}Oh, Xion!
+
+
+    Tempismo perfetto!
+  sp: >-
+    {:unk13 96 00 DC 00}{:unk06 02}{:unk08 03 01 06}¡Ey, Xion!
+
+
+    ¡Justo a tiempo!
+  en: >-
+    {:unk13 96 00 DC 00}{:unk06 02}{:unk08 03 01 06}Oh, Xion!
+
+
+    What great timing!

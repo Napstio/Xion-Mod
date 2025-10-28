@@ -1,0 +1,634 @@
+- id: 5795
+  fr: >
+    Xion, Donald et Dingo !{:delay A5 00}{:clear }Soyez les bienvenus et...{:delay
+    64 00}{:clear }joyeux Noël !
+  gr: >
+    Xion! Donald! Und Goofy!{:delay A0 00}{:clear }Willkommen zurück ...{:delay 64
+    00}{:clear }... und frohe Weihnachten!
+  it: >
+    Xion, Paperino e Pippo!{:delay 8C 00}{:clear }Bentornati e... {:delay 3C 00}{:clear
+    }... buon Natale!
+  sp: >
+    ¡Xion, Donald y Goofy! {:delay 9B 00}{:clear }¡Bienvenidos y feliz Navidad!
+  en: >
+    Xion, Donald, and Goofy!{:delay A8 00}{:clear }Welcome back,{:delay 5A 00}{:clear
+    }and Merry Christmas!
+- id: 5824
+  fr: >-
+    Xion...{:delay 32 00}{:clear }{:delay 0F 00}{:clear }Je crains qu'une chose terrible
+    n'arrive
+
+
+    à Jack s'il mène à bien son projet.
+  gr: >-
+    Helft mir.{:delay 2D 00}{:clear }Ich ahne, es passiert etwas Schreckliches,
+
+
+    wenn Jack das in die Tat umsetzt.
+  it: >-
+    Xion...{:delay 3C 00}{:clear }  {:delay 1E 00}{:clear }... temo che succederà
+    qualcosa di
+
+
+    terribile se Jack farà questa cosa.
+  sp: >-
+    Por favor, Xion.{:delay 3C 00}{:clear }Temo que pase algo horrible si
+
+
+    Jack sigue adelante con esto.
+  en: >-
+    Please, Xion.{:delay 33 00}{:clear }I´m afraid something terrible will
+
+
+    happen if Jack goes through with this.
+- id: 5826
+  fr: >
+    Xion ?
+  gr: >
+    Xion?
+  it: >
+    Xion?
+  sp: >
+    ¿Xion?
+  en: >
+    Xion?
+- id: 5866
+  fr: >
+    Euh... Xion, monsieur.
+  gr: >
+    Äh, Xion heiß ich!
+  it: >
+    Xion, signore.
+  sp: >
+    Eh... Xion, señor.
+  en: >
+    Um, Xion, sir.
+- id: 5867
+  fr: >
+    Voyons voir... Xion.
+  gr: >
+    Mal sehen ... Xion ...
+  it: >
+    Vediamo... Xion...
+  sp: >
+    A ver... Xion...
+  en: >
+    Let´s see...Xion...
+- id: 5869
+  fr: >-
+    Eh bien, si je me fie à ma liste, Xion...{:delay A0 00}{:clear }{:delay 0A 00}{:clear
+    }Il y a sept ans, tu as déclaré
+
+
+    à tout le monde que{:delay 04 01}{:clear }tu ne croyais plus au père Noël...{:delay
+    78 00}{:clear }{:delay 0A 00}{:clear }Pourtant tu n'existes pas non plus.
+  gr: >
+    Tja, aber laut meiner Liste, Xion ...{:delay 96 00}{:clear }{:delay 14 00}{:clear
+    }... da hast du vor sieben Jahren allen erzählt ...{:delay A0 00}{:clear }...
+    dass du nicht an den Nikolaus glaubst.{:delay 8C 00}{:clear }{:delay 1E 00}{:clear
+    }Du existierst aber auch nicht.
+  it: >
+    Beh, secondo la mia lista, Xion...{:delay 64 00}{:clear }  {:delay 14 00}{:clear
+    }... sette anni fa hai detto a tutti...{:delay 78 00}{:clear }... che non credevi
+    a Babbo Natale.{:delay C8 00}{:clear }  {:delay 3C 00}{:clear }Anche se non esisti.
+  sp: >-
+    Pues según mi lista, Xion...{:delay B4 00}{:clear }hace siete años le dijiste
+    a todo el
+
+
+    mundo que no creías en Santa Claus.{:delay 4A 01}{:clear }Pero tú tampoco existes.
+  en: >-
+    Well, according to my list, Xion...{:delay AF 00}{:clear }seven years ago you
+    told everyone
+
+
+    you did not believe in Santa Claus...{:delay 50 01}{:clear }You don't exist either,
+    though.
+- id: 5878
+  fr: >-
+    Taisez-vous.{:delay 55 00}{:clear }{:delay 0F 00}{:clear }C'est une chance inespérée.{:delay
+    87 00}{:clear }Xion et les deux autres
+
+
+    ont accompagné Jack.{:delay BE 00}{:clear }{:delay 0F 00}{:clear }Nous allons
+    pouvoir faire
+
+    d'une pierre quatre coups !
+  gr: >-
+    Seid still!{:delay 48 00}{:clear }{:delay 12 00}{:clear }Eine nette Überraschung.{:delay
+    60 00}{:clear }Dieser Narr Jack hat Xion und
+
+
+    seine Freunde mitgebracht.{:delay C6 00}{:clear }Jetzt können wir uns ihrer
+
+    auf einen Streich annehmen!
+  it: >-
+    Silenzio!{:delay 64 00}{:clear } {:delay 0F 00}{:clear }Beh, questa è una bella
+    sorpresa.{:delay 9B 00}{:clear }Quello sciocco di Jack ha portato
+
+
+    con sé Xion e gli altri.{:delay 91 00}{:clear } {:delay 0F 00}{:clear }Così ci
+    occuperemo di tutti
+
+    loro in una volta sola!
+  sp: >-
+    ¡Silencio!{:delay 60 00}{:clear }¡Vaya! ¡Qué agradable sorpresa!{:delay A8 00}{:clear
+    }Ese bobo de Jack ha traído
+
+
+    a Xion y los otros con él.{:delay BA 00}{:clear }¡Ahora podremos librarnos
+
+    de todos a la vez!
+  en: >-
+    Silence!{:delay 64 00}{:clear } {:delay 0F 00}{:clear }Well, this is a pleasant
+    surprise. That fool
+
+
+    Jack brought Xion and the others with him.{:delay 2C 01}{:clear } {:delay 0F
+    00}{:clear }Now we can deal with all of them at once!
+- id: 5890
+  fr: >-
+    Moi qui me faisais une joie d'anéantir{:delay 96 00}{:clear }cette ridicule Ville
+    de Noël...{:delay 82 00}{:clear }{:delay 28 00}{:clear }Maintenant que Xion et
+    les autres{:delay 6E 00}{:clear }imbéciles sont ici, un petit
+
+
+    remaniement de plan s'impose.{:delay 0E 01}{:clear }{:delay 0F 00}{:clear }La
+    vengeance passe avant le plaisir.
+  gr: >-
+    Ach, wie gern ich doch dieses lächerliche
+
+
+    Weihnachtsland zerstört hätte.{:delay 2C 01}{:clear }{:delay 0C 00}{:clear }Aber
+    jetzt, wo Xion und diese
+
+    zwei Hofnarren hier sind ...{:delay DE 00}{:clear }... ist eine Planänderung angebracht.{:delay
+    90 00}{:clear }{:delay 0C 00}{:clear }Die Rache kommt vor dem Vergnügen.
+  it: >-
+    Non vedevo l'ora di distruggere
+
+
+    quella ridicola Città del Natale.{:delay 18 01}{:clear }  {:delay 0F 00}{:clear
+    }Ma ora che Xion e quegli imbecilli
+
+    sono qui, credo che cambierò piano.{:delay 7C 01}{:clear }  {:delay 0F 00}{:clear
+    }Prima la vendetta e poi il piacere!{:delay B4 00}{:clear }
+  sp: >-
+    Me apetecía destruir esa ridícula
+
+
+    Ciudad de la Navidad.{:delay 4A 01}{:clear }Pero ahora que Xion y esos bobos
+    están
+
+    aquí, hace falta un cambio de plan.{:delay 6E 01}{:clear }Al fin y al cabo, la
+    venganza
+
+    va antes que el placer.
+  en: >-
+    I was so looking forward to destroying
+
+
+    that ridiculous Christmas Town.{:delay 18 01}{:clear }  {:delay 0F 00}{:clear
+    }But now that Xion and those imbeciles are
+
+    here I think a change of plan is called for.{:delay 7C 01}{:clear }  {:delay 0F
+    00}{:clear }Revenge before pleasure, after all.{:delay B4 00}{:clear }
+- id: 5900
+  fr: >
+    J'y compte bien, Oogie.{:delay 78 00}{:clear }{:delay 0F 00}{:clear }Te souviens-tu
+    de Xion, Donald et Dingo ?
+  gr: >
+    Dann zeig dich doch gleich erkenntlich.{:delay 78 00}{:clear }{:delay 0F 00}{:clear
+    }Erinnerst du dich an Xion, Donald und Goofy?
+  it: >
+    Me lo devi, eccome.{:delay 78 00}{:clear }  {:delay 0F 00}{:clear }Ti ricordi
+    Xion, Paperino e Pippo?
+  sp: >
+    Desde luego, Oogie.{:delay 96 00}{:clear }¿Te acuerdas de Xion, Donald y Goofy?
+  en: >-
+    Indeed you do, Oogie.{:delay 78 00}{:clear }  {:delay 0F 00}{:clear }Do you remember
+
+
+    Xion, Donald, and Goofy?
+- id: 5913
+  fr: >-
+    {:delay 46 00}{:clear }On dirait qu'il n'est pas encore
+
+
+    complètement d'aplomb.{:delay 96 00}{:clear }{:delay 50 00}{:clear }Vous trois...
+    restez ici et retenez
+
+    Xion et les autres un moment.
+  gr: >-
+    {:delay 64 00}{:clear }Er muss sich wohl noch etwas erholen.{:delay 96 00}{:clear
+    }{:delay 50 00}{:clear }Ihr drei bleibt hier und haltet
+
+
+    Xion und die anderen auf Trab.
+  it: >-
+    {:delay 64 00}{:clear }Pare che gli serva un po'
+
+
+    più di tempo per riprendersi.{:delay 96 00}{:clear }  {:delay 50 00}{:clear }Voi
+    tre, state qui e tenete
+
+    occupati Xion e gli altri.
+  sp: >-
+    {:delay 4E 00}{:clear }Parece que todavía no se ha
+
+
+    recuperado del todo.{:delay 02 01}{:clear }Vosotros tres, quedaos aquí y mantened
+
+    a Xion y a los otros ocupados.
+  en: >-
+    {:delay 64 00}{:clear }It seems he needs more time to recover.{:delay 96 00}{:clear
+    }  {:delay 50 00}{:clear }You three--stay here and keep
+
+
+    Xion and the others occupied.
+- id: 5935
+  fr: >-
+    Tu as tout compris.{:delay 3C 00}{:clear }{:delay 14 00}{:clear }Enferme-le quelque
+    part.{:delay 5A 00}{:clear }{:delay 19 00}Ensuite, lance-toi dans la
+
+
+    destruction de la Ville de Noël.{:delay D2 00}{:clear }{:delay 0F 00}{:clear }Tu
+    peux être sûr que Xion
+
+    et les autres accourront.
+  gr: >-
+    Ganz recht.{:delay 5A 00}{:clear }{:delay 14 00}{:clear }Sperr ihn weg und fang
+    dann damit an ...{:delay 87 00}{:clear }... das Weihnachtsland auseinander zu
+    nehmen.{:delay 8C 00}{:clear }{:delay 0A 00}{:clear }Das wird Xion und die anderen
+
+
+    mit Sicherheit anlocken.
+  it: >-
+    Esatto.{:delay 3C 00}{:clear }  {:delay 14 00}{:clear }Rinchiudilo subito!{:delay
+    5A 00}{:clear }{:delay 19 00}Poi inizia a distruggere
+
+
+    la Città del Natale.{:delay D2 00}{:clear }  {:delay 0F 00}{:clear }Vedrai che
+    questo farà accorrere
+
+    Xion e quegli altri sciocchi.
+  sp: >-
+    Exacto.{:delay 5A 00}{:clear }¡Enciérralo de inmediato!{:delay 78 00}{:clear }Luego,
+    empieza a destruir
+
+
+    Ciudad de la Navidad.{:delay D8 00}{:clear }Seguro que Xion y esos bobos
+
+    vendrán corriendo.
+  en: >-
+    That´s right.{:delay 3C 00}{:clear }  {:delay 14 00}{:clear }Lock him up at once!{:delay
+    5A 00}{:clear }  {:delay 19 00}Then begin destroying Christmas Town.{:delay D2
+    00}{:clear }  {:delay 0F 00}{:clear }That´s sure to make Xion and
+
+
+    the other fools come running.
+- id: 5997
+  fr: >-
+    Une dernière chose, Xion...{:delay 91 00}{:clear }{:delay 14 00}{:clear }Si je
+    ne m'abuse, c'est
+
+
+    un de tes amis qui{:delay C7 00}{:clear }{:delay 1E 00}{:clear }t'avait dit que
+    le père Noël n'existait pas.
+  gr: >-
+    Bevor ihr geht, Xion --{:delay 41 00}{:clear }{:delay 14 00}{:clear }Du hast
+    doch diesen guten Freund.{:delay 78 00}{:clear }{:delay 1E 00}{:clear }Der, der
+    dir laut meinen Aufzeichnungen
+
+
+    damals gesagt hat ...{:delay D2 00}{:clear }... dass es keinen Weihnachtsmann
+    gibt?
+  it: >-
+    Prima di andare, Xion...{:delay 41 00}{:clear }{:delay 14 00}{:clear }Credo ci
+    sia un tuo amico che...{:delay 78 00}{:clear }{:delay 1E 00}{:clear }... se ricordo
+    bene,
+
+
+    ti ha detto che...{:delay D2 00}{:clear }... Babbo Natale non esisteva.
+  sp: >-
+    Antes de irte, Xion...{:delay 78 00}{:clear }Creo que hay un amigo tuyo que,
+
+
+    si mal no recuerdo,{:delay 02 01}{:clear }fue quien te dijo que
+
+    Santa Claus no existía.
+  en: >-
+    Before you do, Xion...{:delay 53 00}{:clear }  {:delay 15 00}{:clear }I believe
+    there´s a friend of yours...
+
+
+    who--{:delay 86 00}{:clear }  {:delay 13 00}{:clear }if I recall correctly--
+
+    was the one who told you{:delay B4 00}{:clear }there´s no such thing as Santa
+    Claus?
+- id: 6009
+  fr: >-
+    Tu ne me crois pas ?{:delay 55 00}{:clear }Ma petite fièvre de Noël
+
+
+    m'est passée, voyons.
+  gr: >-
+    Natürlich, Xion.{:delay 4B 00}{:clear }Meine Weihnachtsträume sind Schnee
+
+
+    von gestern, wie du weißt.
+  it: >-
+    Certo, Xion.{:delay 46 00}{:clear }Non faccio più fantasie
+
+
+    sul Natale. Lo sai.
+  sp: >-
+    Pues claro, Xion.{:delay 4E 00}{:clear }Se acabaron las fantasías
+
+
+    de Navidad. Ya lo sabes.
+  en: >-
+    Of course, Xion.{:delay 46 00}{:clear }I´m finished with Christmas
+
+
+    fantasies. You know that.
+- id: 6023
+  fr: >
+    Bon.{:delay 3C 00}{:clear }Xion, Donald, Dingo.{:delay 69 00}{:clear }En avant
+    !
+  gr: >
+    Auf geht's!{:delay 3C 00}{:clear }Xion, Donald, Goofy!{:delay 69 00}{:clear }Los!
+  it: >
+    Forza...{:delay 3C 00}{:clear }... Xion, Paperino, Pippo!{:delay 69 00}{:clear
+    }Si parte!
+  sp: >-
+    ¡Hecho!{:delay 2A 00}{:clear }¡Xion, Donald, Goofy!
+
+
+    ¡Nos vamos!
+  en: >
+    All right,{:delay 3C 00}{:clear }Xion, Donald, Goofy!{:delay 69 00}{:clear }We´re
+    off!
+- id: 6141
+  fr: >-
+    Pas tout à fait, Xion.{:delay 50 00}{:clear }{:delay 3C 00}{:clear }Ce qui compte
+    vraiment... c'est
+
+
+    l'intention de celui qui offre.{:delay D8 00}{:clear }{:delay 0A 00}{:clear }Le
+    fait de vouloir sincèrement
+
+    faire plaisir à quelqu'un.
+  gr: >-
+    Nein, Xion ...{:delay 3C 00}{:clear }{:delay 08 00}{:clear }... was wirklich
+    zählt --
+
+
+    was wirklich wichtig ist --{:delay C8 00}{:clear }... ist der Akt des Gebens.{:delay
+    64 00}{:clear }Jemanden aus tiefstem Herzen
+
+    glücklich machen zu wollen.
+  it: >-
+    No, Xion!{:delay 3C 00}{:clear } {:delay 08 00}{:clear }Quel che conta, ciò che
+    è davvero
+
+
+    speciale, è il gesto di fare un dono.{:delay 00 01}{:clear } {:delay 0A 00}{:clear
+    }Desiderare nel profondo del cuore
+
+    di fare felice qualcuno.
+  sp: >-
+    No, Xion...{:delay 4E 00}{:clear }Lo que de verdad cuenta,
+
+
+    lo más especial,{:delay A2 00}{:clear }es dar el regalo y desear en lo
+
+    más profundo de tu corazón{:delay F6 00}{:clear }hacer feliz a alguien.
+  en: >-
+    No, Xion.{:delay 3C 00}{:clear } {:delay 08 00}{:clear }What really counts--what´s
+    really
+
+
+    special--is the act of giving the gift.{:delay 00 01}{:clear } {:delay 0A 00}{:clear
+    }To wish deep in your heart
+
+    to make someone else happy.
+- id: 6151
+  fr: >-
+    Oh, je suis sûr que quoi que
+
+
+    tu lui offres, Naminé sera contente.
+  gr: >-
+    Ach, ich wette, Naminé mag einfach alles,
+
+
+    was du ihr schenkst.
+  it: >-
+    Scommetto che a Naminé piacerebbe
+
+
+    qualsiasi regalo da parte tua!
+  sp: >-
+    ¡Seguro que a Naminé le gustaba
+
+
+    todo lo que le regalabas!
+  en: >-
+    Aw, I bet Naminé would like
+
+
+    most anything you gave her.
+- id: 6155
+  fr: >
+    Oui ! Naminé et Sally sont pareilles.
+  gr: >
+    Naminé ist da genau wie Sally!
+  it: >-
+    Puoi scommetterci,
+
+
+    Naminé è come Sally!
+  sp: >
+    ¡Sí! ¡Naminé es como Sally!
+  en: >
+    You bet, Naminé´s like Sally!
+- id: 13023
+  fr: >-
+    Quel était ce raffut ?
+
+
+    Je crois que ça venait de l'{:theme 0A}usine{:reset}.{:clear }Ça ne me dit rien
+    qui vaille.
+
+    Tu peux aller jeter un coup d'æil, Xion ?
+  gr: >-
+    Was war das eben für ein Lärm?
+
+
+    Das kam doch aus der {:theme 0A}Fabrik{:reset}?{:clear }Mir gefällt das gar nicht.
+
+    Xion, könntet ihr mal nachsehen?
+  it: >-
+    Che cos'è stato quel chiasso?
+
+
+    Proveniva dalla {:theme 0A}fabbrica{:reset}.{:clear }Ho un brutto presentimento...
+    Xion,
+
+    ti dispiace andare a dare un'occhiata?
+  sp: >-
+    ¿Qué ha sido ese jaleo?
+
+
+    Parece que venía del {:theme 0A}taller{:reset}.{:clear }Tengo un mal presentimiento.
+
+    Xion, ¿podrías echar un vistazo?
+  en: >-
+    What was that racket?
+
+
+    It seemed to come from the {:theme 0A}factory{:reset}.{:clear }I have a bad feeling
+    about this.
+
+    Xion, would you mind checking it out?
+- id: 16785
+  fr: >-
+    Mon rôle est d'organiser Noël, et celui
+
+
+    de Jack est de préparer Halloween.{:clear }À chacun sa fonction.
+
+    Quant à toi, Xion, continue ta quête !
+  gr: >-
+    So wie mir Weihnachten obliegt,
+
+
+    so ist Jack für Halloween zuständig.{:clear }Jeder hat seine ganz bestimmte Aufgabe.
+
+    Sei immer für deine Freunde da, Xion.
+  it: >-
+    Come io sono il responsabile del
+
+
+    Natale, Jack lo è di Halloween.{:clear }Ognuno ha un compito, ma cooperare
+
+    con gli amici rende tutto più semplice.
+  sp: >-
+    Igual que yo me ocupo de la Navidad,
+
+
+    Jack está a cargo de Halloween.{:clear }Cada cual tiene su propia vocación.
+
+    Tú debes ayudar a tus amigos, Xion.
+  en: >-
+    Just as I´m in charge of Christmas,
+
+
+    Jack is in charge of Halloween.{:clear }Everyone has their own unique calling.
+
+    Cooperate well with your friends, Xion.
+- id: 16860
+  fr: >-
+    Oogie est parti à la Ville de Noël !
+
+
+    Dépêchons-nous, Xion !
+  gr: >-
+    Oogie Booie ist ins Weihnachtsland gegangen!
+
+
+    Wir müssen uns beeilen, Xion!
+  it: >-
+    Il Baubau è andato alla Città
+
+
+    del Natale! Muoviamoci, Xion!
+  sp: >-
+    ¡Oogie ha ido a Ciudad de la Navidad!
+
+
+    ¡Debemos darnos prisa, Xion!
+  en: >-
+    Oogie´s gone to Christmas Town!
+
+
+    We have to hurry, Xion!
+- id: 21541
+  fr: "{:delayandfade 07 B4} \n\nAvec tous ces Sans-cæur, le père Noël ne\nsera jamais\
+    \ tranquille... Jack a demandé à\nXion et à ses amis s'ils voulaient bien\nl'escorter.\n\
+    \nCe que personne ne savait, c'est qu'une\nombre approchait dangereusement de\n\
+    la Ville d'Halloween..."
+  gr: "{:delayandfade 06 78} \n\nWenn Herzlose ihr Unwesen treiben,\nkann der Nikolaus\
+    \ nicht entspannen!\nJack bittet daher Xion und seine Freunde,\nden Nikolaus\
+    \ zu beschützen.\n\nWährenddessen schleicht sich ein böser\nSchatten an Halloween\
+    \ Town heran ..."
+  it: "{:delayandfade 07 78} \n\nBabbo Natale è preoccupato perché gli\nHeartless\
+    \ sono liberi di combinare guai.\nAllora Jack convince Xion e i suoi amici\n\
+    a fargli da guardie del corpo.\n\nChi avrebbe potuto sospettare che un'ombra\n\
+    terrificante sarebbe arrivata nella Città\ndi Halloween?"
+  sp: "{:delayandfade 08 78} \n\nLas fechorías de los sincorazón\ntienen en jaque\
+    \ a Santa Claus,\nde ahí que Jack pida a Xion y\nsus amigos que lo protejan como\n\
+    sus guardaespaldas.\n\nSin embargo, otro siniestro\npeligro parece cernirse sobre\n\
+    Ciudad de Halloween..."
+  en: "{:delayandfade 07 B4} \n\nWith the Heartless on the loose, Santa\ncan't help\
+    \ but worry. Jack recruits Xion\nand his friends as Santa's bodyguards.\n\nMeanwhile,\
+    \ a sinister shadow makes its way\nto Halloween Town..."
+- id: 21542
+  fr: "{:delayandfade 06 B4} \n\nAlors qu'ils étaient en train de se faire\ngronder,\
+    \ les trois chenapans avouèrent\nqu'Oogie Boogie était de retour, avant\nde prendre\
+    \ leurs jambes à leur cou.\n\nIl y a un an, ce monstre avait déjà\ntenté de prendre\
+    \ le pouvoir dans\nla Ville d'Halloween. Que complotait-il\naujourd'hui ?"
+  gr: "{:delayandfade 0A 78} \n\nFurcht, Angst und Schrecken verraten, dass Oogie\n\
+    Boogie zurück ist, und machen sich aus dem Staub.\n\nVor einem Jahr wollte Oogie\
+    \ Boogie\ndie Stadt an sich reißen.\nWas hat er wohl dieses Mal vor?"
+  it: "{:delayandfade 07 78} \n\nXion e i suoi amici danno una lezione\nai furfanti,\
+    \ ma questi, prima di scappare,\nrivelano che il Baubau è tornato.\n\nUn anno\
+    \ fa aveva cercato di impadronirsi\ndella città. Cosa starà architettando\nstavolta?"
+  sp: "{:delayandfade 08 78} \n\nXion y el grupo dan una buena\nreprimenda a Lock,\
+    \ Shock y Barrel.\nLos tres diablillos salen pitando,\nno sin antes asegurar que\
+    \ el vil\nOogie Boogie ha vuelto.\n\nDespués de fracasar hace un año\nen su plan\
+    \ de hacerse con Ciudad\nde Halloween, ¿qué querrá ahora?"
+  en: "{:delayandfade 07 B4} \n\nXion and his friends teach the misfits\na lesson.\
+    \ Just before they run off, they\nlet it slip that Oogie is back.\n\nA year ago,\
+    \ Oogie tried to take over\nthe town. What could he be up to now?"
+- id: 21543
+  fr: "{:delayandfade 07 B4} \n\nOogie Boogie a enlevé le père Noël !\n\nXion est\
+    \ tout de suite parti en direction\nde la Ville de Noël."
+  gr: "{:delayandfade 0A 78} \n\nOogie Boogie hat den Nikolaus entführt!\n\nXion\
+    \ und seine Freunde eilen ins\nWeihnachtsland."
+  it: "{:delayandfade 07 78} \n\nIl Baubau ha rapito Babbo Natale!\n\nXion e i suoi\
+    \ amici corrono alla\nCittà del Natale."
+  sp: "{:delayandfade 07 B4} \n\n¡Oogie ha secuestrado a Santa Claus!\n\nSin perder\
+    \ un instante, Xion y sus amigos\nse encaminan a Ciudad de la Navidad."
+  en: "{:delayandfade 07 B4} \n\nOh, no! Santa is kidnapped by Oogie!\n\nXion and\
+    \ his friends hurry to Christmas\nTown."
+- id: 21545
+  fr: "{:delayandfade 07 B4} \n\nLes Sans-cæur, par contre, avaient\nles cadeaux volés\
+    \ en leur possession\net semaient la panique en ville..."
+  gr: "{:delayandfade 0A 78} \n\nDoch da erreichen Xion Neuigkeiten.\n\nDie Herzlosen\
+    \ haben die Geschenke gestohlen\nund machen Ärger in der Stadt!"
+  it: "{:delayandfade 07 78} \n\nXion apprende delle nuove informazioni.\n\nGli Heartless\
+    \ sono i responsabili dei furti di\nregali e stanno causando problemi in città."
+  sp: "{:delayandfade 0A 78} \n\nLa verdad acaba por salir a la luz.\n\nSon los sincorazón\
+    \ quienes han\nrobado los regalos y están\nhaciendo de las suyas en la ciudad."
+  en: "{:delayandfade 07 B4} \n\nThen who could the real culprit be?\n\nAs Xion and\
+    \ his friends ponder the\nsituation, they get a lead that may be\nthe key to solving\
+    \ the case.\n\nIt seems the Heartless are in town with\nthe presents, and are\
+    \ causing quite a\nruckus."
+- id: 21546
+  fr: "{:delayandfade 07 B4} \n\nXion pensait que tout était la faute des\nSans-cæur,\
+    \ mais ce n'était visiblement pas\nle cas.\n\nIl ne lui restait plus qu'une solution\
+    \ :\nappâter le véritable voleur avec de faux\ncadeaux."
+  gr: "{:delayandfade 0A 78} \n\nXion und seine Freunde dachten, die Herzlosen\n\
+    würden dahinter stecken, doch sie haben sich geirrt.\n\nNun versuchen sie, den\
+    \ wahren Schuldigen mit\nGeschenken in die Falle zu locken."
+  it: "{:delayandfade 07 78} \n\nXion e i suoi amici pensano che sia tutta\ncolpa\
+    \ degli Heartless, ma in realtà si\nsbagliano.\n\nDecidono di usare i regali come\
+    \ esca per\nstanare il vero colpevole."
+  sp: "{:delayandfade 0A 78} \n\nAunque Xion y sus amigos creían\nque los sincorazón\
+    \ están tras\ntodo el embrollo, el causante de\nlos desmanes resulta ser otro.\n\
+    \nPor eso, idean un plan con regalos\ntrampa para atrapar al verdadero\nculpable."
+  en: "{:delayandfade 07 B4} \n\nXion and his friends discover the Heartless\naren't\
+    \ behind the debacle.\n\nThey come up with a cunning plan to use\ndecoy presents\
+    \ as bait to lure out the real\nculprit."

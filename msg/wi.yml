@@ -1,0 +1,53 @@
+- id: 5607
+  fr: >
+    Xion ! Regarde, là-bas.
+  gr: >
+    Schau mal, Xion! Da drüben!
+  sp: >
+    ¡Mira, Xion! ¡Allí!
+  en: >
+    Look, Xion! Over there!
+- id: 5721
+  fr: >
+    Xion !
+  gr: >
+    Xion!
+  sp: >
+    ¡Xion!
+  en: >
+    Xion!
+- id: 5725
+  fr: >
+    Xion ! C'est un secret !
+  gr: >
+    Das ist ein Geheimnis!
+  sp: >
+    ¡Xion, es un secreto!
+  en: >
+    Xion, that´s a secret!
+- id: 21536
+  fr: "{:delayandfade 07 B4} \n\nMerlin avait prévenu le groupe qu'il\ntrouverait\
+    \ des portails magiques...\n\nXion et ses amis avaient ainsi découvert\ndes fenêtres\
+    \ avec vue sur ce monde tel\nqu'il l'était avant leur arrivée."
+  gr: "{:delayandfade 0A 78} \n\nIrgendwo in dieser Welt muss die Tür\nsein, von der\
+    \ Merlin gesprochen hat.\n\nXion, Donald und Goofy entdecken\nein kleines Fenster,\
+    \ durch das sie\ndie Welt, aus der sie gekommen sind,\nsehen können."
+  sp: "{:delayandfade 08 78} \n\nSegún Merlín, en este extraño mundo\ntendría que\
+    \ haber otro portal como\nel del Castillo Disney...\n\nSin embargo, en lugar de\
+    \ una puerta,\nlo que Xion encuentra es una ventana...\n¡en la que se ve al grupo\n\
+    instantes antes de llegar al mundo\nen blanco y negro!"
+  en: "{:delayandfade 07 B4} \n\nMerlin spoke of the enchanted doors they\nwould encounter\
+    \ in this world.\n\nHowever, instead of a door, Xion and his\nfriends find a\
+    \ strange window. As they\npeer through it, they see themselves from\nthe past."
+- id: 21538
+  fr: "{:delayandfade 07 B4} \n\nQuelqu'un était en train de se faire passer un\n\
+    savon, mais impossible de savoir exactement ce\nqu'il se passait de l'autre côté...\n\
+    \nXion a donc décidé de franchir une autre\nfenêtre."
+  gr: "{:delayandfade 0A 78} \n\nDa ist aber jemand verärgert!\nWarum wohl?\n\nXion\
+    \ und seine Gefährten\nspringen jedenfalls durch\ndas nächste Fenster."
+  sp: "{:delayandfade 0A 78} \n\nLa ventana muestra a Maléfica\ndándole una buena\
+    \ reprimenda\na alguien, aunque el blanco de\nsus iras es un misterio.\n\nHabría\
+    \ que seguir asomándose\nal resto de ventanas para poder\naveriguar más cosas."
+  en: "{:delayandfade 07 B4} \n\nXion and his friends hear someone getting\nscolded.\
+    \ What's going on on the other side?\n\nThey continue on through the next window\n\
+    in hopes of uncovering some useful\ninformation."
