@@ -1268,10 +1268,6 @@ assets:
   method: copy
   source:
   - name: libretto/us/wm524.bar/voice/wm/us/wm31203ci
-- name: raw/menu/fm/save.2ld
-  method: copy
-  source:
-  - name: raw/menu/fm/save.2ld
 - name: menu/fr/camp.2ld
   method: copy
   source:
@@ -1372,10 +1368,6 @@ assets:
   method: copy
   source:
   - name: menu/us/title.2ld
-- name: menu/fm/pause.2ld
-  method: copy
-  source:
-  - name: menu/fm/pause.2ld
 - name: obj/N_EX560.mdlx
   method: copy
   source:
@@ -1580,7 +1572,15 @@ assets:
   method: copy
   source:
   - name: obj/H_EX500.mdlx
+- name: obj/H_EX500_CA.mdlx
+  method: copy
+  source:
+  - name: obj/H_EX500.mdlx
 - name: obj/H_EX500_KH1F.mdlx
+  method: copy
+  source:
+  - name: obj/H_EX500_KH1F.mdlx
+- name: obj/H_EX500_CA_KH1F.mdlx
   method: copy
   source:
   - name: obj/H_EX500_KH1F.mdlx
@@ -1645,6 +1645,22 @@ assets:
   source:
   - name: obj/H_EX500_MAGF.mdlx
 - name: obj/H_EX500_TRIF.mdlx
+  method: copy
+  source:
+  - name: obj/H_EX500_TRIF.mdlx
+- name: obj/H_EX500_CA_ULTF.mdlx
+  method: copy
+  source:
+  - name: obj/H_EX500_ULTF.mdlx
+- name: obj/H_EX500_CA_BTLF.mdlx
+  method: copy
+  source:
+  - name: obj/H_EX500_BTLF.mdlx
+- name: obj/H_EX500_CA_MAGF.mdlx
+  method: copy
+  source:
+  - name: obj/H_EX500_MAGF.mdlx
+- name: obj/H_EX500_CA_TRIF.mdlx
   method: copy
   source:
   - name: obj/H_EX500_TRIF.mdlx
@@ -2100,6 +2116,10 @@ assets:
   method: copy
   source:
   - name: obj/P_EX100_NM_MAGF.a.us
+- name: voice/us/battle/preview_sora.win32.scd
+  method: copy
+  source:
+  - name: voice/us/battle/preview_sora.win32.scd
 - name: voice/us/battle/al0_aladdin.win32.scd
   method: copy
   source:
@@ -3488,6 +3508,54 @@ assets:
   method: copy
   source:
   - name: remastered/obj/H_EX500_MAGF.mdlx/-5.dds
+- name: remastered/obj/H_EX500_CA_BTLF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_BTLF.mdlx/-0.dds
+- name: remastered/obj/H_EX500_CA_BTLF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_BTLF.mdlx/-1.dds
+- name: remastered/obj/H_EX500_CA_BTLF.mdlx/-2.DDS
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_BTLF.mdlx/-2.DDS
+- name: remastered/obj/H_EX500_CA_BTLF.mdlx/-3.DDS
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_BTLF.mdlx/-3.DDS
+- name: remastered/obj/H_EX500_CA_BTLF.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_BTLF.mdlx/-4.dds
+- name: remastered/obj/H_EX500_CA_BTLF.mdlx/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_BTLF.mdlx/-5.dds
+- name: remastered/obj/H_EX500_CA_MAGF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_MAGF.mdlx/-0.dds
+- name: remastered/obj/H_EX500_CA_MAGF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_MAGF.mdlx/-1.dds
+- name: remastered/obj/H_EX500_CA_MAGF.mdlx/-2.DDS
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_MAGF.mdlx/-2.DDS
+- name: remastered/obj/H_EX500_CA_MAGF.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_MAGF.mdlx/-3.dds
+- name: remastered/obj/H_EX500_CA_MAGF.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_MAGF.mdlx/-4.dds
+- name: remastered/obj/H_EX500_CA_MAGF.mdlx/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_MAGF.mdlx/-5.dds
 - name: remastered/obj/H_EX500_NM.mdlx/-0.DDS
   method: copy
   source:
@@ -3825,6 +3893,54 @@ assets:
   source:
   - name: remastered/obj/H_EX500_ULTF.mdlx/-4.dds
 - name: remastered/obj/H_EX500_ULTF.mdlx/-5.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_ULTF.mdlx/-5.dds
+- name: remastered/obj/H_EX500_CA_TRIF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_TRIF.mdlx/-0.dds
+- name: remastered/obj/H_EX500_CA_TRIF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_TRIF.mdlx/-1.dds
+- name: remastered/obj/H_EX500_CA_TRIF.mdlx/-2.DDS
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_TRIF.mdlx/-2.DDS
+- name: remastered/obj/H_EX500_CA_TRIF.mdlx/-3.DDS
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_TRIF.mdlx/-3.DDS
+- name: remastered/obj/H_EX500_CA_TRIF.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_TRIF.mdlx/-4.dds
+- name: remastered/obj/H_EX500_CA_TRIF.mdlx/-5.DDS
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_TRIF.mdlx/-5.DDS
+- name: remastered/obj/H_EX500_CA_ULTF.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_ULTF.mdlx/-0.dds
+- name: remastered/obj/H_EX500_CA_ULTF.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_ULTF.mdlx/-1.dds
+- name: remastered/obj/H_EX500_CA_ULTF.mdlx/-2.DDS
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_ULTF.mdlx/-2.DDS
+- name: remastered/obj/H_EX500_CA_ULTF.mdlx/-3.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_ULTF.mdlx/-3.dds
+- name: remastered/obj/H_EX500_CA_ULTF.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_ULTF.mdlx/-4.dds
+- name: remastered/obj/H_EX500_CA_ULTF.mdlx/-5.dds
   method: copy
   source:
   - name: remastered/obj/H_EX500_ULTF.mdlx/-5.dds
@@ -4512,6 +4628,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100.a.us/-8.dds
+- name: remastered/obj/P_EX100.a.us/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100.a.us/-9.dds
 - name: remastered/obj/P_EX100.mdlx/-0.dds
   method: copy
   source:
@@ -4540,6 +4660,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_AL_CARPET.a.us/-8.dds
+- name: remastered/obj/P_EX100_AL_CARPET.a.us/-9.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_AL_CARPET.a.us/-9.dds
 - name: remastered/obj/P_EX100_AL_CARPET.mdlx/-0.dds
   method: copy
   source:
@@ -4592,6 +4716,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_HTLF.a.us/-3.dds
+- name: remastered/obj/P_EX100_HTLF.a.us/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_HTLF.a.us/-4.dds
 - name: remastered/obj/P_EX100_HTLF.mdlx/-0.dds
   method: copy
   source:
@@ -4628,6 +4756,10 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_KH1F.a.us/-9.dds
+- name: remastered/obj/P_EX100_KH1F.a.us/-10.dds
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_KH1F.a.us/-10.dds
 - name: remastered/obj/P_EX100_KH1F.mdlx/-0.dds
   method: copy
   source:
@@ -4948,6 +5080,26 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX100_SIDECAR.a.us/-8.png
+- name: remastered/obj/P_EX100_SIDECAR.a.fr/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-9.png
+- name: remastered/obj/P_EX100_SIDECAR.a.gr/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-9.png
+- name: remastered/obj/P_EX100_SIDECAR.a.it/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.it/-9.png
+- name: remastered/obj/P_EX100_SIDECAR.a.sp/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-9.png
+- name: remastered/obj/P_EX100_SIDECAR.a.us/-9.png
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_SIDECAR.a.us/-9.png
 - name: remastered/obj/P_EX100_SIDECAR.mdlx/-0.dds
   method: copy
   source:
@@ -5852,6 +6004,26 @@ assets:
   method: copy
   source:
   - name: remastered/obj/PO07_PLAYER.a.us/-0.png
+- name: remastered/obj/PO07_PLAYER.a.fr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/PO07_PLAYER.a.fr/-1.png
+- name: remastered/obj/PO07_PLAYER.a.gr/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/PO07_PLAYER.a.gr/-1.png
+- name: remastered/obj/PO07_PLAYER.a.it/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/PO07_PLAYER.a.it/-1.png
+- name: remastered/obj/PO07_PLAYER.a.sp/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/PO07_PLAYER.a.sp/-1.png
+- name: remastered/obj/PO07_PLAYER.a.us/-1.png
+  method: copy
+  source:
+  - name: remastered/obj/PO07_PLAYER.a.us/-1.png
 - name: remastered/obj/PO07_PLAYER.mdlx/-0.dds
   method: copy
   source:
@@ -6101,6 +6273,46 @@ assets:
   source:
   - name: remastered/obj/H_EX500_KH1F.mdlx/-3.DDS
 - name: remastered/obj/H_EX500_KH1F.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_KH1F.mdlx/-4.dds
+- name: remastered/obj/H_EX500_CA.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500.mdlx/-0.dds
+- name: remastered/obj/H_EX500_CA.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500.mdlx/-1.dds
+- name: remastered/obj/H_EX500_CA.mdlx/-2.DDS
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500.mdlx/-2.DDS
+- name: remastered/obj/H_EX500_CA.mdlx/-3.DDS
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500.mdlx/-3.DDS
+- name: remastered/obj/H_EX500_CA.mdlx/-4.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500.mdlx/-4.dds
+- name: remastered/obj/H_EX500_CA_KH1F.mdlx/-0.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_KH1F.mdlx/-0.dds
+- name: remastered/obj/H_EX500_CA_KH1F.mdlx/-1.dds
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_KH1F.mdlx/-1.dds
+- name: remastered/obj/H_EX500_CA_KH1F.mdlx/-2.DDS
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_KH1F.mdlx/-2.DDS
+- name: remastered/obj/H_EX500_CA_KH1F.mdlx/-3.DDS
+  method: copy
+  source:
+  - name: remastered/obj/H_EX500_KH1F.mdlx/-3.DDS
+- name: remastered/obj/H_EX500_CA_KH1F.mdlx/-4.dds
   method: copy
   source:
   - name: remastered/obj/H_EX500_KH1F.mdlx/-4.dds
@@ -7352,694 +7564,6 @@ assets:
   method: copy
   source:
   - name: remastered/itempic/item-097.imd/-0.dds
-- name: remastered/menu/fm/sw_010_s.bar/FR_sw_010_s_bar0.dds
-  method: copy
-  source:
-  - name: remastered/menu/fm/sw_010_s.bar/FR_sw_010_s_bar0.dds
-- name: remastered/menu/fm/sw_010_s.bar/GR_sw_010_s_bar0.dds
-  method: copy
-  source:
-  - name: remastered/menu/fm/sw_010_s.bar/GR_sw_010_s_bar0.dds
-- name: remastered/menu/fm/sw_010_s.bar/IT_sw_010_s_bar0.dds
-  method: copy
-  source:
-  - name: remastered/menu/fm/sw_010_s.bar/IT_sw_010_s_bar0.dds
-- name: remastered/menu/fm/sw_010_s.bar/SP_sw_010_s_bar0.dds
-  method: copy
-  source:
-  - name: remastered/menu/fm/sw_010_s.bar/SP_sw_010_s_bar0.dds
-- name: remastered/menu/fm/sw_010_s.bar/US_sw_010_s_bar0.dds
-  method: copy
-  source:
-  - name: remastered/menu/fm/sw_010_s.bar/US_sw_010_s_bar0.dds
-- name: remastered/menu/fm/sw_010_s.bar/UK_sw_010_s_bar0.dds
-  method: copy
-  source:
-  - name: remastered/menu/fm/sw_010_s.bar/UK_sw_010_s_bar0.dds
-- name: remastered/menu/fm/sw_010_s.bar/-0.dds
-  method: copy
-  source:
-  - name: remastered/menu/fm/sw_010_s.bar/-0.dds
-- name: remastered/menu/fm/title.2ld/FR_title_2ld2.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/FR_title_2ld2.png
-- name: remastered/menu/fm/title.2ld/GR_title_2ld2.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/GR_title_2ld2.png
-- name: remastered/menu/fm/title.2ld/IT_title_2ld2.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/IT_title_2ld2.png
-- name: remastered/menu/fm/title.2ld/SP_title_2ld2.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/SP_title_2ld2.png
-- name: remastered/menu/fm/title.2ld/US_title_2ld2.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/US_title_2ld2.png
-- name: remastered/menu/fm/title.2ld/FR_title_2ld0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/FR_title_2ld0.png
-- name: remastered/menu/fm/title.2ld/FR_title_2ld1.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/FR_title_2ld1.png
-- name: remastered/menu/fm/title.2ld/FR_title_2ld3.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/FR_title_2ld3.png
-- name: remastered/menu/fm/title.2ld/FR_title_2ld4.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/FR_title_2ld4.png
-- name: remastered/menu/fm/title.2ld/FR_title_2ld5.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/FR_title_2ld5.png
-- name: remastered/menu/fm/title.2ld/FR_title_2ld6.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/FR_title_2ld6.png
-- name: remastered/menu/fm/title.2ld/FR_title_2ld7.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/FR_title_2ld7.png
-- name: remastered/menu/fm/title.2ld/FR_title_2ld8.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/FR_title_2ld8.png
-- name: remastered/menu/fm/title.2ld/GR_title_2ld0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/GR_title_2ld0.png
-- name: remastered/menu/fm/title.2ld/GR_title_2ld1.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/GR_title_2ld1.png
-- name: remastered/menu/fm/title.2ld/GR_title_2ld3.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/GR_title_2ld3.png
-- name: remastered/menu/fm/title.2ld/GR_title_2ld4.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/GR_title_2ld4.png
-- name: remastered/menu/fm/title.2ld/GR_title_2ld5.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/GR_title_2ld5.png
-- name: remastered/menu/fm/title.2ld/GR_title_2ld6.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/GR_title_2ld6.png
-- name: remastered/menu/fm/title.2ld/GR_title_2ld7.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/GR_title_2ld7.png
-- name: remastered/menu/fm/title.2ld/GR_title_2ld8.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/GR_title_2ld8.png
-- name: remastered/menu/fm/title.2ld/IT_title_2ld0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/IT_title_2ld0.png
-- name: remastered/menu/fm/title.2ld/IT_title_2ld1.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/IT_title_2ld1.png
-- name: remastered/menu/fm/title.2ld/IT_title_2ld3.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/IT_title_2ld3.png
-- name: remastered/menu/fm/title.2ld/IT_title_2ld4.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/IT_title_2ld4.png
-- name: remastered/menu/fm/title.2ld/IT_title_2ld5.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/IT_title_2ld5.png
-- name: remastered/menu/fm/title.2ld/IT_title_2ld6.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/IT_title_2ld6.png
-- name: remastered/menu/fm/title.2ld/IT_title_2ld7.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/IT_title_2ld7.png
-- name: remastered/menu/fm/title.2ld/IT_title_2ld8.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/IT_title_2ld8.png
-- name: remastered/menu/fm/title.2ld/SP_title_2ld0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/SP_title_2ld0.png
-- name: remastered/menu/fm/title.2ld/SP_title_2ld1.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/SP_title_2ld1.png
-- name: remastered/menu/fm/title.2ld/SP_title_2ld3.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/SP_title_2ld3.png
-- name: remastered/menu/fm/title.2ld/SP_title_2ld4.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/SP_title_2ld4.png
-- name: remastered/menu/fm/title.2ld/SP_title_2ld5.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/SP_title_2ld5.png
-- name: remastered/menu/fm/title.2ld/SP_title_2ld6.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/SP_title_2ld6.png
-- name: remastered/menu/fm/title.2ld/SP_title_2ld7.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/SP_title_2ld7.png
-- name: remastered/menu/fm/title.2ld/SP_title_2ld8.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/SP_title_2ld8.png
-- name: remastered/menu/fm/title.2ld/US_title_2ld0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/US_title_2ld0.png
-- name: remastered/menu/fm/title.2ld/US_title_2ld1.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/US_title_2ld1.png
-- name: remastered/menu/fm/title.2ld/US_title_2ld3.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/US_title_2ld3.png
-- name: remastered/menu/fm/title.2ld/US_title_2ld4.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/US_title_2ld4.png
-- name: remastered/menu/fm/title.2ld/US_title_2ld5.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/US_title_2ld5.png
-- name: remastered/menu/fm/title.2ld/US_title_2ld6.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/US_title_2ld6.png
-- name: remastered/menu/fm/title.2ld/US_title_2ld7.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/US_title_2ld7.png
-- name: remastered/menu/fm/title.2ld/US_title_2ld8.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/title.2ld/US_title_2ld8.png
-- name: remastered/menu/fm/ab_010_o.bar/-0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_o.bar/-0.png
-- name: remastered/menu/fm/ab_010_o.bar/FR_ab_010_o_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_o.bar/FR_ab_010_o_bar0.png
-- name: remastered/menu/fm/ab_010_o.bar/GR_ab_010_o_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_o.bar/GR_ab_010_o_bar0.png
-- name: remastered/menu/fm/ab_010_o.bar/IT_ab_010_o_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_o.bar/IT_ab_010_o_bar0.png
-- name: remastered/menu/fm/ab_010_o.bar/SP_ab_010_o_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_o.bar/SP_ab_010_o_bar0.png
-- name: remastered/menu/fm/ab_010_o.bar/UK_ab_010_o_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_o.bar/UK_ab_010_o_bar0.png
-- name: remastered/menu/fm/ab_010_o.bar/US_ab_010_o_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_o.bar/US_ab_010_o_bar0.png
-- name: remastered/menu/fm/ab_010_r.bar/-0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_r.bar/-0.png
-- name: remastered/menu/fm/ab_010_r.bar/FR_ab_010_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_r.bar/FR_ab_010_r_bar0.png
-- name: remastered/menu/fm/ab_010_r.bar/GR_ab_010_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_r.bar/GR_ab_010_r_bar0.png
-- name: remastered/menu/fm/ab_010_r.bar/IT_ab_010_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_r.bar/IT_ab_010_r_bar0.png
-- name: remastered/menu/fm/ab_010_r.bar/SP_ab_010_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_r.bar/SP_ab_010_r_bar0.png
-- name: remastered/menu/fm/ab_010_r.bar/UK_ab_010_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_r.bar/UK_ab_010_r_bar0.png
-- name: remastered/menu/fm/ab_010_r.bar/US_ab_010_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_r.bar/US_ab_010_r_bar0.png
-- name: remastered/menu/fm/ab_010_s.bar/-0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_s.bar/-0.png
-- name: remastered/menu/fm/ab_010_s.bar/FR_ab_010_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_s.bar/FR_ab_010_s_bar0.png
-- name: remastered/menu/fm/ab_010_s.bar/GR_ab_010_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_s.bar/GR_ab_010_s_bar0.png
-- name: remastered/menu/fm/ab_010_s.bar/IT_ab_010_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_s.bar/IT_ab_010_s_bar0.png
-- name: remastered/menu/fm/ab_010_s.bar/SP_ab_010_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_s.bar/SP_ab_010_s_bar0.png
-- name: remastered/menu/fm/ab_010_s.bar/UK_ab_010_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_s.bar/UK_ab_010_s_bar0.png
-- name: remastered/menu/fm/ab_010_s.bar/US_ab_010_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_010_s.bar/US_ab_010_s_bar0.png
-- name: remastered/menu/fm/ab_040_s.bar/-0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_040_s.bar/-0.png
-- name: remastered/menu/fm/ab_040_s.bar/FR_ab_040_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_040_s.bar/FR_ab_040_s_bar0.png
-- name: remastered/menu/fm/ab_040_s.bar/GR_ab_040_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_040_s.bar/GR_ab_040_s_bar0.png
-- name: remastered/menu/fm/ab_040_s.bar/IT_ab_040_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_040_s.bar/IT_ab_040_s_bar0.png
-- name: remastered/menu/fm/ab_040_s.bar/SP_ab_040_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_040_s.bar/SP_ab_040_s_bar0.png
-- name: remastered/menu/fm/ab_040_s.bar/UK_ab_040_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_040_s.bar/UK_ab_040_s_bar0.png
-- name: remastered/menu/fm/ab_040_s.bar/US_ab_040_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_040_s.bar/US_ab_040_s_bar0.png
-- name: remastered/menu/fm/at_010_o.bar/-0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_o.bar/-0.png
-- name: remastered/menu/fm/at_010_o.bar/FR_at_010_o_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_o.bar/FR_at_010_o_bar0.png
-- name: remastered/menu/fm/at_010_o.bar/GR_at_010_o_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_o.bar/GR_at_010_o_bar0.png
-- name: remastered/menu/fm/at_010_o.bar/IT_at_010_o_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_o.bar/IT_at_010_o_bar0.png
-- name: remastered/menu/fm/at_010_o.bar/SP_at_010_o_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_o.bar/SP_at_010_o_bar0.png
-- name: remastered/menu/fm/at_010_o.bar/UK_at_010_o_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_o.bar/UK_at_010_o_bar0.png
-- name: remastered/menu/fm/at_010_o.bar/US_at_010_o_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_o.bar/US_at_010_o_bar0.png
-- name: remastered/menu/fm/at_010_r.bar/-0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_r.bar/-0.png
-- name: remastered/menu/fm/at_010_r.bar/FR_at_010_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_r.bar/FR_at_010_r_bar0.png
-- name: remastered/menu/fm/at_010_r.bar/GR_at_010_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_r.bar/GR_at_010_r_bar0.png
-- name: remastered/menu/fm/at_010_r.bar/IT_at_010_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_r.bar/IT_at_010_r_bar0.png
-- name: remastered/menu/fm/at_010_r.bar/SP_at_010_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_r.bar/SP_at_010_r_bar0.png
-- name: remastered/menu/fm/at_010_r.bar/UK_at_010_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_r.bar/UK_at_010_r_bar0.png
-- name: remastered/menu/fm/at_010_r.bar/US_at_010_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_r.bar/US_at_010_r_bar0.png
-- name: remastered/menu/fm/at_010_s.bar/-0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_s.bar/-0.png
-- name: remastered/menu/fm/at_010_s.bar/FR_at_010_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_s.bar/FR_at_010_s_bar0.png
-- name: remastered/menu/fm/at_010_s.bar/GR_at_010_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_s.bar/GR_at_010_s_bar0.png
-- name: remastered/menu/fm/at_010_s.bar/IT_at_010_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_s.bar/IT_at_010_s_bar0.png
-- name: remastered/menu/fm/at_010_s.bar/SP_at_010_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_s.bar/SP_at_010_s_bar0.png
-- name: remastered/menu/fm/at_010_s.bar/UK_at_010_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_s.bar/UK_at_010_s_bar0.png
-- name: remastered/menu/fm/at_010_s.bar/US_at_010_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_010_s.bar/US_at_010_s_bar0.png
-- name: remastered/menu/fm/eventviewer.2ld/-0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-0.png
-- name: remastered/menu/fm/eventviewer.2ld/-1.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-1.png
-- name: remastered/menu/fm/eventviewer.2ld/-10.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-10.png
-- name: remastered/menu/fm/eventviewer.2ld/-11.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-11.png
-- name: remastered/menu/fm/eventviewer.2ld/-14.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-14.png
-- name: remastered/menu/fm/eventviewer.2ld/-15.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-15.png
-- name: remastered/menu/fm/eventviewer.2ld/-16.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-16.png
-- name: remastered/menu/fm/eventviewer.2ld/-17.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-17.png
-- name: remastered/menu/fm/eventviewer.2ld/-18.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-18.png
-- name: remastered/menu/fm/eventviewer.2ld/-2.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-2.png
-- name: remastered/menu/fm/eventviewer.2ld/-24.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-24.png
-- name: remastered/menu/fm/eventviewer.2ld/-25.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-25.png
-- name: remastered/menu/fm/eventviewer.2ld/-26.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-26.png
-- name: remastered/menu/fm/eventviewer.2ld/-28.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-28.png
-- name: remastered/menu/fm/eventviewer.2ld/-3.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-3.png
-- name: remastered/menu/fm/eventviewer.2ld/-30.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-30.png
-- name: remastered/menu/fm/eventviewer.2ld/-31.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-31.png
-- name: remastered/menu/fm/eventviewer.2ld/-4.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-4.png
-- name: remastered/menu/fm/eventviewer.2ld/-5.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-5.png
-- name: remastered/menu/fm/eventviewer.2ld/-6.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-6.png
-- name: remastered/menu/fm/eventviewer.2ld/-8.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-8.png
-- name: remastered/menu/fm/eventviewer.2ld/-9.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/eventviewer.2ld/-9.png
-- name: remastered/menu/fm/mp_010_s.bar/-0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/mp_010_s.bar/-0.png
-- name: remastered/menu/fm/mp_010_s.bar/FR_mp_010_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/mp_010_s.bar/FR_mp_010_s_bar0.png
-- name: remastered/menu/fm/mp_010_s.bar/GR_mp_010_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/mp_010_s.bar/GR_mp_010_s_bar0.png
-- name: remastered/menu/fm/mp_010_s.bar/IT_mp_010_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/mp_010_s.bar/IT_mp_010_s_bar0.png
-- name: remastered/menu/fm/mp_010_s.bar/SP_mp_010_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/mp_010_s.bar/SP_mp_010_s_bar0.png
-- name: remastered/menu/fm/mp_010_s.bar/UK_mp_010_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/mp_010_s.bar/UK_mp_010_s_bar0.png
-- name: remastered/menu/fm/mp_010_s.bar/US_mp_010_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/mp_010_s.bar/US_mp_010_s_bar0.png
-- name: remastered/menu/fm/ab_020_r.bar/FR_ab_020_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_020_r.bar/FR_ab_020_r_bar0.png
-- name: remastered/menu/fm/ab_020_r.bar/GR_ab_020_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_020_r.bar/GR_ab_020_r_bar0.png
-- name: remastered/menu/fm/ab_020_r.bar/IT_ab_020_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_020_r.bar/IT_ab_020_r_bar0.png
-- name: remastered/menu/fm/ab_020_r.bar/SP_ab_020_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_020_r.bar/SP_ab_020_r_bar0.png
-- name: remastered/menu/fm/ab_020_r.bar/UK_ab_020_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_020_r.bar/UK_ab_020_r_bar0.png
-- name: remastered/menu/fm/ab_020_r.bar/US_ab_020_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_020_r.bar/US_ab_020_r_bar0.png
-- name: remastered/menu/fm/ab_020_r.bar/-0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_020_r.bar/-0.png
-- name: remastered/menu/fm/ab_020_s.bar/FR_ab_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_020_s.bar/FR_ab_020_s_bar0.png
-- name: remastered/menu/fm/ab_020_s.bar/GR_ab_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_020_s.bar/GR_ab_020_s_bar0.png
-- name: remastered/menu/fm/ab_020_s.bar/IT_ab_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_020_s.bar/IT_ab_020_s_bar0.png
-- name: remastered/menu/fm/ab_020_s.bar/SP_ab_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_020_s.bar/SP_ab_020_s_bar0.png
-- name: remastered/menu/fm/ab_020_s.bar/UK_ab_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_020_s.bar/UK_ab_020_s_bar0.png
-- name: remastered/menu/fm/ab_020_s.bar/US_ab_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_020_s.bar/US_ab_020_s_bar0.png
-- name: remastered/menu/fm/ab_020_s.bar/-0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/ab_020_s.bar/-0.png
-- name: remastered/menu/fm/at_020_r.bar/FR_at_020_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_020_r.bar/FR_at_020_r_bar0.png
-- name: remastered/menu/fm/at_020_r.bar/GR_at_020_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_020_r.bar/GR_at_020_r_bar0.png
-- name: remastered/menu/fm/at_020_r.bar/IT_at_020_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_020_r.bar/IT_at_020_r_bar0.png
-- name: remastered/menu/fm/at_020_r.bar/SP_at_020_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_020_r.bar/SP_at_020_r_bar0.png
-- name: remastered/menu/fm/at_020_r.bar/UK_at_020_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_020_r.bar/UK_at_020_r_bar0.png
-- name: remastered/menu/fm/at_020_r.bar/US_at_020_r_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_020_r.bar/US_at_020_r_bar0.png
-- name: remastered/menu/fm/at_020_r.bar/-0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_020_r.bar/-0.png
-- name: remastered/menu/fm/at_020_s.bar/FR_at_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_020_s.bar/FR_at_020_s_bar0.png
-- name: remastered/menu/fm/at_020_s.bar/GR_at_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_020_s.bar/GR_at_020_s_bar0.png
-- name: remastered/menu/fm/at_020_s.bar/IT_at_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_020_s.bar/IT_at_020_s_bar0.png
-- name: remastered/menu/fm/at_020_s.bar/SP_at_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_020_s.bar/SP_at_020_s_bar0.png
-- name: remastered/menu/fm/at_020_s.bar/UK_at_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_020_s.bar/UK_at_020_s_bar0.png
-- name: remastered/menu/fm/at_020_s.bar/US_at_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_020_s.bar/US_at_020_s_bar0.png
-- name: remastered/menu/fm/at_020_s.bar/-0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/at_020_s.bar/-0.png
-- name: remastered/menu/fm/mp_020_s.bar/FR_mp_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/mp_020_s.bar/FR_mp_020_s_bar0.png
-- name: remastered/menu/fm/mp_020_s.bar/GR_mp_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/mp_020_s.bar/GR_mp_020_s_bar0.png
-- name: remastered/menu/fm/mp_020_s.bar/IT_mp_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/mp_020_s.bar/IT_mp_020_s_bar0.png
-- name: remastered/menu/fm/mp_020_s.bar/SP_mp_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/mp_020_s.bar/SP_mp_020_s_bar0.png
-- name: remastered/menu/fm/mp_020_s.bar/UK_mp_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/mp_020_s.bar/UK_mp_020_s_bar0.png
-- name: remastered/menu/fm/mp_020_s.bar/US_mp_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/mp_020_s.bar/US_mp_020_s_bar0.png
-- name: remastered/menu/fm/mp_020_s.bar/-0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/mp_020_s.bar/-0.png
-- name: remastered/menu/fm/sw_020_s.bar/FR_sw_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/sw_020_s.bar/FR_sw_020_s_bar0.png
-- name: remastered/menu/fm/sw_020_s.bar/GR_sw_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/sw_020_s.bar/GR_sw_020_s_bar0.png
-- name: remastered/menu/fm/sw_020_s.bar/IT_sw_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/sw_020_s.bar/IT_sw_020_s_bar0.png
-- name: remastered/menu/fm/sw_020_s.bar/SP_sw_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/sw_020_s.bar/SP_sw_020_s_bar0.png
-- name: remastered/menu/fm/sw_020_s.bar/UK_sw_020_s_bar0.dds
-  method: copy
-  source:
-  - name: remastered/menu/fm/sw_020_s.bar/UK_sw_020_s_bar0.dds
-- name: remastered/menu/fm/sw_020_s.bar/US_sw_020_s_bar0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/sw_020_s.bar/US_sw_020_s_bar0.png
-- name: remastered/menu/fm/sw_020_s.bar/-0.png
-  method: copy
-  source:
-  - name: remastered/menu/fm/sw_020_s.bar/-0.png
 - name: remastered/menu/it/eventviewer.2ld/-18.png
   method: copy
   source:
@@ -8196,18 +7720,6 @@ assets:
   method: copy
   source:
   - name: remastered/menu/it/title.2ld/IT_title_2ld8.png
-- name: remastered/menu/it/title.2ld/IT_title_2ld11.png
-  method: copy
-  source:
-  - name: remastered/menu/it/title.2ld/IT_title_2ld11.png
-- name: remastered/menu/it/title.2ld/IT_title_2ld9.png
-  method: copy
-  source:
-  - name: remastered/menu/it/title.2ld/IT_title_2ld9.png
-- name: remastered/menu/it/title.2ld/IT_title_2ld10.png
-  method: copy
-  source:
-  - name: remastered/menu/it/title.2ld/IT_title_2ld10.png
 - name: remastered/menu/it/ab_010_o.bar/IT_ab_010_o_bar0.png
   method: copy
   source:
@@ -8336,18 +7848,6 @@ assets:
   method: copy
   source:
   - name: remastered/menu/fr/title.2ld/FR_title_2ld8.png
-- name: remastered/menu/fr/title.2ld/FR_title_2ld9.png
-  method: copy
-  source:
-  - name: remastered/menu/fr/title.2ld/FR_title_2ld9.png
-- name: remastered/menu/fr/title.2ld/FR_title_2ld10.png
-  method: copy
-  source:
-  - name: remastered/menu/fr/title.2ld/FR_title_2ld10.png
-- name: remastered/menu/fr/title.2ld/FR_title_2ld11.png
-  method: copy
-  source:
-  - name: remastered/menu/fr/title.2ld/FR_title_2ld11.png
 - name: remastered/menu/fr/ab_010_o.bar/FR_ab_010_o_bar0.png
   method: copy
   source:
@@ -8740,18 +8240,6 @@ assets:
   method: copy
   source:
   - name: remastered/menu/us/title.2ld/US_title_2ld8.png
-- name: remastered/menu/us/title.2ld/US_title_2ld9.png
-  method: copy
-  source:
-  - name: remastered/menu/us/title.2ld/US_title_2ld9.png
-- name: remastered/menu/us/title.2ld/US_title_2ld10.png
-  method: copy
-  source:
-  - name: remastered/menu/us/title.2ld/US_title_2ld10.png
-- name: remastered/menu/us/title.2ld/US_title_2ld11.png
-  method: copy
-  source:
-  - name: remastered/menu/us/title.2ld/US_title_2ld11.png
 - name: remastered/menu/us/ab_010_o.bar/US_ab_010_o_bar0.png
   method: copy
   source:
@@ -9076,18 +8564,6 @@ assets:
   method: copy
   source:
   - name: remastered/menu/sp/title.2ld/SP_title_2ld8.png
-- name: remastered/menu/sp/title.2ld/SP_title_2ld11.png
-  method: copy
-  source:
-  - name: remastered/menu/sp/title.2ld/SP_title_2ld11.png
-- name: remastered/menu/sp/title.2ld/SP_title_2ld9.png
-  method: copy
-  source:
-  - name: remastered/menu/sp/title.2ld/SP_title_2ld9.png
-- name: remastered/menu/sp/title.2ld/SP_title_2ld10.png
-  method: copy
-  source:
-  - name: remastered/menu/sp/title.2ld/SP_title_2ld10.png
 - name: remastered/menu/gr/ab_010_o.bar/GR_ab_010_o_bar0.png
   method: copy
   source:
@@ -9328,18 +8804,6 @@ assets:
   method: copy
   source:
   - name: remastered/menu/gr/title.2ld/GR_title_2ld8.png
-- name: remastered/menu/gr/title.2ld/GR_title_2ld9.png
-  method: copy
-  source:
-  - name: remastered/menu/gr/title.2ld/GR_title_2ld9.png
-- name: remastered/menu/gr/title.2ld/GR_title_2ld10.png
-  method: copy
-  source:
-  - name: remastered/menu/gr/title.2ld/GR_title_2ld10.png
-- name: remastered/menu/gr/title.2ld/GR_title_2ld11.png
-  method: copy
-  source:
-  - name: remastered/menu/gr/title.2ld/GR_title_2ld11.png
 - name: remastered/menu/uk/ab_010_o.bar/UK_ab_010_o_bar0.png
   method: copy
   source:
@@ -11592,7 +11056,15 @@ assets:
   method: copy
   source:
   - name: remastered/obj/B_EX110_LV99.a.us/voice/battle/us/n_axel_re
+- name: voice/us/battle/n_axel_re.win32.scd
+  method: copy
+  source:
+  - name: remastered/obj/B_EX110_LV99.a.us/voice/battle/us/n_axel_re
 - name: remastered/obj/B_EX130.a.us/voice/battle/us/n_dragoon
+  method: copy
+  source:
+  - name: remastered/obj/B_EX130.a.us/voice/battle/us/n_dragoon
+- name: voice/us/battle/n_dragoon.win32.scd
   method: copy
   source:
   - name: remastered/obj/B_EX130.a.us/voice/battle/us/n_dragoon
@@ -11604,11 +11076,19 @@ assets:
   method: copy
   source:
   - name: remastered/obj/B_EX150.a.us/voice/battle/us/n_gambler
+- name: voice/us/battle/n_gambler.win32.scd
+  method: copy
+  source:
+  - name: remastered/obj/B_EX150.a.us/voice/battle/us/n_gambler
 - name: remastered/obj/B_EX150_LV99.a.us/voice/battle/us/n_gambler
   method: copy
   source:
   - name: remastered/obj/B_EX150_LV99.a.us/voice/battle/us/n_gambler
 - name: remastered/obj/B_EX160.a.us/voice/battle/us/n_berserker
+  method: copy
+  source:
+  - name: remastered/obj/B_EX160.a.us/voice/battle/us/n_berserker
+- name: voice/us/battle/n_berserker.win32.scd
   method: copy
   source:
   - name: remastered/obj/B_EX160.a.us/voice/battle/us/n_berserker
@@ -11620,7 +11100,15 @@ assets:
   method: copy
   source:
   - name: remastered/obj/B_EX170.a.us/voice/battle/us/n_xemnas
+- name: voice/us/battle/n_xemnas.win32.scd
+  method: copy
+  source:
+  - name: remastered/obj/B_EX170.a.us/voice/battle/us/n_xemnas
 - name: remastered/obj/B_EX170_LAST.a.fr/voice/battle/us/n_xemnas_last
+  method: copy
+  source:
+  - name: remastered/obj/B_EX170_LAST.a.fr/voice/battle/us/n_xemnas_last
+- name: voice/us/battle/n_xemnas_last.win32.scd
   method: copy
   source:
   - name: remastered/obj/B_EX170_LAST.a.fr/voice/battle/us/n_xemnas_last
@@ -11668,7 +11156,15 @@ assets:
   method: copy
   source:
   - name: remastered/obj/B_EX180.a.us/voice/battle/us/big_xemnas
+- name: voice/us/battle/big_xemnas.win32.scd
+  method: copy
+  source:
+  - name: remastered/obj/B_EX180.a.us/voice/battle/us/big_xemnas
 - name: remastered/obj/N_HB040_BTL.a.fr/voice/battle/us/stitch
+  method: copy
+  source:
+  - name: remastered/obj/N_HB040_BTL.a.fr/voice/battle/us/stitch
+- name: voice/us/battle/stitch.win32.scd
   method: copy
   source:
   - name: remastered/obj/N_HB040_BTL.a.fr/voice/battle/us/stitch
@@ -11696,7 +11192,15 @@ assets:
   method: copy
   source:
   - name: remastered/obj/N_HB550_BTL2.a.us/voice/battle/us/cloud
+- name: voice/us/battle/cloud.win32.scd
+  method: copy
+  source:
+  - name: remastered/obj/N_HB550_BTL2.a.us/voice/battle/us/cloud
 - name: remastered/obj/N_HB570_BTL.a.us/voice/battle/us/tifa
+  method: copy
+  source:
+  - name: remastered/obj/N_HB570_BTL.a.us/voice/battle/us/tifa
+- name: voice/us/battle/tifa.win32.scd
   method: copy
   source:
   - name: remastered/obj/N_HB570_BTL.a.us/voice/battle/us/tifa
@@ -11708,11 +11212,19 @@ assets:
   method: copy
   source:
   - name: remastered/obj/N_HB580_BTL.a.us/voice/battle/us/yufi
+- name: voice/us/battle/yufi.win32.scd
+  method: copy
+  source:
+  - name: remastered/obj/N_HB580_BTL.a.us/voice/battle/us/yufi
 - name: remastered/obj/N_HB580_BTL2.a.us/voice/battle/us/yufi
   method: copy
   source:
   - name: remastered/obj/N_HB580_BTL2.a.us/voice/battle/us/yufi
 - name: remastered/obj/N_HE010_BTL.a.us/voice/battle/us/hercules
+  method: copy
+  source:
+  - name: remastered/obj/N_HE010_BTL.a.us/voice/battle/us/hercules
+- name: voice/us/battle/hercules.win32.scd
   method: copy
   source:
   - name: remastered/obj/N_HE010_BTL.a.us/voice/battle/us/hercules
@@ -11724,7 +11236,15 @@ assets:
   method: copy
   source:
   - name: remastered/obj/N_HE020_BTL.a.us/voice/battle/us/phil
+- name: voice/us/battle/phil.win32.scd
+  method: copy
+  source:
+  - name: remastered/obj/N_HE020_BTL.a.us/voice/battle/us/phil
 - name: remastered/obj/N_HE030_BTL.a.us/voice/battle/us/he18_megara
+  method: copy
+  source:
+  - name: remastered/obj/N_HE030_BTL.a.us/voice/battle/us/he18_megara
+- name: voice/us/battle/he18_megara.win32.scd
   method: copy
   source:
   - name: remastered/obj/N_HE030_BTL.a.us/voice/battle/us/he18_megara
@@ -11732,7 +11252,15 @@ assets:
   method: copy
   source:
   - name: remastered/obj/N_LK010_BTL.a.us/voice/battle/us/timon
+- name: voice/us/battle/timon.win32.scd
+  method: copy
+  source:
+  - name: remastered/obj/N_LK010_BTL.a.us/voice/battle/us/timon
 - name: remastered/obj/N_LK020_BTL.a.us/voice/battle/us/pumbaa
+  method: copy
+  source:
+  - name: remastered/obj/N_LK020_BTL.a.us/voice/battle/us/pumbaa
+- name: voice/us/battle/pumbaa.win32.scd
   method: copy
   source:
   - name: remastered/obj/N_LK020_BTL.a.us/voice/battle/us/pumbaa
@@ -11740,7 +11268,15 @@ assets:
   method: copy
   source:
   - name: remastered/obj/N_PO010_BTL.a.us/voice/battle/us/pooh
+- name: voice/us/battle/pooh.win32.scd
+  method: copy
+  source:
+  - name: remastered/obj/N_PO010_BTL.a.us/voice/battle/us/pooh
 - name: remastered/obj/N_PO020_BTL.a.us/voice/battle/us/tigger
+  method: copy
+  source:
+  - name: remastered/obj/N_PO020_BTL.a.us/voice/battle/us/tigger
+- name: voice/us/battle/tigger.win32.scd
   method: copy
   source:
   - name: remastered/obj/N_PO020_BTL.a.us/voice/battle/us/tigger
@@ -11748,7 +11284,15 @@ assets:
   method: copy
   source:
   - name: remastered/obj/N_PO030_BTL.a.us/voice/battle/us/piglet
+- name: voice/us/battle/piglet.win32.scd
+  method: copy
+  source:
+  - name: remastered/obj/N_PO030_BTL.a.us/voice/battle/us/piglet
 - name: remastered/obj/N_PO040_BTL.a.us/voice/battle/us/eeyore
+  method: copy
+  source:
+  - name: remastered/obj/N_PO040_BTL.a.us/voice/battle/us/eeyore
+- name: voice/us/battle/eeyore.win32.scd
   method: copy
   source:
   - name: remastered/obj/N_PO040_BTL.a.us/voice/battle/us/eeyore
@@ -11756,11 +11300,23 @@ assets:
   method: copy
   source:
   - name: remastered/obj/N_PO070_BTL.a.us/voice/battle/us/roo
+- name: voice/us/battle/roo.win32.scd
+  method: copy
+  source:
+  - name: remastered/obj/N_PO070_BTL.a.us/voice/battle/us/roo
 - name: remastered/obj/P_AL010.a.us/voice/battle/us/genie
   method: copy
   source:
   - name: remastered/obj/P_AL010.a.us/voice/battle/us/genie
+- name: voice/us/battle/genie.win32.scd
+  method: copy
+  source:
+  - name: remastered/obj/P_AL010.a.us/voice/battle/us/genie
 - name: remastered/obj/P_EX200.a.fr/voice/battle/us/micky
+  method: copy
+  source:
+  - name: remastered/obj/P_EX200.a.fr/voice/battle/us/micky
+- name: voice/us/battle/micky.win32.scd
   method: copy
   source:
   - name: remastered/obj/P_EX200.a.fr/voice/battle/us/micky
@@ -11808,10 +11364,18 @@ assets:
   method: copy
   source:
   - name: remastered/obj/P_EX330.a.us/voice/battle/us/peterpan
-- name: remastered/obj/P_EX350.a.fr/voice/battle/us/chicken_little.scd
+- name: voice/us/battle/peterpan.win32.scd
   method: copy
   source:
-  - name: remastered/obj/P_EX350.a.fr/voice/battle/us/chicken_little.scd
+  - name: remastered/obj/P_EX330.a.us/voice/battle/us/peterpan
+- name: remastered/obj/P_EX350.a.fr/voice/battle/us/chicken_little
+  method: copy
+  source:
+  - name: remastered/obj/P_EX350.a.fr/voice/battle/us/chicken_little
+- name: voice/us/battle/chicken_little.win32.scd
+  method: copy
+  source:
+  - name: remastered/obj/P_EX350.a.fr/voice/battle/us/chicken_little
 - name: remastered/obj/P_EX350.a.gr/voice/battle/us/chicken_little
   method: copy
   source:
@@ -11853,6 +11417,10 @@ assets:
   source:
   - name: remastered/obj/PO08_N_PO070.a.us/voice/battle/us/roo
 - name: remastered/obj/P_EX100_CA_BTLF.a.us/voice/battle/us/fxion
+  method: copy
+  source:
+  - name: remastered/obj/P_EX100_CA_BTLF.a.us/voice/battle/us/fxion
+- name: voice/us/battle/fxion.win32.scd
   method: copy
   source:
   - name: remastered/obj/P_EX100_CA_BTLF.a.us/voice/battle/us/fxion
